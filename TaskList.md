@@ -18,5 +18,5 @@
 - [ ] Admin panel
 - [ ] FAQ
 
-[23]: https://img.shields.io/badge/1.0.23-grey?style=plastic
+[23]: https://img.shields.io/badge/DONE-1.0.23-grey?style=flat&labelColor=green
 [23-link]: https://github.com/Tiarait/HTTP-FS-file-server/blob/main/Changelog.md#1023
