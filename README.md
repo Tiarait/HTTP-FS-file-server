@@ -3,7 +3,6 @@
 
 
 # HTTP FS - Android App
-Requires Android 5.0+
 
 <img src="/screenshots/play_store_512.png" align="left"
 width="250" hspace="10" vspace="10">
@@ -36,12 +35,13 @@ HTTP FS file server is a free application, making it accessible to anyone who wa
 The android app lets you:
 - Create local http server.
 - Supports webdaw api.
+- Supports SSL(https) connection.
 - Completely ad-free.
 - Simple logs to see who is using the server.
 - Server can start on boot device.
 - Switch between language.
 - Selecting a starting file, like index.html.
-- Set password and session time for security.
+- Set password and session time for more security.
 ## Screenshots
 [<img src="/screenshots/1.webp" align="left"
 width="200"
@@ -58,7 +58,7 @@ width="200"
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/Tiarait/HTTP-FS-file-server/issues
-[version-shield]: https://img.shields.io/badge/Version-1.0.22-blue?style=for-the-badge
+[version-shield]: https://img.shields.io/badge/Version-1.0.23-blue?style=for-the-badge
 [gp-url]: https://play.google.com/store/apps/details?id=tiar.ua.slf
 [youtube-shield]: https://img.shields.io/badge/-YOUTUBE-red.svg?style=for-the-badge&logo=youtube&colorB=red
 [youtube-url]: https://www.youtube.com/watch?v=inPCdfxVXMg
