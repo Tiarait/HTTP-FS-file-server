@@ -46,9 +46,6 @@ The android app lets you:
 [<img src="/screenshots/1.webp" align="left"
 width="200"
     hspace="10" vspace="10">](/screenshots/1.webp)
-[<img src="/screenshots/2.webp" align="center"
-width="200"
-    hspace="10" vspace="10">](/screenshots/2.webp)
 [<img src="/screenshots/4.webp" align="center"
 width="200"
     hspace="10" vspace="10">](/screenshots/4.webp)
