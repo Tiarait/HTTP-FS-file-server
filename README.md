@@ -44,13 +44,13 @@ The android app lets you:
 - Set password and session time for more security.
 ## Screenshots
 [<img src="/screenshots/1.webp" align="left"
-width="200"
+width="25%"
     hspace="10" vspace="10">](/screenshots/1.webp)
 [<img src="/screenshots/4.webp" align="center"
-width="200"
+width="25%"
     hspace="10" vspace="10">](/screenshots/4.webp)
 [<img src="/screenshots/5.webp" align="center"
-width="200"
+width="25%"
     hspace="10" vspace="10">](/screenshots/5.webp)
 
 
