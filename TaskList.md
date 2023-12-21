@@ -8,6 +8,7 @@
 - [ ] Day/Nigt theme
 - [ ] Custom headers
 - [ ] FTP server
+- [ ] Proxy server
 - [ ] Redesign web version
 - [ ] Rest Api
 - [ ] Public server
@@ -15,7 +16,11 @@
 - [ ] Working with the archive
 - [ ] Moving the files
 - [ ] Folder tree
+- [ ] Block Ip adress
 - [ ] Admin panel
+  - [ ] Execute comand like adb
+  - [ ] Block Ip adress
+  - [ ] Server settings
 - [ ] FAQ
 
 [23]: https://img.shields.io/badge/DONE-1.0.23-grey?style=flat&labelColor=green
