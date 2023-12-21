@@ -5,7 +5,7 @@
 # HTTP FS - Android App
 
 <img src="/screenshots/play_store_512.png" align="left"
-width="250" hspace="10" vspace="10">
+width="25%" hspace="10" vspace="10">
 
 This is a http, webdav server for sharing files between users on a Wi-Fi network.
 The online file sharing application works like a local HTTP server.
@@ -17,7 +17,7 @@ You can also use app like webdav server.
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=tiar.ua.slf">
     <img alt="Get it on Google Play"
-        height="80"
+        height="73"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>  
 </p>
