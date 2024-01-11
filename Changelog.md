@@ -1,3 +1,18 @@
+## 1.0.24
+- [![][new]](#1.0.24) Added SSL (https) connection.
+- [![][new]](#1.0.24) Added html view for webdav.
+- [![][new]](#1.0.24) For client side added grid view.
+- [![][new]](#1.0.24) For client side added sorting, selecters.
+- [![][new]](#1.0.24) For client side added uploading folder.
+- [![][new]](#1.0.24) For client side added download as .zip.
+- [![][new]](#1.0.24) For client side added mass delete.
+- [![][new]](#1.0.24) For client side added simple review text files.
+- [![][new]](#1.0.24) Added welcome dialog message
+- [![][hotfix]](#1.0.24) Fixed crash when server stoped (https).
+- [![][fix]](#1.0.24) Fixed controls on video and audio.
+- [![][hotfix]](#1.0.24) Fixed time responce.
+- [![][edit]](#1.0.24) Redesign client side html.
+- [![][edit]](#1.0.24) Separately removed the functions of folder size and thumbnails.
 ## 1.0.23
 - [![][new]](#1.0.23) Added SSL (https) connection.
 - [![][new]](#1.0.23) Added Spanish and French languages.
