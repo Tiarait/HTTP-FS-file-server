@@ -2,7 +2,7 @@
 [![Русский корабль, иди на хуй!](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-[![Issues][issues-shield]][issues-url] [![Version][version-shield]][gp-url] [![Android][android-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url]
+[![Issues][issues-shield]][issues-url] [![Version][version-shield]][gp-url] [![Android][android-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url]
 
 
 # HTTP FS - Android App
@@ -45,6 +45,7 @@ The android app lets you:
 - Switch between language.
 - Selecting a starting file, like index.html.
 - Set password and session time for more security.
+- Downloads folders and files like .zip.
 ## Screenshots
 [<img src="/screenshots/1.webp" align="left"
 width="20%"
@@ -56,15 +57,24 @@ width="20%"
 width="20%"
     hspace="10" vspace="10">](/screenshots/5.webp)
 
+    
+[<img src="/screenshots/recording.gif" align="center"
+width="67%"
+    hspace="10" vspace="10">](/screenshots/recording.gif)
+
 
 [linkedin-url]: https://linkedin.com/in/tiarait
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [issues-shield]: https://img.shields.io/github/issues/Tiarait/HTTP-FS-file-server.svg?style=for-the-badge
 [issues-url]: https://github.com/Tiarait/HTTP-FS-file-server/issues
-[version-shield]: https://img.shields.io/badge/Version-1.0.23-blue?style=for-the-badge
+[version-shield]: https://img.shields.io/badge/Version-1.0.24-blue?style=for-the-badge
 [gp-url]: https://play.google.com/store/apps/details?id=tiar.ua.slf
 [youtube-shield]: https://img.shields.io/badge/-YOUTUBE-red.svg?style=for-the-badge&logo=youtube&colorB=red
 [youtube-url]: https://www.youtube.com/watch?v=inPCdfxVXMg
+
+[coffee-shield]: https://img.shields.io/badge/-Bye_me_a_coffee-red.svg?style=for-the-badge&logo=buymeacoffee&colorB=grey
+[coffee-url]: https://www.buymeacoffee.com/tiarapps
+
 [android-shield]: https://img.shields.io/badge/Android-5.0+-green?style=for-the-badge
 
     
