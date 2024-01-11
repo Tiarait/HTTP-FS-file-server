@@ -1,5 +1,4 @@
 ## 1.0.24
-- [![][new]](#1.0.24) Added SSL (https) connection.
 - [![][new]](#1.0.24) Added html view for webdav.
 - [![][new]](#1.0.24) For client side added grid view.
 - [![][new]](#1.0.24) For client side added sorting, selecters.
