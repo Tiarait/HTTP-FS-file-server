@@ -67,7 +67,7 @@ width="67%"
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [issues-shield]: https://img.shields.io/github/issues/Tiarait/HTTP-FS-file-server.svg?style=for-the-badge
 [issues-url]: https://github.com/Tiarait/HTTP-FS-file-server/issues
-[version-shield]: https://img.shields.io/badge/Version-1.0.24-blue?style=for-the-badge
+[version-shield]: https://img.shields.io/badge/Version-1.0.25-blue?style=for-the-badge
 [gp-url]: https://play.google.com/store/apps/details?id=tiar.ua.slf
 [youtube-shield]: https://img.shields.io/badge/-YOUTUBE-red.svg?style=for-the-badge&logo=youtube&colorB=red
 [youtube-url]: https://www.youtube.com/watch?v=inPCdfxVXMg
