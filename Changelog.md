@@ -1,3 +1,5 @@
+## 1.0.25
+- [![][hotfix]](#1.0.24) Fixed crash on dialog welcome message.
 ## 1.0.24
 - [![][new]](#1.0.24) Added html view for webdav.
 - [![][new]](#1.0.24) For client side added grid view.
