@@ -1,3 +1,8 @@
+## 1.0.27
+- [![][new]](#1.0.27) Added RSS for folders.
+- [![][new]](#1.0.27) Added support for recording to SD card.
+- [![][new]](#1.0.27) Added support for writing USB cards.
+- [![][fix]](#1.0.27) Fixed transition back/next to the client page.
 ## 1.0.26
 - [![][new]](#1.0.26) Added Vietnamese language.
 - [![][fix]](#1.0.26) Fixed webdav style.
