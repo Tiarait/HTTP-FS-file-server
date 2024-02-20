@@ -1,3 +1,6 @@
+## 1.0.29
+- [![][fix]](#1.0.29) Fixed video rewind.
+- [![][fix]](#1.0.29) Fixed the server name.
 ## 1.0.28
 - [![][new]](#1.0.28) Added Japanese, Korean, Hindi languages.
 - [![][new]](#1.0.28) Added IP selection function (example if you only need localhost).
