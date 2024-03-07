@@ -9,7 +9,7 @@
 - [ ] Custom headers
 - [ ] FTP server
 - [ ] Proxy server
-- [ ] Redesign web version
+- [x] Redesign (90% done)
 - [ ] Rest Api
 - [ ] Public server
 - [ ] Pro version App
@@ -22,6 +22,7 @@
   - [ ] Block Ip adress
   - [ ] Server settings
 - [ ] FAQ
+- [ ] Sync folders
 
 [23]: https://img.shields.io/badge/DONE-1.0.23-grey?style=flat&labelColor=green
 [23-link]: https://github.com/Tiarait/HTTP-FS-file-server/blob/main/Changelog.md#1023
