@@ -5,24 +5,27 @@
 > It’s also a priority to make a plus version for more incentive
 
 - [x] Added SSL (Https) [![][23]][23-link] 
-- [ ] Day/Nigt theme
+- [x] Day/Nigt theme (added for client)
 - [ ] Custom headers
 - [ ] FTP server
 - [ ] Proxy server
-- [x] Redesign (90% done)
-- [ ] Rest Api
+- [x] Redesign [![][1-2]][1-2-link] 
+- [x] Rest Api (done but not public)
 - [ ] Public server
-- [ ] Pro version App
+- [x] Pro version App [![][1-2]][1-2-link] 
 - [ ] Working with the archive
 - [ ] Moving the files
-- [ ] Folder tree
+- [x] Folder tree [![][1-2]][1-2-link] 
 - [ ] Block Ip adress
 - [ ] Admin panel
   - [ ] Execute comand like adb
   - [ ] Block Ip adress
   - [ ] Server settings
 - [ ] FAQ
-- [ ] Sync folders
+- [ ] ~~Sync folders~~ (impossible without a client on PC)
 
 [23]: https://img.shields.io/badge/DONE-1.0.23-grey?style=flat&labelColor=green
 [23-link]: https://github.com/Tiarait/HTTP-FS-file-server/blob/main/Changelog.md#1023
+
+[1-2]: https://img.shields.io/badge/DONE-1.1.2-grey?style=flat&labelColor=green
+[1-2-link]: https://github.com/Tiarait/HTTP-FS-file-server/blob/main/Changelog.md#112
