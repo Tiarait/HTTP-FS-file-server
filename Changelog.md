@@ -1,3 +1,11 @@
+## 1.1.2
+- [![][new]](#1.1.2) Redesign.
+- [![][new]](#1.1.2) Added more settings.
+- [![][new]](#1.1.2) Added more more logs (all logs).
+- [![][new]](#1.1.2) Added check connection socket.
+- [![][fix]](#1.1.2) Fixed initial file.
+- [![][fix]](#1.1.2) Fixed problem when server down.
+- [![][pro]](#1.1.2) Pro version.
 ## 1.0.29
 - [![][fix]](#1.0.29) Fixed video rewind.
 - [![][fix]](#1.0.29) Fixed the server name.
@@ -52,3 +60,4 @@
 [hotfix]: https://img.shields.io/badge/FIX-red?style=plastic
 [new]: https://img.shields.io/badge/NEW-green?style=plastic
 [edit]: https://img.shields.io/badge/EDIT-blue?style=plastic
+[pro]: https://img.shields.io/badge/PRO-0bc600?style=plastic
