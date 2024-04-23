@@ -1,8 +1,7 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-[![Русский корабль, иди на хуй!](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-[![Issues][issues-shield]][issues-url] [![Android][android-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url]
+[![Issues][issues-shield]][issues-url] [![Android][android-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url] [![Stand With Ukraine][stand-with-ukraine]][stand-with-ukraine-url]
 
 
 # HTTP FS - Android App
@@ -62,6 +61,9 @@ width="20%"
 width="67%"
     hspace="10" vspace="10">](/screenshots/recording.gif)
 
+## License
+
+HTTP FS is released under the [Apache-2.0](LICENSE).
 
 [linkedin-url]: https://linkedin.com/in/tiarait
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
@@ -76,5 +78,8 @@ width="67%"
 [coffee-url]: https://www.buymeacoffee.com/tiarapps
 
 [android-shield]: https://img.shields.io/badge/Android-5.0+-green?style=for-the-badge
+[stand-with-ukraine]: https://img.shields.io/badge/Stand_With-Ukraine-yellow?style=for-the-badge&labelColor=blue
+[stand-with-ukraine-url]: https://vshymanskyy.github.io/StandWithUkraine
+
 
     
