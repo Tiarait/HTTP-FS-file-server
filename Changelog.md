@@ -1,3 +1,7 @@
+## 1.1.6
+- [![][fix]](#1.1.6) Fixed display of a large list of files in the client tree.
+- [![][fix]](#1.1.6) Optimization of display of a large number of files in the client.
+- [![][new]](#1.1.6) Added the ability to move files.
 ## 1.1.4
 - [![][fix]](#1.1.4) Fixed WebDav.
 ## 1.1.3
