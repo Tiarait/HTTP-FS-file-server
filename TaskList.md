@@ -14,7 +14,7 @@
 - [ ] Public server
 - [x] Pro version App [![][1-2]][1-2-link] 
 - [ ] Working with the archive
-- [ ] Moving the files
+- [ ] Moving the files [![][1-6]][1-6-link] 
 - [x] Folder tree [![][1-2]][1-2-link] 
 - [ ] Block Ip adress
 - [ ] Admin panel
@@ -29,3 +29,5 @@
 
 [1-2]: https://img.shields.io/badge/DONE-1.1.2-grey?style=flat&labelColor=green
 [1-2-link]: https://github.com/Tiarait/HTTP-FS-file-server/blob/main/Changelog.md#112
+[1-6]: https://img.shields.io/badge/DONE-1.1.6-grey?style=flat&labelColor=green
+[1-6-link]: https://github.com/Tiarait/HTTP-FS-file-server/blob/main/Changelog.md#116
