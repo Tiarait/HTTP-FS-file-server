@@ -1,3 +1,5 @@
+## 1.1.7
+- [![][new]](#1.1.7) Added ads in free version.
 ## 1.1.6
 - [![][fix]](#1.1.6) Fixed display of a large list of files in the client tree.
 - [![][fix]](#1.1.6) Optimization of display of a large number of files in the client.
