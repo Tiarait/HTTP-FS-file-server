@@ -38,7 +38,7 @@ The android app lets you:
 - Create local http server.
 - Supports webdaw api.
 - Supports SSL(https) connection.
-- Completely ad-free.
+- ~~Completely ad-free~~. [![][pro]](https://play.google.com/store/apps/details?id=tiar.ua.slf.pro)
 - Simple logs to see who is using the server.
 - Server can start on boot device.
 - Switch between language.
@@ -81,5 +81,5 @@ HTTP FS is released under the [Apache-2.0](LICENSE).
 [stand-with-ukraine]: https://img.shields.io/badge/Stand_With-Ukraine-yellow?style=for-the-badge&labelColor=blue
 [stand-with-ukraine-url]: https://vshymanskyy.github.io/StandWithUkraine
 
-
+[pro]: https://img.shields.io/badge/PRO-0bc600?style=plastic
     
