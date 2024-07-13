@@ -49,12 +49,12 @@ The android app lets you:
 [<img src="/screenshots/1.webp" align="left"
 width="20%"
     hspace="10" vspace="10">](/screenshots/1.webp)
+[<img src="/screenshots/2.webp" align="center"
+width="20%"
+    hspace="10" vspace="10">](/screenshots/2.webp)
 [<img src="/screenshots/4.webp" align="center"
 width="20%"
     hspace="10" vspace="10">](/screenshots/4.webp)
-[<img src="/screenshots/5.webp" align="center"
-width="20%"
-    hspace="10" vspace="10">](/screenshots/5.webp)
 
     
 [<img src="/screenshots/recording.gif" align="center"
