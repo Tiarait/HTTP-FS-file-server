@@ -1,20 +1,20 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-[![Issues][issues-shield]][issues-url] [![Android][android-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url]
+[![Issues][issues-shield]][issues-url] [![Android][android-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url] [![Desktop][desktop-shield]][desktop-url]
 
 
 # HTTP FS - Android App
 
-<img src="/screenshots/play_store_512.png" align="left"
-width="25%" hspace="10" vspace="10">
+[<img src="/screenshots/play_store_512.png" align="left"
+width="25%" hspace="10" vspace="10">](#)
 
 This is a http, webdav server for sharing files between users on a Wi-Fi network.
 The online file sharing application works like a local HTTP server.
 
 You can run a server on a Wi-Fi network or create a hotspot and share files by selecting any available folder on your device and providing users on the network with a link to your HTTP server or by scanning a QR code.
 
-You can also use app like webdav server.
+You can also use app like webdav server. Also avalaible on [desktop](https://github.com/Tiarait/HTTP-FS-Desktop)
 
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=tiar.ua.slf">
@@ -80,6 +80,9 @@ HTTP FS is released under the [Apache-2.0](LICENSE).
 [android-shield]: https://img.shields.io/badge/Android-5.0+-green?style=for-the-badge
 [stand-with-ukraine]: https://img.shields.io/badge/Stand_With-Ukraine-yellow?style=for-the-badge&labelColor=blue
 [stand-with-ukraine-url]: https://vshymanskyy.github.io/StandWithUkraine
+
+[desktop-shield]: https://img.shields.io/badge/-Desktop-red.svg?style=for-the-badge&logo=gnometerminal&colorB=grey
+[desktop-url]: https://github.com/Tiarait/HTTP-FS-Desktop/
 
 [pro]: https://img.shields.io/badge/PRO-0bc600?style=plastic
     
