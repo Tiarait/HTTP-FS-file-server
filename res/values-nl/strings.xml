@@ -1,0 +1,169 @@
+<resources>
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="menu_about">Over</string>
+    <string name="version">Versie %s</string>
+    <string name="menu_logs">Logs</string>
+    <string name="menu_web">Web</string>
+
+    <string name="share">Gedeeld</string>
+    <string name="status_server">Server:</string>
+    <string name="status_wifi">WiFi:</string>
+    <string name="status_port">Poort:</string>
+
+    <string name="msg_permissions">Rechten moeten worden verleend om de applicatie goed te laten werken.</string>
+    <string name="msg_permissions_notif">Je kunt notificatiepermissies geven om de applicatie goed te laten werken. Je kunt het ook later alsnog configureren.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_settings">Instellingen</string>
+    <string name="btn_exit">Sluiten</string>
+    <string name="btn_later">Later</string>
+
+    <string name="setting_port_title">POORT</string>
+    <string name="setting_name_title">Name</string>
+
+    <string name="setting_cat_app">Applicatieinstellingen</string>
+    <string name="setting_cat_server">Server instellingen</string>
+
+    <string name="setting_path_title">Locatie</string>
+
+    <string name="setting_file_title">Initieel bestand</string>
+
+    <string name="setting_secure_title">Gebruik wachtwoord</string>
+    <string name="setting_pass_title">Wachtwoord</string>
+    <string name="setting_session_title">Sessietijd (min)</string>
+    <string name="setting_permission_title">Rechten</string>
+    <string name="setting_permission_val_read">Lezen</string>
+    <string name="setting_permission_val_write">Schrijven</string>
+
+    <string name="setting_servtype_title">Server type</string>
+
+
+    <string name="setting_start_app_title">Start server met het apparaat</string>
+    <string name="setting_start_app_desc">Deze functie werken niet op alle apparaten and kan extra rechten nodig hebben.</string>
+    <string name="under_develop">onder ontwikkeling</string>
+    <string name="setting_start_server_title">Start server met app</string>
+
+    <string name="setting_feedback_title">Reageren</string>
+
+
+    <string name="msg_click_to_start_server">Click hier om de bestandsserver te starten</string>
+    <string name="msg_click_to_show_info">End hier om informatie te zien of QR</string>
+
+    <string name="error_permission">Fout, geen rechten!</string>
+    <string name="error_wifi_disable">WiFi lijkt uitgeschakeld!</string>
+    <string name="error_wifi_disable_text">Om de server te gebruiken moeten gebruikers op hetzelfde netwerk zitten.</string>
+
+
+    <string name="html_server_home">Bestanden</string>
+    <string name="html_server_upload">Bestand uploaden</string>
+    <string name="html_server_folder">Map</string>
+    <string name="html_server_files">bestanden</string>
+    <string name="html_server_name">Naam</string>
+    <string name="html_server_size">Grootte</string>
+    <string name="html_server_date">Datum</string>
+    <string name="str_server_cancel">Annuleren</string>
+    <string name="str_server_uploading">Uploading</string>
+    <string name="str_server_warn_save">Dit bestand kan niet worden geopend. Wil je het <b>OPSLAAN</b>?</string>
+    <string name="str_server_yes">Ja</string>
+    <string name="str_server_no">Nee</string>
+    <string name="str_server_rename">Hernoem</string>
+    <string name="str_server_move">Verplaats</string>
+    <string name="str_server_downzip">Download als zip</string>
+    <string name="str_server_down">Download</string>
+    <string name="str_server_delete">Verwijder</string>
+    <string name="str_create_folder">Maak map</string>
+    <string name="str_create_file">Maak bestand</string>
+    <string name="long_copy">Lang ingedrukt houden om te kopieren</string>
+    <string name="copied">Gekopieerd</string>
+    <string name="file_is_empty">Bestand is leeg</string>
+    <string name="delete_log_file">Verwijder logbestand?</string>
+    <string name="long_filer_click">Langzaam klikken om het filter te verwijderen</string>
+    <string name="logs_paused">Logs worden gepauzeerd op dit moment.\nJe kan logs uitschakelen in instellingen</string>
+
+    <string name="lang_select">Selecteer taal</string>
+    <string name="lang_def">Standaard</string>
+
+    <string name="stop">Stop</string>
+    <string name="server_running">"Server runt "</string>
+
+    <string name="logout">Logout</string>
+    <string name="d_logout_users">Alle gebruikers uitloggen?</string>
+
+    <string name="rate_five_stars">Rate deze app</string>
+    <string name="more_apps">Meer apps van mij</string>
+    <string name="about_text">Hallo allemaal, Ik ben een ontwikkelaar uit Oekraine. Als je een suggestie hebt voor een app of samen wil werken - stuur mij een bericht. Vergeet niet de app te raten - alleen dit motiveert mij er aan te werken.</string>
+    <string name="about_me">Over maker</string>
+    <string name="home">Home</string>
+    <string name="refresh">Ververs</string>
+    <string name="certificate">Certificaat</string>
+    <string name="certificate_exp">Exporteer certificaat</string>
+
+    <string name="setting_cat_client">Client instellingen</string>
+    <string name="setting_cat_battery">Batterijgebruik</string>
+    <string name="setting_battery_title">Batterijrechten</string>
+    <string name="setting_folder_size_title">Verkrijg grootte van map</string>
+    <string name="setting_thumbnails_title">Verkrijg thumbails</string>
+    <string name="setting_welcome_msg_title">Welkom dialoogbericht</string>
+    <string name="setting_welcome_msg_summ">Houd leeg om te verbergen</string>
+    <string name="html_server_type">Type</string>
+    <string name="html_server_view">Weergave</string>
+    <string name="html_server_view_list">Lijst</string>
+    <string name="html_server_view_grid">Raster</string>
+    <string name="html_server_sorting">Sorteren</string>
+    <string name="html_server_selected">Geselecteerd</string>
+    <string name="html_server_select">Selecteer</string>
+    <string name="html_server_download_zip">Download als .zip</string>
+    <string name="about_app">Over app</string>
+    <string name="give_coffee">Geef mij een koffie</string>
+    <string name="html_server_msg"><![CDATA[<h2>Welkom!</h2><div style="text-align: justify;">Als je de applicatie leuk vindt, Je kan mij steunen <a href="https://tiarait.github.io/?id=donate" target="_blank">is een eenvoudige manier voor je</a>. Je vindt hier ook nieuws, wijzigingen en foutrapportage op <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>.</div>]]></string>
+
+    <string name="dialog_write_protection">Schrijfbeveiliging!</string>
+    <string name="dialog_write_protection_unmount">De SD-kaart lijkt niet te zijn gekoppeld. Probeer een andere SD-kaart.\n\n</string>
+    <string name="dialog_write_protection_wrong">Het lijkt erop dat je de verkeerde map hebt gekozen.\n\n</string>
+    <string name="dialog_write_protection_error">Geen activiteit gevonden om naar actie te handelen\nACTION_OPEN_DOCUMENT_TREE\n\nDit apparaat lijkt geen ondersteuning te bieden voor Android Storage Access Framework</string>
+    <string name="dialog_write_protection_text">Op Android ≥ 5, de externe SD-kaart is tegen schrijven beveiligd. Je moet de map kiezen via een speciaal Android dialoog om HTTP FS schrijfrechten te geven. \n\nIn het volgende dialog, ga naar de hoofddirectory van de SD-kaart en klik op de knop beneden, <b>«Selecteer»</b></string>
+    <string name="btn_retry">Probeer opnieuw</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>Welcome to the PRO version!</h2><div>For any problems or suggestions, you can write to <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=Hello." target="_blank">tiar.develop@gmail.com</a>.</div>]]></string>
+    <string name="vibro">Hapticsvibratie</string>
+    <string name="blur">Vervaging in dialogen</string>
+    <string name="permissions">Permissies</string>
+    <string name="setting_perm_folder_title">Rechten voor mappen</string>
+    <string name="setting_cat_server_interface">Koppelingen</string>
+    <string name="setting_cat_server_security">Beveiliging</string>
+    <string name="open_link">Open link?</string>
+    <string name="open_link_d">De link word geopend in je standaardbrowser wat geen onderdeel is van deze app</string>
+    <string name="login">Login</string>
+    <string name="login_to">Login om verder te gaan</string>
+    <string name="login_name">Login</string>
+    <string name="upload">Upload</string>
+    <string name="create">Maak</string>
+    <string name="theme">Thema</string>
+    <string name="on_full_screen">Op volledig scherm</string>
+    <string name="in_new_tab">In nieuw tabblad</string>
+    <string name="file">Bestand</string>
+    <string name="server_offline">Server is offline</string>
+    <string name="repeat">Herhaal</string>
+    <string name="hide">Verberg</string>
+    <string name="cancel_all">Annuleer alle</string>
+    <string name="clear_cache">Leeg cache</string>
+    <string name="hide_files">Verberg bestanden</string>
+    <string name="add">Toevoegen</string>
+    <string name="pro_version">De Pro-versie is beschikbaar op Google Play.</string>
+    <string name="path_file_title">Pad naar bestand</string>
+    <string name="hard_redirect">Harde doorverwijzing</string>
+
+    <string name="exit_app">App sluiten?</string>
+    <string name="exit_app_final">Sluit app volldig (stop alle achtergrondprocessen)?</string>
+    <string name="dialog_filepermission_title">Heeft rechten nodig</string>
+    <string name="dialog_filepermission_summary">De app heeft rechten tot het bestandssysteem van het apparaat om te kunnen functioneren. \nDe hoofdfunctie van deze app is het start van een Http/WebDAV bestandsserver wat jou toegang geeft om je apparaat te beheren.</string>
+
+    <string name="setting_redirects_title">Doorverwijzingen</string>
+
+    <string name="users">Gebruikers</string>
+    <string name="user">Gebruiker</string>
+    <string name="from">Van</string>
+    <string name="to">naar</string>
+    <string name="file_or_url">Bestand or url</string>
+    <string name="check_connection_socket">Controleer verbinding</string>
+</resources>
