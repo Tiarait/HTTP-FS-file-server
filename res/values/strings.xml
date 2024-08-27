@@ -43,6 +43,7 @@
 
     <string name="lang_bg" translatable="false">Български</string>
     <string name="lang_de" translatable="false">Deutsch</string>
+    <string name="lang_nl" translatable="false">Dutch</string>
     <string name="lang_en" translatable="false">English</string>
     <string name="lang_es" translatable="false">Español</string>
     <string name="lang_fr" translatable="false">Français</string>
