@@ -1,3 +1,9 @@
+## 1.1.8
+- [![][new]](#1.1.8) Added Dutch language (thx [GerbenAaltink](https://github.com/Tiarait/HTTP-FS-file-server/pull/48)).
+- [![][new]](#1.1.8) Added redirections (steel on testing).
+- [![][new]](#1.1.8) Added users (login/pass/permissions).
+- [![][fix]](#1.1.8) Small fixes on client side.
+- [![][dev]](#1.1.8) Raised versions of libraries.
 ## 1.1.7
 - [![][new]](#1.1.7) Added ads in free version.
 ## 1.1.6
