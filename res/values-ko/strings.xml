@@ -1,0 +1,164 @@
+<resources>
+    <string name="menu_home">홈</string>
+    <string name="menu_settings">설정</string>
+    <string name="menu_about">정보</string>
+    <string name="version">버전 %s</string>
+    <string name="menu_logs">로그</string>
+    <string name="menu_web">웹</string>
+
+    <string name="share">공유</string>
+    <string name="status_server">서버:</string>
+    <string name="status_wifi">WiFi:</string>
+    <string name="status_port">포트:</string>
+
+    <string name="msg_permissions">애플리케이션의 정상 작동에 필요한 권한이 있어야 합니다.</string>
+    <string name="msg_permissions_notif">애플리케이션이 정상적으로 작동하려면 알림 허용이 필요합니다. 나중에 설정할 수도 있습니다(이는 기능에 영향을 주지 않습니다).</string>
+    <string name="btn_ok">확인</string>
+    <string name="btn_settings">설정</string>
+    <string name="btn_exit">종료</string>
+    <string name="btn_later">나중에</string>
+
+    <string name="setting_port_title">포트</string>
+    <string name="setting_name_title">이름</string>
+
+    <string name="setting_cat_app">앱 설정</string>
+    <string name="setting_cat_server">서버 설정</string>
+
+    <string name="setting_path_title">폴더 경로</string>
+
+    <string name="setting_file_title">초기 파일</string>
+
+    <string name="setting_secure_title">비밀번호 사용</string>
+    <string name="setting_pass_title">비밀번호</string>
+    <string name="setting_session_title">세션 시간(분)</string>
+    <string name="setting_permission_title">권한</string>
+    <string name="setting_permission_val_read">읽기</string>
+    <string name="setting_permission_val_write">쓰기</string>
+
+    <string name="setting_servtype_title">서버 유형</string>
+
+    <string name="setting_start_app_title">장치와 함께 서버 시작</string>
+    <string name="setting_start_app_desc">이 기능은 일부 장치에서 작동하지 않을 수 있으며, 일부 장치에서는 추가 시스템 권한이 필요할 수 있습니다.</string>
+    <string name="under_develop">개발 중</string>
+    <string name="setting_start_server_title">앱으로 서버 시작</string>
+
+    <string name="setting_feedback_title">피드백</string>
+
+
+    <string name="msg_click_to_start_server">여기를 클릭하여 파일 서버를 시작하세요</string>
+    <string name="msg_click_to_show_info">정보 또는 QR을 표시하려면 여기를 클릭하세요</string>
+
+    <string name="error_permission">오류: 권한 없음!</string>
+    <string name="error_wifi_disable">WiFi가 비활성화된 것 같습니다!</string>
+    <string name="error_wifi_disable_text">서버를 사용하려면 사용자가 동일한 Wi-Fi 네트워크에 연결되어 있어야 합니다.</string>
+
+
+    <string name="html_server_home">파일</string>
+    <string name="html_server_upload">파일 업로드</string>
+    <string name="html_server_folder">폴더</string>
+    <string name="html_server_files">파일</string>
+    <string name="html_server_name">이름</string>
+    <string name="html_server_size">크기</string>
+    <string name="html_server_date">날짜</string>
+    <string name="str_server_cancel">취소</string>
+    <string name="str_server_uploading">업로드 중</string>
+    <string name="str_server_warn_save">이 파일을 열 수 없습니다. 저장하시겠습니까?</string>
+    <string name="str_server_yes">예</string>
+    <string name="str_server_no">아니오</string>
+    <string name="str_server_rename">이름 변경</string>
+    <string name="str_server_move">이동</string>
+    <string name="str_server_downzip">zip 파일로 다운로드</string>
+    <string name="str_server_down">다운로드</string>
+    <string name="str_server_delete">삭제</string>
+    <string name="str_create_folder">폴더 생성</string>
+    <string name="str_create_file">파일 생성</string>
+    <string name="long_copy">복사하려면 길게 누르세요</string>
+    <string name="copied">복사됨</string>
+    <string name="file_is_empty">파일이 비어 있습니다</string>
+    <string name="delete_log_file">로그 파일을 삭제하시겠습니까?</string>
+    <string name="long_filer_click">필터를 지우려면 길게 클릭하세요</string>
+    <string name="logs_paused">이 시간에는 로그가 일시 중지됩니다.\n설정에서 로그를 비활성화할 수 있습니다</string>
+
+    <string name="lang_select">언어 선택</string>
+    <string name="lang_def">기본값</string>
+
+    <string name="stop">중지</string>
+    <string name="server_running">"서버 실행 중 "</string>
+
+    <string name="logout">로그아웃</string>
+    <string name="d_logout_users">모든 사용자 로그아웃 하시겠습니까?</string>
+
+    <string name="rate_five_stars">이 앱 평가하기</string>
+    <string name="more_apps">나의 다른 앱</string>
+    <string name="about_text">안녕하세요, 저는 우크라이나 출신 개발자입니다. 앱이나 협력에 대한 제안이 있으면 저에게 연락해주세요. 앱을 평가하는 것만이 앱 개발을 계속 진행하는 동기가 됩니다.</string>
+    <string name="about_me">저자 소개</string>
+    <string name="home">홈</string>
+    <string name="refresh">새로 고침</string>
+    <string name="certificate">인증서</string>
+    <string name="certificate_exp">인증서 내보내기</string>
+
+    <string name="setting_cat_client">클라이언트 설정</string>
+    <string name="setting_cat_battery">배터리 소비</string>
+    <string name="setting_battery_title">배터리 권한</string>
+    <string name="setting_folder_size_title">폴더 크기 가져오기</string>
+    <string name="setting_thumbnails_title">썸네일 가져오기</string>
+    <string name="setting_welcome_msg_title">환영 대화 상자 메시지</string>
+    <string name="setting_welcome_msg_summ">숨기려면 공백으로 만듭니다</string>
+    <string name="html_server_type">유형</string>
+    <string name="html_server_view">보기</string>
+    <string name="html_server_view_list">목록</string>
+    <string name="html_server_view_grid">그리드</string>
+    <string name="html_server_sorting">정렬</string>
+    <string name="html_server_selected">선택됨</string>
+    <string name="html_server_select">선택</string>
+    <string name="html_server_download_zip">.zip으로 다운로드</string>
+    <string name="about_app">앱 정보</string>
+    <string name="give_coffee">커피 사주기</string>
+    <string name="html_server_msg"><![CDATA[<h2>환영합니다!</h2><div style="text-align: justify;">애플리케이션을 마음에 드셨다면, <a href="https://tiarait.github.io/?id=donate" target="_blank">편리한 방법으로</a> 저를 지원할 수 있습니다. <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>에서 업데이트, 변경 사항 및 버그에 대한 모든 소식을 확인할 수도 있습니다.</div>]]></string>
+
+    <string name="dialog_write_protection">쓰기 보호!</string>
+    <string name="dialog_write_protection_unmount">SD 카드가 마운트 해제되었습니다. 다른 카드를 선택하는 것이 좋습니다.\n\n</string>
+    <string name="dialog_write_protection_wrong">잘못된 폴더를 선택한 것 같습니다.\n\n</string>
+    <string name="dialog_write_protection_error">인텐트를 처리할 활동을 찾을 수 없습니다\nACTION_OPEN_DOCUMENT_TREE\n\n이 장치는 Android 저장소 액세스 프레임워크를 지원하지 않는 것으로 보입니다</string>
+    <string name="dialog_write_protection_text">Android 5 이상에서는 외부 SD 카드가 쓰기 보호됩니다. HTTP FS 쓰기 권한을 부여하려면 특별한 Android 대화 상자에서 디렉터리를 선택해야 합니다.\n\n다음 대화 상자에서 외부 SD 카드의 루트로 이동한 다음, 아래쪽의 <b>「선택」</b> 버튼을 클릭하십시오.</string>
+    <string name="btn_retry">재시도</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>PRO 버전에 오신 것을 환영합니다!</h2><div>문제 또는 제안이 있으시면 <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=안녕하세요." target="_blank">tiar.develop@gmail.com</a>으로 문의 주시기 바랍니다.</div>]]></string>
+    <string name="vibro">진동 햅틱</string>
+    <string name="blur">대화 상자에서 흐림</string>
+    <string name="permissions">권한</string>
+    <string name="setting_perm_folder_title">폴더 권한</string>
+    <string name="setting_cat_server_interface">인터페이스</string>
+    <string name="setting_cat_server_security">보안</string>
+    <string name="open_link">링크 열기?</string>
+    <string name="open_link_d">링크는 애플리케이션과 관련이 없는 기본 브라우저에서 열립니다</string>
+    <string name="login">로그인</string>
+    <string name="login_to">계속하려면 로그인하세요</string>
+    <string name="login_name">로그인</string>
+    <string name="upload">업로드</string>
+    <string name="create">만들기</string>
+    <string name="theme">테마</string>
+    <string name="on_full_screen">전체 화면으로</string>
+    <string name="in_new_tab">새 탭에서</string>
+    <string name="file">파일</string>
+    <string name="server_offline">서버가 오프라인 상태입니다</string>
+    <string name="repeat">반복</string>
+    <string name="hide">숨기기</string>
+    <string name="cancel_all">모두 취소</string>
+    <string name="clear_cache">캐시 지우기</string>
+    <string name="hide_files">파일 숨기기</string>
+    <string name="add">추가</string>
+    <string name="pro_version">Pro 버전은 Google Play에서 이용할 수 있습니다.</string>
+    <string name="path_file_title">파일 경로</string>
+    <string name="hard_redirect">하드 리디렉션</string>
+
+    <string name="exit_app">응용 프로그램을 종료하시겠습니까?</string>
+    <string name="exit_app_final">응용 프로그램을 완전히 종료하시겠습니까 (모든 실행 중인 프로세스를 중지하시겠습니까)?</string>
+    <string name="dialog_filepermission_title">권한 필요</string>
+    <string name="dialog_filepermission_summary">응용 프로그램이 제대로 작동하려면 장치의 파일 시스템에 대한 액세스가 필요합니다. \n응용 프로그램의 주요 기능은 Http/WebDAV 파일 서버를 시작하여 장치의 파일 시스템을 관리할 수 있도록 하는 것입니다.</string>
+
+    <string name="setting_redirects_title">리디렉션</string>
+
+    <string name="users">사용자</string>
+    <string name="user">사용자</string>
+</resources>

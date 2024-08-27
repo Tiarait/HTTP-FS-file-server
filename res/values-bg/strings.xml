@@ -1,0 +1,157 @@
+<resources>
+    <string name="menu_home">Начало</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_about">Относно</string>
+    <string name="version">Версия %s</string>
+    <string name="menu_logs">Логи</string>
+    <string name="menu_web">Уеб</string>
+
+    <string name="share">Споделяне</string>
+    <string name="status_server">Сървър:</string>
+    <string name="status_wifi">ВайФай:</string>
+    <string name="status_port">Порт:</string>
+
+    <string name="msg_permissions">Правата за достъп трябва да бъдат предоставени на приложението за правилна работа.</string>
+    <string name="btn_ok">ОК</string>
+    <string name="btn_exit">Изход</string>
+
+    <string name="setting_port_title">Порт</string>
+
+    <string name="setting_cat_app">Настройки на приложението</string>
+    <string name="setting_cat_server">Настройки на сървъра</string>
+
+    <string name="setting_path_title">Път на директория</string>
+
+    <string name="setting_file_title">Първоначален файл</string>
+    <string name="setting_secure_title">Използване на парола</string>
+    <string name="setting_pass_title">Парола</string>
+    <string name="setting_session_title">Време на сесията (мин)</string>
+    <string name="setting_permission_title">Разрешения</string>
+    <string name="setting_permission_val_read">Четене</string>
+    <string name="setting_permission_val_write">Писане</string>
+
+    <string name="setting_servtype_title">Тип сървър</string>
+    <string name="setting_start_app_title">Стартиране на сървър с устройство</string>
+    <string name="setting_start_server_title">Стартиране на сървър с приложение</string>
+
+
+    <string name="error_permission">Грешка, няма разрешение!</string>
+
+
+    <string name="html_server_home">Файлове</string>
+    <string name="html_server_upload">Качване на файл</string>
+    <string name="html_server_folder">Папка</string>
+    <string name="html_server_files">файлове</string>
+    <string name="html_server_name">Моето име</string>
+    <string name="html_server_size">Размер</string>
+    <string name="html_server_date">Дата</string>
+    <string name="str_server_cancel">Отказ</string>
+    <string name="str_server_uploading">Качване</string>
+    <string name="str_server_warn_save">Този файл не може да бъде отворен. Искате ли да го <b>ЗАПАЗИТЕ</b>?</string>
+    <string name="str_server_yes">Да</string>
+    <string name="str_server_no">Не</string>
+    <string name="str_server_rename">Преименуване</string>
+    <string name="str_server_move">Преместване</string>
+    <string name="str_server_downzip">Изтегляне като zip</string>
+    <string name="str_server_down">Изтегляне</string>
+    <string name="str_server_delete">Изтриване</string>
+    <string name="str_create_folder">Създаване на папка</string>
+    <string name="str_create_file">Създаване на файл</string>
+    <string name="long_copy">Задръжте за копиране</string>
+    <string name="copied">Копирано</string>
+
+    <string name="file_is_empty">Файлът е празен</string>
+    <string name="delete_log_file">Изтриване на регистрационния файл?</string>
+    <string name="long_filer_click">Щракнете дълго, за да изчистите филтъра</string>
+    <string name="logs_paused">Записите ще бъдат поставени на пауза през това време.\nМожете да деактивирате регистрационните файлове в настройките.</string>
+    <string name="lang_select">Изберете език</string>
+    <string name="lang_def">По подразбиране</string>
+    <string name="stop">Спри</string>
+    <string name="server_running">"Сървърът работи "</string>
+    <string name="setting_start_app_desc">Тази функция може да не работи на някои устройства, и някои устройства може да изискват допълнителни системни разрешения.</string>
+    <string name="under_develop">в процес на разработка</string>
+    <string name="error_wifi_disable">Изглежда, че WiFi е деактивиран!</string>
+    <string name="error_wifi_disable_text">За да използвате сървъра, потребителите трябва да са в една и съща Wi-Fi мрежа.</string>
+    <string name="btn_settings">Настройки</string>
+    <string name="msg_click_to_start_server">Щракнете тук, за да стартирате файловия сървър</string>
+    <string name="msg_click_to_show_info">И тук, за да покаже информация или QR</string>
+    <string name="setting_feedback_title">Обратна връзка</string>
+    <string name="btn_later">По късно</string>
+    <string name="msg_permissions_notif">Можете да дадете разрешение на известията, за да може приложението да работи правилно. Или отложете за по-късно (това не засяга функционалността)</string>
+    <string name="rate_five_stars">Оценете това приложение</string>
+    <string name="more_apps">Още приложения от мен</string>
+    <string name="about_text">Здравейте на всички, аз съм разработчик от Украйна. Ако имате някакви предложения за приложение или сътрудничество - пишете ми. Не забравяйте да оцените приложението - само това ви мотивира да продължите да работите по приложението.</string>
+    <string name="about_me">За автора</string>
+    <string name="home">Към основния</string>
+    <string name="refresh">Опресняване</string>
+    <string name="setting_name_title">Моето име</string>
+    <string name="logout">Излез от профила си</string>
+    <string name="d_logout_users">Искате ли да излезете от всички потребители?</string>
+    <string name="certificate">Сертификат за износ</string>
+    <string name="certificate_exp">Сертификат за износ</string>
+
+    <string name="setting_cat_client">Настройки на клиента</string>
+    <string name="setting_cat_battery">Разход на батерията</string>
+    <string name="setting_battery_title">Разрешения за батерия</string>
+    <string name="setting_folder_size_title">Вземете размера на папката</string>
+    <string name="setting_thumbnails_title">Вземете миниатюри</string>
+    <string name="setting_welcome_msg_title">Съобщение за добре дошли</string>
+    <string name="setting_welcome_msg_summ">Направете го празно, за да го скриете</string>
+    <string name="html_server_type">Тип</string>
+    <string name="html_server_view">Изглед</string>
+    <string name="html_server_view_list">Списък</string>
+    <string name="html_server_view_grid">Решетка</string>
+    <string name="html_server_sorting">Сортиране</string>
+    <string name="html_server_selected">Избрано</string>
+    <string name="html_server_select">Изберете</string>
+    <string name="html_server_download_zip">Изтегли като .zip</string>
+    <string name="about_app">Относно приложението</string>
+    <string name="give_coffee">Подарете за кафе</string>
+    <string name="html_server_msg"><![CDATA[<h2>Добре дошли!</h2><div style="text-align: justify;">Ако приложението Ви е харесало, можете да ме подкрепите <a href="https://tiarait.github.io/?id=donate" target="_blank">по удобен за Вас начин</a>. Можете също така да намерите всички новини за актуализации, промени и грешки в <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>.</div>]]></string>
+
+    <string name="dialog_write_protection">Защита срещу запис!</string>
+    <string name="dialog_write_protection_unmount">Изглежда, че SD картата не е монтирана. Препоръчително е да изберете друга карта.\n\n</string>
+    <string name="dialog_write_protection_wrong">Изглежда, че сте избрали грешната папка.\n\n</string>
+    <string name="dialog_write_protection_error">Не е намерена активност за обработка\nACTION_OPEN_DOCUMENT_TREE\n\nТози устройство не поддържа Android Storage Access Framework</string>
+    <string name="dialog_write_protection_text">При Android ≥ 5 външната SD карта е защитена срещу запис. Трябва да изберете директорията от специален диалог на Android, за да предоставите права за запис на HTTP FS. \n\nВ следващия диалог, моля, отидете до основната директория на външната SD карта и кликнете в долната част на бутона <b>«Изберете»</b></string>
+    <string name="btn_retry">Повторен опит</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>Добре дошли в PRO версията!</h2><div>За всички проблеми или предложения можете да пишете на адрес <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=Здравейте." target="_blank">tiar.develop@gmail.com</a>.</div>]]></string>
+    <string name="vibro">Хаптична вибрация</string>
+    <string name="blur">Размазване в диалози</string>
+    <string name="permissions">Разрешения</string>
+    <string name="setting_perm_folder_title">Разрешения за папки</string>
+    <string name="setting_cat_server_interface">Интерфейси</string>
+    <string name="setting_cat_server_security">Сигурност</string>
+    <string name="open_link">Отвори връзката?</string>
+    <string name="open_link_d">Връзката ще се отвори във вашия браузър по подразбиране, който не е свързан с приложението</string>
+    <string name="login">Вход</string>
+    <string name="login_name">Логин</string>
+    <string name="login_to">Влезте, за да продължите</string>
+    <string name="upload">Качване</string>
+    <string name="create">Създаване</string>
+    <string name="theme">Тема</string>
+    <string name="on_full_screen">На цял екран</string>
+    <string name="in_new_tab">В нов раздел</string>
+    <string name="file">Файл</string>
+    <string name="server_offline">Сървърът е недостъпен</string>
+    <string name="repeat">Повторение</string>
+    <string name="hide">Скриване</string>
+    <string name="cancel_all">Откажи всичко</string>
+    <string name="clear_cache">Изчисти кеша</string>
+    <string name="hide_files">Скриване на файловете</string>
+    <string name="add">Добавяне</string>
+    <string name="pro_version">Pro версията е налична в Google Play.</string>
+    <string name="path_file_title">Път до файла</string>
+    <string name="hard_redirect">Твърдо пренасочване</string>
+
+    <string name="exit_app">Изход от приложението?</string>
+    <string name="exit_app_final">Да излезете напълно от приложението (спрете всички работещи процеси)?</string>
+    <string name="dialog_filepermission_title">Необходимо е разрешение</string>
+    <string name="dialog_filepermission_summary">Приложението изисква достъп до файловата система на устройството, за да функционира. \nОсновната функция на приложението е стартирането на файлов сървър Http/WebDAV, който ви позволява да управлявате файловата система на вашето устройство.</string>
+
+    <string name="setting_redirects_title">Пренасочвания</string>
+
+    <string name="users">Потребители</string>
+    <string name="user">Потребител</string>
+</resources>

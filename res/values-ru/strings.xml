@@ -1,0 +1,157 @@
+<resources>
+    <string name="menu_home">Головна</string>
+    <string name="menu_settings">Налаштування</string>
+    <string name="menu_about">Інфо</string>
+    <string name="version">Версія %s</string>
+    <string name="menu_logs">Логи</string>
+    <string name="menu_web">Веб</string>
+
+    <string name="share">Поділитися</string>
+    <string name="status_server">Сервер:</string>
+    <string name="status_wifi">ВайФай:</string>
+    <string name="status_port">Порт:</string>
+
+    <string name="msg_permissions">Для коректної роботи додатку необхідно надати права доступу.</string>
+    <string name="btn_ok">Ок</string>
+    <string name="btn_exit">Вихід</string>
+
+    <string name="setting_port_title">Порт</string>
+    <string name="setting_name_title">Ім\'я</string>
+
+    <string name="setting_cat_app">Налаштування додатку</string>
+    <string name="setting_cat_server">Налаштування сервера</string>
+
+    <string name="setting_path_title">Шлях до директорії</string>
+
+    <string name="setting_file_title">Початковий файл</string>
+    <string name="setting_secure_title">Використати пароль</string>
+    <string name="setting_pass_title">Пароль</string>
+    <string name="setting_session_title">Час сессії (хв)</string>
+    <string name="setting_permission_title">Дозволи</string>
+    <string name="setting_permission_val_read">Читання</string>
+    <string name="setting_permission_val_write">Запис</string>
+
+    <string name="setting_servtype_title">Тип сервера</string>
+    <string name="setting_start_app_title">Запуск сервера з девайсом</string>
+    <string name="setting_start_server_title">Запуск сервера з додатком</string>
+
+
+    <string name="error_permission">Помилка, немає дозволу!</string>
+
+
+    <string name="html_server_home">Файли</string>
+    <string name="html_server_upload">Завантажити файл</string>
+    <string name="html_server_folder">Папка</string>
+    <string name="html_server_files">файли</string>
+    <string name="html_server_name">Ім\'я</string>
+    <string name="html_server_size">Розмір</string>
+    <string name="html_server_date">Дата</string>
+    <string name="str_server_cancel">Скасувати</string>
+    <string name="str_server_uploading">Завантаження</string>
+    <string name="str_server_warn_save">Цей файл не можу бути відкритий. Бажаєте <b>ЗБЕРЕГТИ</b> його?</string>
+    <string name="str_server_yes">Так</string>
+    <string name="str_server_no">Ні</string>
+    <string name="str_server_rename">Перейменувати</string>
+    <string name="str_server_move">Перемістити</string>
+    <string name="str_server_downzip">Завантажити як zip</string>
+    <string name="str_server_down">Завантажити</string>
+    <string name="str_server_delete">Видалити</string>
+    <string name="str_create_folder">Створити папку</string>
+    <string name="str_create_file">Створити файл</string>
+    <string name="long_copy">Утримуйте, щоб скопіювати</string>
+    <string name="copied">Cкопійовано</string>
+
+    <string name="file_is_empty">Файл порожній</string>
+    <string name="delete_log_file">Видалити файл журналу?</string>
+    <string name="long_filer_click">Затисніть щоб очистити фільтр</string>
+    <string name="logs_paused">Запис логів буде призупинено.\nВимкнути логи ви можете в налаштуваннях.</string>
+    <string name="lang_select">Оберіть мову</string>
+    <string name="lang_def">За замовчуванням</string>
+    <string name="stop">Зупинити</string>
+    <string name="server_running">"Сервер працює "</string>
+    <string name="setting_start_app_desc">Ця функція може не працювати на деяких пристроях, і деякі пристрої можуть вимагати додаткових системних дозволів.</string>
+    <string name="under_develop">в розробці</string>
+    <string name="error_wifi_disable">Схоже що WiFi вимкнено!</string>
+    <string name="btn_settings">Налаштування</string>
+    <string name="error_wifi_disable_text">Щоб використовувати сервер, користувачі повинні бути в одній мережі Wi-Fi.</string>
+    <string name="msg_click_to_start_server">Натисніть тут, щоб запустити файловий сервер</string>
+    <string name="msg_click_to_show_info">І тут, щоб показати інформацію або QR</string>
+    <string name="setting_feedback_title">Зворотній зв\'язок</string>
+    <string name="btn_later">Пізніше</string>
+    <string name="msg_permissions_notif">Ви можете надати дозвіл на оповіщення, щоб додаток працював коректно. Або відкласти на потім (на функціонал це не вплине)</string>
+    <string name="rate_five_stars">Оцініть цей застосунок</string>
+    <string name="more_apps">Більше моїх застосунків</string>
+    <string name="about_text">Привіт всім, я розробник із України. Якщо ви маєте якісь пропозиції щодо додатку або співпраці - напишіть мені. Незабудьте оцінити додаток - саме це мотивує надалі працювати над ним.</string>
+    <string name="about_me">Про автора</string>
+    <string name="home">На головну</string>
+    <string name="refresh">Оновити</string>
+    <string name="logout">Вийти</string>
+    <string name="d_logout_users">Хочете вийти з системи для всіх користувачів?</string>
+    <string name="certificate">Сертифікат</string>
+    <string name="certificate_exp">Експорт сертифіката</string>
+
+    <string name="setting_cat_client">Налаштування клієнта</string>
+    <string name="setting_cat_battery">Витрати батареї</string>
+    <string name="setting_battery_title">Дозволи для батареї</string>
+    <string name="setting_folder_size_title">Отримання розміру папки</string>
+    <string name="setting_thumbnails_title">Отримання мініатюр</string>
+    <string name="setting_welcome_msg_title">Привітальний діалог</string>
+    <string name="setting_welcome_msg_summ">Зробіть порожнім, щоб приховати</string>
+    <string name="html_server_type">Тип</string>
+    <string name="html_server_view">Вигляд</string>
+    <string name="html_server_view_list">Список</string>
+    <string name="html_server_view_grid">Сітка</string>
+    <string name="html_server_sorting">Сортування</string>
+    <string name="html_server_selected">Вибрано</string>
+    <string name="html_server_select">Вибрати</string>
+    <string name="html_server_download_zip">Завантажити як .zip</string>
+    <string name="about_app">Про додаток</string>
+    <string name="give_coffee">Дати на каву</string>
+    <string name="html_server_msg"><![CDATA[<h2>Ласкаво просимо!</h2><div style="text-align: justify;">Якщо вам сподобалася програма, ви можете підтримати мене <a href="https://tiarait.github.io/?id=donate" target="_blank">зручним для вас способом</a>. Ви також можете знайти всі новини про оновлення, зміни та помилки на <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>.</div>]]></string>
+
+    <string name="dialog_write_protection">Захист від запису!</string>
+    <string name="dialog_write_protection_unmount">Здається, SD-карту не змонтовано. Рекомендується вибрати іншу карту.\n\n</string>
+    <string name="dialog_write_protection_wrong">Здається, ви вибрали неправильну папку.\n\n</string>
+    <string name="dialog_write_protection_error">Не вдалося знайти дію для обробки \nACTION_OPEN_DOCUMENT_TREE\n\nСхоже, що Ваш пристрій не підтримує Android Storage Access Framework</string>
+    <string name="dialog_write_protection_text">На Android ≥ 5 зовнішня SD-карта захищена від запису. Вам потрібно вибрати каталог із спеціального діалогового вікна Android, щоб надати HTTP FS права на запис.\n\nНа наступному діалоговому вікні перейдіть в корінь зовнішньої SD-карти і натисніть кнопку <b>«Вибрати»</b> внизу</string>
+    <string name="btn_retry">Повторити</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>Ласкаво просимо до версії PRO!</h2><div>З будь-яких питань або пропозицій ви можете звернутися за адресою електронної пошти <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=Привіт." target="_blank">tiar.develop@gmail.com</a>.</div>]]></string>
+    <string name="vibro">Тактильна вібрація</string>
+    <string name="blur">Розмиття в діалогах</string>
+    <string name="permissions">Дозволи</string>
+    <string name="setting_perm_folder_title">Дозволи для папок</string>
+    <string name="setting_cat_server_interface">Інтерфейси</string>
+    <string name="setting_cat_server_security">Безпека</string>
+    <string name="open_link">Відкрити посилання?</string>
+    <string name="open_link_d">Посилання відкриється у вашому стандартному браузері, який не має відношення до додатка</string>
+    <string name="login">Увійти</string>
+    <string name="login_to">Щоб продовжити, увійдіть</string>
+    <string name="login_name">Логін</string>
+    <string name="upload">Завантажити</string>
+    <string name="create">Створити</string>
+    <string name="theme">Тема</string>
+    <string name="on_full_screen">На весь екран</string>
+    <string name="in_new_tab">У новій вкладці</string>
+    <string name="file">Файл</string>
+    <string name="server_offline">Сервер відключено</string>
+    <string name="repeat">Повторити</string>
+    <string name="hide">Приховати</string>
+    <string name="cancel_all">Скасувати все</string>
+    <string name="clear_cache">Очистити кеш</string>
+    <string name="hide_files">Приховати файли</string>
+    <string name="add">Додати</string>
+    <string name="pro_version">Версія Pro доступна в Google Play.</string>
+    <string name="path_file_title">Шлях до файлу</string>
+    <string name="hard_redirect">Жорстке перенаправлення</string>
+
+    <string name="exit_app">Вийти з додатку?</string>
+    <string name="exit_app_final">Повністю закрити додаток (зупинити всі запущені процеси)?</string>
+    <string name="dialog_filepermission_title">Необхідний дозвіл</string>
+    <string name="dialog_filepermission_summary">Додатку потрібен доступ до файлової системи пристрою для належної роботи. \nОсновна функція додатку - запуск файлівого сервера Http/WebDAV, який дозволяє керувати файловою системою вашого пристрою.</string>
+
+    <string name="setting_redirects_title">Переадресації</string>
+
+    <string name="users">Користувачі</string>
+    <string name="user">Користувач</string>
+</resources>

@@ -1,0 +1,158 @@
+<resources>
+    <string name="menu_home">Startseite</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_about">Info</string>
+    <string name="version">Version %s</string>
+    <string name="menu_logs">Protokolle</string>
+    <string name="menu_web">Web</string>
+
+    <string name="share">Teilen</string>
+    <string name="status_server">Server:</string>
+    <string name="status_wifi">WLAN:</string>
+    <string name="status_port">Port:</string>
+
+    <string name="msg_permissions">Für den korrekten Betrieb müssen der Anwendung Zugriffsrechte gewährt werden.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_exit">Beenden</string>
+
+    <string name="setting_port_title">Port</string>
+
+    <string name="setting_cat_app">App-Einstellungen</string>
+    <string name="setting_cat_server">Servereinstellungen</string>
+
+    <string name="setting_path_title">Verzeichnispfad</string>
+
+    <string name="setting_file_title">Ausgangsdatei</string>
+    <string name="setting_secure_title">Passwort verwenden</string>
+    <string name="setting_pass_title">Passwort</string>
+    <string name="setting_session_title">Sitzungszeit (min)</string>
+    <string name="setting_permission_title">Berechtigungen</string>
+    <string name="setting_permission_val_read">Lesen</string>
+    <string name="setting_permission_val_write">Schreiben</string>
+
+    <string name="setting_servtype_title">Servertyp</string>
+    <string name="setting_start_app_title">Server mit Gerät starten</string>
+    <string name="setting_start_server_title">Server mit App starten</string>
+
+
+    <string name="error_permission">Fehler, keine Berechtigung!</string>
+
+
+    <string name="html_server_home">Dateien</string>
+    <string name="html_server_upload">Datei hochladen</string>
+    <string name="html_server_folder">Ordner</string>
+    <string name="html_server_files">Dateien</string>
+    <string name="html_server_name">Name</string>
+    <string name="html_server_size">Größe</string>
+    <string name="html_server_date">Datum</string>
+    <string name="str_server_cancel">Abbrechen</string>
+    <string name="str_server_uploading">Hochladen</string>
+    <string name="str_server_warn_save">Diese Datei kann nicht geöffnet werden. Möchten Sie es <b>BEHALTEN</b>?</string>
+    <string name="str_server_yes">Ja</string>
+    <string name="str_server_no">Nein</string>
+    <string name="str_server_rename">Umbenennen</string>
+    <string name="str_server_move">Verschieben</string>
+    <string name="str_server_downzip">Als Zip herunterladen</string>
+    <string name="str_server_down">Herunterladen</string>
+    <string name="str_server_delete">Löschen</string>
+    <string name="str_create_folder">Ordner erstellen</string>
+    <string name="str_create_file">Erstelle Datei</string>
+    <string name="long_copy">Zum Kopieren gedrückt halten</string>
+    <string name="copied">Kopiert</string>
+
+    <string name="file_is_empty">Die Datei ist leer</string>
+    <string name="delete_log_file">Logdatei löschen?</string>
+    <string name="long_filer_click">Langes Klicken, um den Filter zu löschen</string>
+    <string name="logs_paused">Die Protokolle werden in dieser Zeit angehalten.\nSie können Protokolle in den Einstellungen deaktivieren.</string>
+    <string name="lang_select">Sprache auswählen</string>
+    <string name="lang_def">Standard</string>
+    <string name="stop">Stopp</string>
+    <string name="server_running">"Server läuft "</string>
+    <string name="setting_start_app_desc">Diese Funktion funktioniert möglicherweise nicht auf allen Geräten, und einige Geräte benötigen möglicherweise zusätzliche Systemberechtigungen.</string>
+    <string name="under_develop">in entwicklung</string>
+    <string name="error_wifi_disable">Sieht so aus, als wäre WLAN deaktiviert!</string>
+    <string name="error_wifi_disable_text">Um den Server verwenden zu können, müssen sich die Benutzer im selben Wi-Fi-Netzwerk befinden.</string>
+    <string name="btn_settings">Einstellungen</string>
+    <string name="msg_click_to_start_server">Klicken Sie hier, um den Dateiserver zu starten</string>
+    <string name="msg_click_to_show_info">Und hier, um Informationen oder QR anzuzeigen</string>
+    <string name="setting_feedback_title">Feedback</string>
+    <string name="btn_later">Später</string>
+    <string name="msg_permissions_notif">Sie können Benachrichtigungen die Berechtigung zum Benachrichtigen erteilen, damit die App ordnungsgemäß funktioniert. Oder auf später verschieben (beeinflusst die Funktionalität nicht)</string>
+    <string name="rate_five_stars">Bewerte diese App</string>
+    <string name="more_apps">Weitere Apps von mir</string>
+    <string name="about_text">Die laufende Entwicklung des Projekts wurde vorübergehend gestoppt, bis sich die Umstände ändern oder Hindernisse beseitigt werden. Diese App wird bald auf Git veröffentlicht. Sie können aber weiterhin Ihre Vorschläge schreiben, die ich bei der weiteren Entwicklung berücksichtigen werde.</string>
+    <string name="about_me">Über den Autor</string>
+    <string name="home">Zur Hauptsache</string>
+    <string name="refresh">Aktualisierung</string>
+    <string name="setting_name_title">Name</string>
+    <string name="logout">Ausloggen</string>
+    <string name="d_logout_users">Möchten Sie alle Benutzer abmelden?</string>
+    <string name="certificate">Zertifikat</string>
+    <string name="certificate_exp">Exportzertifikat</string>
+
+    <!-- GERMAN -->
+    <string name="setting_cat_client">Client-Einstellungen</string>
+    <string name="setting_cat_battery">Batterieverbrauch</string>
+    <string name="setting_battery_title">Batterieberechtigungen</string>
+    <string name="setting_folder_size_title">Größe des Ordners abrufen</string>
+    <string name="setting_thumbnails_title">Miniaturen abrufen</string>
+    <string name="setting_welcome_msg_title">Willkommensdialog-Nachricht</string>
+    <string name="setting_welcome_msg_summ">Leer lassen, um zu verbergen</string>
+    <string name="html_server_type">Typ</string>
+    <string name="html_server_view">Ansicht</string>
+    <string name="html_server_view_list">Liste</string>
+    <string name="html_server_view_grid">Raster</string>
+    <string name="html_server_sorting">Sortierung</string>
+    <string name="html_server_selected">Ausgewählt</string>
+    <string name="html_server_select">Auswählen</string>
+    <string name="html_server_download_zip">Als .zip herunterladen</string>
+    <string name="about_app">Über die App</string>
+    <string name="give_coffee">Für einen Kaffee spenden</string>
+    <string name="html_server_msg"><![CDATA[<h2>Willkommen!</h2><div style="text-align: justify;">Wenn Ihnen die Anwendung gefallen hat, können Sie mich <a href="https://tiarait.github.io/?id=donate" target="_blank">auf eine für Sie bequeme Weise</a> unterstützen. Alle Neuigkeiten zu Updates, Änderungen und Fehlern finden Sie auch auf <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>.</div>]]></string>
+
+    <string name="dialog_write_protection">Schreibschutz!</string>
+    <string name="dialog_write_protection_unmount">Es scheint, als sei die SD-Karte nicht eingebunden. Es wird empfohlen, eine andere Karte auszuwählen.\n\n</string>
+    <string name="dialog_write_protection_wrong">Es scheint, als hättest du den falschen Ordner ausgewählt.\n\n</string>
+    <string name="dialog_write_protection_error">Keine Aktivität gefunden, um die Absicht\nACTION_OPEN_DOCUMENT_TREE\nzu handhaben\n\nDieses Gerät scheint das Android Storage Access Framework nicht zu unterstützen</string>
+    <string name="dialog_write_protection_text">Bei Android ≥ 5 ist die externe SD-Karte schreibgeschützt. Du musst das Verzeichnis aus einem speziellen Android-Dialog auswählen, um HTTP FS Schreibrechte zu geben. \n\nIm nächsten Dialog gehe bitte zum Root der externen SD-Karte und klicke auf den Knopf unten, <b>«Auswählen»</b></string>
+    <string name="btn_retry">Wiederholen</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>Willkommen in der PRO-Version!</h2><div>Für Probleme oder Vorschläge können Sie an <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=Hallo." target="_blank">tiar.develop@gmail.com</a> schreiben.</div>]]></string>
+    <string name="vibro">Haptische Vibration</string>
+    <string name="blur">Unschärfe in Dialogen</string>
+    <string name="permissions">Berechtigungen</string>
+    <string name="setting_perm_folder_title">Berechtigungen für Ordner</string>
+    <string name="setting_cat_server_interface">Schnittstellen</string>
+    <string name="setting_cat_server_security">Sicherheit</string>
+    <string name="open_link">Link öffnen?</string>
+    <string name="open_link_d">Der Link wird in Ihrem Standardbrowser geöffnet, der nicht mit der Anwendung verbunden ist.</string>
+    <string name="login">Anmelden</string>
+    <string name="login_to">Zum Fortfahren anmelden</string>
+    <string name="login_name">Login</string>
+    <string name="upload">Hochladen</string>
+    <string name="create">Erstellen</string>
+    <string name="theme">Thema</string>
+    <string name="on_full_screen">Im Vollbildmodus</string>
+    <string name="in_new_tab">In neuem Tab</string>
+    <string name="file">Datei</string>
+    <string name="server_offline">Server ist offline</string>
+    <string name="repeat">Wiederholen</string>
+    <string name="hide">Ausblenden</string>
+    <string name="cancel_all">Alle abbrechen</string>
+    <string name="clear_cache">Cache löschen</string>
+    <string name="hide_files">Dateien ausblenden</string>
+    <string name="add">Hinzufügen</string>
+    <string name="pro_version">Die Pro-Version ist im Google Play Store verfügbar.</string>
+    <string name="path_file_title">Pfad zur Datei</string>
+    <string name="hard_redirect">Harte Weiterleitung</string>
+
+    <string name="exit_app">Anwendung beenden?</string>
+    <string name="exit_app_final">Anwendung vollständig beenden (alle laufenden Prozesse stoppen)?</string>
+    <string name="dialog_filepermission_title">Berechtigung erforderlich</string>
+    <string name="dialog_filepermission_summary">Die Anwendung benötigt Zugriff auf das Dateisystem des Geräts, um zu funktionieren. \nDie Hauptfunktion der Anwendung ist das Starten eines Http/WebDAV-Dateiservers, der es Ihnen ermöglicht, das Dateisystem Ihres Geräts zu verwalten.</string>
+
+    <string name="setting_redirects_title">Weiterleitungen</string>
+
+    <string name="users">Benutzer</string>
+    <string name="user">Benutzer</string>
+</resources>

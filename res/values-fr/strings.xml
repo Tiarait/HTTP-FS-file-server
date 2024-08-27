@@ -1,0 +1,162 @@
+<resources>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_about">À propos</string>
+    <string name="version">Version %s</string>
+    <string name="menu_logs">Journaux</string>
+    <string name="menu_web">Web</string>
+
+    <string name="share">Partager</string>
+    <string name="status_server">Serveur :</string>
+    <string name="status_wifi">WiFi :</string>
+    <string name="status_port">Port :</string>
+
+    <string name="msg_permissions">Les autorisations doivent être accordées pour que l\'application fonctionne correctement.</string>
+    <string name="msg_permissions_notif">Vous pouvez accorder la permission de notifications pour que l\'application fonctionne correctement ou la reporter à plus tard (cela n\'affecte pas la fonctionnalité).</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_settings">Paramètres</string>
+    <string name="btn_exit">Quitter</string>
+    <string name="btn_later">Plus tard</string>
+
+    <string name="setting_port_title">PORT</string>
+
+    <string name="setting_name_title">Nom</string>
+
+    <string name="setting_cat_app">Paramètres de l\'application</string>
+    <string name="setting_cat_server">Paramètres du serveur</string>
+
+    <string name="setting_path_title">Chemin du dossier</string>
+
+    <string name="setting_file_title">Fichier initial</string>
+
+    <string name="setting_secure_title">Utiliser un mot de passe</string>
+    <string name="setting_pass_title">Mot de passe</string>
+    <string name="setting_session_title">Durée de la session (min)</string>
+    <string name="setting_permission_title">Autorisations</string>
+    <string name="setting_permission_val_read">Lecture</string>
+    <string name="setting_permission_val_write">Écriture</string>
+
+    <string name="setting_servtype_title">Type de serveur</string>
+    <string name="setting_start_app_title">Démarrer le serveur avec l\'appareil</string>
+    <string name="setting_start_app_desc">Cette fonction peut ne pas fonctionner sur certains appareils et certains appareils peuvent nécessiter une autorisation système supplémentaire</string>
+    <string name="under_develop">en cours de développement</string>
+    <string name="setting_start_server_title">Démarrer le serveur avec l\'application</string>
+
+    <string name="setting_feedback_title">Retour d\'information</string>
+
+    <string name="msg_click_to_start_server">Cliquez ici pour démarrer le serveur de fichiers</string>
+    <string name="msg_click_to_show_info">Et ici pour afficher les infos ou le QR</string>
+
+    <string name="error_permission">Erreur, pas de permission!</string>
+    <string name="error_wifi_disable">Il semble que le WiFi soit désactivé!</string>
+    <string name="error_wifi_disable_text">Pour utiliser le serveur, les utilisateurs doivent être sur le même réseau Wi-Fi.</string>
+
+    <string name="html_server_home">Fichiers</string>
+    <string name="html_server_upload">Télécharger un fichier</string>
+    <string name="html_server_folder">Dossier</string>
+    <string name="html_server_files">fichiers</string>
+    <string name="html_server_name">Nom</string>
+    <string name="html_server_size">Taille</string>
+    <string name="html_server_date">Date</string>
+    <string name="str_server_cancel">Annuler</string>
+    <string name="str_server_uploading">Téléchargement en cours</string>
+    <string name="str_server_warn_save">Ce fichier ne peut pas être ouvert. Voulez-vous <b>ENREGISTRER</b>?</string>
+    <string name="str_server_yes">Oui</string>
+    <string name="str_server_no">Non</string>
+    <string name="str_server_rename">Renommer</string>
+    <string name="str_server_move">Déplacer</string>
+    <string name="str_server_downzip">Télécharger comme zip</string>
+    <string name="str_server_down">Télécharger</string>
+    <string name="str_server_delete">Supprimer</string>
+    <string name="str_create_folder">Créer un dossier</string>
+    <string name="str_create_file">Créer un fichier</string>
+    <string name="long_copy">Appuyez longuement pour copier</string>
+    <string name="copied">Copié</string>
+    <string name="file_is_empty">Le fichier est vide</string>
+    <string name="delete_log_file">Supprimer le fichier journal?</string>
+    <string name="long_filer_click">Appuyez longuement pour effacer le filtre</string>
+    <string name="logs_paused">Les journaux seront mis en pause pendant ce temps.\nVous pouvez désactiver les journaux dans les paramètres</string>
+
+    <string name="lang_select">Sélectionner la langue</string>
+    <string name="lang_def">Par défaut</string>
+
+    <string name="stop">Arrêter</string>
+    <string name="server_running">Serveur en cours d\'exécution</string>
+
+    <string name="logout">Déconnexion</string>
+    <string name="d_logout_users">Voulez-vous déconnecter tous les utilisateurs?</string>
+
+    <string name="rate_five_stars">Noter cette application</string>
+    <string name="more_apps">Plus d\'applications de ma part</string>
+    <string name="about_text">Bonjour à tous, je suis un développeur ukrainien. Si vous avez des suggestions pour une application ou une collaboration, écrivez-moi. N\'oubliez pas de noter l\'application, car c\'est cela qui me motive à continuer de travailler dessus.</string>
+    <string name="about_me">À propos de l\'auteur</string>
+    <string name="home">Accueil</string>
+    <string name="refresh">Actualiser</string>
+    <string name="certificate">Certificat</string>
+    <string name="certificate_exp">Exporter le certificat</string>
+
+    <string name="setting_cat_client">Paramètres du client</string>
+    <string name="setting_cat_battery">Consommation de la batterie</string>
+    <string name="setting_battery_title">Permissions de la batterie</string>
+    <string name="setting_folder_size_title">Obtenir la taille du dossier</string>
+    <string name="setting_thumbnails_title">Obtenir des miniatures</string>
+    <string name="setting_welcome_msg_title">Message de bienvenue</string>
+    <string name="setting_welcome_msg_summ">Laissez vide pour masquer</string>
+    <string name="html_server_type">Type</string>
+    <string name="html_server_view">Vue</string>
+    <string name="html_server_view_list">Liste</string>
+    <string name="html_server_view_grid">Grille</string>
+    <string name="html_server_sorting">Tri</string>
+    <string name="html_server_selected">Sélectionné</string>
+    <string name="html_server_select">Sélectionner</string>
+    <string name="html_server_download_zip">Télécharger au format .zip</string>
+    <string name="about_app">À propos de l\'application</string>
+    <string name="give_coffee">Offrir un café</string>
+    <string name="html_server_msg"><![CDATA[<h2>Bienvenue!</h2><div style="text-align: justify;">Si vous avez aimé l\'application, vous pouvez me soutenir <a href="https://tiarait.github.io/?id=donate" target="_blank">d\'une manière qui vous convient</a>. Vous pouvez également trouver toutes les nouvelles sur les mises à jour, les changements et les bugs sur <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>.</div>]]></string>
+
+    <string name="dialog_write_protection">Protection d\'écriture !</string>
+    <string name="dialog_write_protection_unmount">Il semble que la carte SD soit démontée. Il est recommandé de choisir une autre carte.\n\n</string>
+    <string name="dialog_write_protection_wrong">Il semble que vous ayez choisi le mauvais dossier.\n\n</string>
+    <string name="dialog_write_protection_error">Aucune activité trouvée pour gérer l\'intention\nACTION_OPEN_DOCUMENT_TREE\n\nCet appareil ne semble pas prendre en charge le Android Storage Access Framework</string>
+    <string name="dialog_write_protection_text">Sur Android ≥ 5, la carte SD externe est en écriture protégée. Vous devez choisir le répertoire dans une boîte de dialogue Android spéciale pour donner à HTTP FS les droits d\'écriture. \n\nDans la prochaine boîte de dialogue, veuillez accéder à la racine de la carte SD externe et cliquer sur le bouton en bas, <b>«Sélectionner»</b></string>
+    <string name="btn_retry">Réessayer</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>Bienvenue dans la version PRO !</h2><div>Pour tout problème ou suggestion, vous pouvez écrire à <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=Bonjour." target="_blank">tiar.develop@gmail.com</a>.</div>]]></string>
+    <string name="vibro">Vibration haptique</string>
+    <string name="blur">Flou dans les dialogues</string>
+    <string name="permissions">Autorisations</string>
+    <string name="setting_perm_folder_title">Autorisations pour les dossiers</string>
+    <string name="setting_cat_server_interface">Interfaces</string>
+    <string name="setting_cat_server_security">Sécurité</string>
+    <string name="open_link">Ouvrir le lien ?</string>
+    <string name="open_link_d">Le lien sera ouvert dans votre navigateur par défaut, qui n\'est pas lié à l\'application</string>
+    <string name="login">Connexion</string>
+    <string name="login_to">Connectez-vous pour continuer</string>
+    <string name="login_name">Se connecter</string>
+    <string name="upload">Téléverser</string>
+    <string name="create">Créer</string>
+    <string name="theme">Thème</string>
+    <string name="on_full_screen">En plein écran</string>
+    <string name="in_new_tab">Dans un nouvel onglet</string>
+    <string name="file">Fichier</string>
+    <string name="server_offline">Le serveur est hors ligne</string>
+    <string name="repeat">Répéter</string>
+    <string name="hide">Masquer</string>
+    <string name="cancel_all">Tout annuler</string>
+    <string name="clear_cache">Effacer le cache</string>
+    <string name="hide_files">Masquer les fichiers</string>
+    <string name="add">Ajouter</string>
+    <string name="pro_version">La version Pro est disponible sur Google Play.</string>
+    <string name="path_file_title">Chemin du fichier</string>
+    <string name="hard_redirect">Redirection forcée</string>
+
+    <string name="exit_app">Quitter l\'application ?</string>
+    <string name="exit_app_final">Quitter complètement l\'application (arrêter tous les processus en cours) ?</string>
+    <string name="dialog_filepermission_title">Permission requise</string>
+    <string name="dialog_filepermission_summary">L\'application nécessite un accès au système de fichiers de l\'appareil pour fonctionner. \nLa fonction principale de l\'application est de lancer un serveur de fichiers Http/WebDAV, ce qui vous permet de gérer le système de fichiers de votre appareil.</string>
+
+    <string name="setting_redirects_title">Redirections</string>
+
+    <string name="users">Utilisateurs</string>
+    <string name="user">Utilisateur</string>
+</resources>

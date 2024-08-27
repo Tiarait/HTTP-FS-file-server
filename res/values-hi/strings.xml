@@ -1,0 +1,165 @@
+<resources>
+    <string name="menu_home">होम</string>
+    <string name="menu_settings">सेटिंग्स</string>
+    <string name="menu_about">बारे में</string>
+    <string name="version">संस्करण %s</string>
+    <string name="menu_logs">लॉग</string>
+    <string name="menu_web">वेब</string>
+
+    <string name="share">शेयर</string>
+    <string name="status_server">सर्वर:</string>
+    <string name="status_wifi">वाई-फाई:</string>
+    <string name="status_port">पोर्ट:</string>
+
+    <string name="msg_permissions">एप्लिकेशन के सही तरीके से काम करने के लिए अनुमतियों को प्रदान की जानी चाहिए।</string>
+    <string name="msg_permissions_notif">आप अधिसूचनाएँ प्राप्त करने के लिए अधिसूचनाओं की अनुमति दे सकते हैं ताकि एप्लिकेशन को सही ढंग से काम करने के लिए। या इसे बाद में स्थगित करें (इसका कोई प्रभाव नहीं होता)</string>
+    <string name="btn_ok">ठीक</string>
+    <string name="btn_settings">सेटिंग्स</string>
+    <string name="btn_exit">बाहर निकलें</string>
+    <string name="btn_later">बाद में</string>
+
+    <string name="setting_port_title">पोर्ट</string>
+    <string name="setting_name_title">नाम</string>
+
+    <string name="setting_cat_app">एप्लिकेशन सेटिंग्स</string>
+    <string name="setting_cat_server">सर्वर सेटिंग्स</string>
+
+    <string name="setting_path_title">फ़ोल्डर का पथ</string>
+
+    <string name="setting_file_title">प्रारंभिक फ़ाइल</string>
+
+    <string name="setting_secure_title">पासवर्ड का उपयोग करें</string>
+    <string name="setting_pass_title">पासवर्ड</string>
+    <string name="setting_session_title">सत्र का समय (मिनट)</string>
+    <string name="setting_permission_title">अनुमतियाँ</string>
+    <string name="setting_permission_val_read">पढ़ें</string>
+    <string name="setting_permission_val_write">लिखें</string>
+
+    <string name="setting_servtype_title">सर्वर प्रकार</string>
+
+
+    <string name="setting_start_app_title">डिवाइस के साथ सर्वर शुरू करें</string>
+    <string name="setting_start_app_desc">यह फ़ंक्शन कुछ डिवाइस पर काम नहीं कर सकता और कुछ डिवाइस अतिरिक्त सिस्टम अनुमति की आवश्यकता हो सकती है</string>
+    <string name="under_develop">विकास के तहत</string>
+    <string name="setting_start_server_title">एप्लिकेशन के साथ सर्वर शुरू करें</string>
+
+    <string name="setting_feedback_title">प्रतिक्रिया</string>
+
+
+    <string name="msg_click_to_start_server">फ़ाइल सर्वर को शुरू करने के लिए यहाँ क्लिक करें</string>
+    <string name="msg_click_to_show_info">और यहाँ जानकारी या क्यूआर दिखाने के लिए</string>
+
+    <string name="error_permission">त्रुटि कोई अनुमति नहीं!</string>
+    <string name="error_wifi_disable">वाई-फ़ाई अक्षम दिखता है!</string>
+    <string name="error_wifi_disable_text">सर्वर का उपयोग करने के लिए उपयोगकर्ताओं को एक ही वाई-फाई नेटवर्क पर होना चाहिए।</string>
+
+
+    <string name="html_server_home">फ़ाइलें</string>
+    <string name="html_server_upload">फ़ाइल अपलोड करें</string>
+    <string name="html_server_folder">फ़ोल्डर</string>
+    <string name="html_server_files">फ़ाइलें</string>
+    <string name="html_server_name">नाम</string>
+    <string name="html_server_size">आकार</string>
+    <string name="html_server_date">तारीख</string>
+    <string name="str_server_cancel">रद्द करें</string>
+    <string name="str_server_uploading">अपलोड हो रहा है</string>
+    <string name="str_server_warn_save">इस फ़ाइल को खोला नहीं जा सकता है। क्या आप इसे <b>सहेजना</b> चाहते हैं?</string>
+    <string name="str_server_yes">हां</string>
+    <string name="str_server_no">नहीं</string>
+    <string name="str_server_rename">नाम बदलें</string>
+    <string name="str_server_move">हटाएँ</string>
+    <string name="str_server_downzip">ज़िप के रूप में डाउनलोड करें</string>
+    <string name="str_server_down">डाउनलोड</string>
+    <string name="str_server_delete">हटाएं</string>
+    <string name="str_create_folder">फ़ोल्डर बनाएं</string>
+    <string name="str_create_file">फ़ाइल बनाएं</string>
+    <string name="long_copy">कॉपी करने के लिए लंबा दबाएं</string>
+    <string name="copied">कॉपी किया गया</string>
+    <string name="file_is_empty">फ़ाइल खाली है</string>
+    <string name="delete_log_file">लॉग फ़ाइल हटाएं?</string>
+    <string name="long_filer_click">फ़िल्टर साफ करने के लिए लंबा क्लिक करें</string>
+    <string name="logs_paused">इस समय लॉग्स ठहरे होंगे।\nआप सेटिंग्स में लॉग्स को अक्षम कर सकते हैं</string>
+
+    <string name="lang_select">भाषा का चयन करें</string>
+    <string name="lang_def">डिफ़ॉल्ट</string>
+
+    <string name="stop">रोकें</string>
+    <string name="server_running">"सर्वर चल रहा है "</string>
+
+    <string name="logout">लॉगआउट</string>
+    <string name="d_logout_users">क्या आप सभी उपयोगकर्ताओं को लॉगआउट करना चाहते हैं?</string>
+
+    <string name="rate_five_stars">इस एप्लिकेशन को रेट करें</string>
+    <string name="more_apps">मेरे अन्य एप्लिकेशन</string>
+    <string name="about_text">नमस्ते सभी, मैं एक यूक्रेन से डेवलपर हूं। यदि आपके पास किसी एप्लिकेशन या सहयोग के लिए कोई सुझाव हैं - मुझे लिखें। एप्लिकेशन को रेट करना न भूलें - केवल यह आपको ऐप पर काम करने के लिए प्रेरित करता है।</string>
+    <string name="about_me">लेखक के बारे में</string>
+    <string name="home">होम</string>
+    <string name="refresh">ताजगी</string>
+    <string name="certificate">प्रमाणपत्र</string>
+    <string name="certificate_exp">प्रमाणपत्र निर्यात करें</string>
+
+    <string name="setting_cat_client">ग्राहक सेटिंग्स</string>
+    <string name="setting_cat_battery">बैटरी खर्च</string>
+    <string name="setting_battery_title">बैटरी अनुमतियाँ</string>
+    <string name="setting_folder_size_title">फ़ोल्डर का आकार प्राप्त करें</string>
+    <string name="setting_thumbnails_title">थंबनेल्स प्राप्त करें</string>
+    <string name="setting_welcome_msg_title">स्वागत संदेश डायलॉग</string>
+    <string name="setting_welcome_msg_summ">छिपाने के लिए खाली करें</string>
+    <string name="html_server_type">प्रकार</string>
+    <string name="html_server_view">दृश्य</string>
+    <string name="html_server_view_list">सूची</string>
+    <string name="html_server_view_grid">ग्रिड</string>
+    <string name="html_server_sorting">क्रमबद्ध करना</string>
+    <string name="html_server_selected">चयनित</string>
+    <string name="html_server_select">चुनें</string>
+    <string name="html_server_download_zip">.zip के रूप में डाउनलोड करें</string>
+    <string name="about_app">एप्लिकेशन के बारे में</string>
+    <string name="give_coffee">कॉफ़ी के लिए दें</string>
+    <string name="html_server_msg"><![CDATA[<h2>स्वागत है!</h2><div style="text-align: justify;">यदि आपको यह ऐप पसंद आया, तो आप मुझे <a href="https://tiarait.github.io/?id=donate" target="_blank">अपने सुविधाजनक तरीके से</a> समर्थन कर सकते हैं। आप <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a> पर सभी अपडेट, परिवर्तन और बग के बारे में समाचार भी पा सकते हैं।</div>]]></string>
+
+    <string name="dialog_write_protection">लेखन सुरक्षा!</string>
+    <string name="dialog_write_protection_unmount">ऐसा लगता है कि एसडी कार्ड को अनमाउंट किया गया है। किसी अलग कार्ड का चयन करने की सिफारिश की जाती है।\n\n</string>
+    <string name="dialog_write_protection_wrong">ऐसा लगता है कि आपने गलत फ़ोल्डर का चयन किया है।\n\n</string>
+    <string name="dialog_write_protection_error">किसी एक्टिविटी को संविधान\nACTION_OPEN_DOCUMENT_TREE\n\nको हैंडल करने के लिए नहीं मिला\n\nइस डिवाइस पर Android Storage Access Framework का समर्थन नहीं दिखता है</string>
+    <string name="dialog_write_protection_text">Android ≥ 5 पर, बाहरी एसडी कार्ड लेखन से सुरक्षित है। HTTP FS लेखन अधिकार देने के लिए आपको एक विशेष Android डायलॉग से निर्देशिका चुनने की आवश्यकता है। \n\nअगले संवाद में, कृपया बाहरी एसडी-कार्ड के रूट में जाएं और नीचे बटन पर क्लिक करें, <b>«चयन करें»</b></string>
+    <string name="btn_retry">पुनः प्रयास करें</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>PRO संस्करण में आपका स्वागत है!</h2><div>किसी भी समस्या या सुझाव के लिए, आप <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=नमस्ते।" target="_blank">tiar.develop@gmail.com</a> पर लिख सकते हैं।</div>]]></string>
+    <string name="vibro">हैप्टिक्स वाइब्रेशन</string>
+    <string name="blur">डायलॉग में धुंधलाप</string>
+    <string name="permissions">अनुमतियाँ</string>
+    <string name="setting_perm_folder_title">फ़ोल्डरों के लिए अनुमतियाँ</string>
+    <string name="setting_cat_server_interface">इंटरफेस</string>
+    <string name="setting_cat_server_security">सुरक्षा</string>
+    <string name="open_link">लिंक खोलें?</string>
+    <string name="open_link_d">लिंक आपके डिफ़ॉल्ट ब्राउज़र में खोला जाएगा, जो ऐप्लिकेशन से संबंधित नहीं है</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="login_to">जारी रखने के लिए लॉगिन करें</string>
+    <string name="login_name">लॉग इन करें</string>
+    <string name="upload">अपलोड</string>
+    <string name="create">बनाएँ</string>
+    <string name="theme">थीम</string>
+    <string name="on_full_screen">पूर्ण स्क्रीन पर</string>
+    <string name="in_new_tab">नए टैब में</string>
+    <string name="file">फ़ाइल</string>
+    <string name="server_offline">सर्वर ऑफ़लाइन है</string>
+    <string name="repeat">दोहराएँ</string>
+    <string name="hide">छुपाएँ</string>
+    <string name="cancel_all">सभी को रद्द करें</string>
+    <string name="clear_cache">कैश को साफ़ करें</string>
+    <string name="hide_files">फ़ाइलें छुपाएँ</string>
+    <string name="add">जोड़ें</string>
+    <string name="pro_version">प्रो संस्करण Google Play पर उपलब्ध है।</string>
+    <string name="path_file_title">फ़ाइल का मार्ग</string>
+    <string name="hard_redirect">कठिन पुनर्निर्देशन</string>
+
+    <string name="exit_app">एप्लिकेशन से बाहर निकलें?</string>
+    <string name="exit_app_final">पूरी तरह से एप्लिकेशन बंद करें (सभी चल रही प्रक्रियाओं को रोकें)?</string>
+    <string name="dialog_filepermission_title">अनुमति आवश्यक</string>
+    <string name="dialog_filepermission_summary">एप्लिकेशन को कार्य करने के लिए डिवाइस की फ़ाइल प्रणाली तक पहुँच की आवश्यकता है। \nएप्लिकेशन का मुख्य कार्य एक Http/WebDAV फ़ाइल सर्वर शुरू करना है, जो आपको अपने डिवाइस की फ़ाइल प्रणाली को प्रबंधित करने की अनुमति देता है।</string>
+
+    <string name="setting_redirects_title">पुनर्निर्देशन</string>
+
+    <string name="users">उपयोगकर्ता</string>
+    <string name="user">उपयोगकर्ता</string>
+</resources>

@@ -1,0 +1,228 @@
+<resources>
+    <string name="val_status" translatable="false">●</string>
+    <string name="val_port" translatable="false">8080</string>
+    <string name="setting_port_key" translatable="false">port_value</string>
+    <string name="setting_name_client_key" translatable="false">name_client_value</string>
+    <string name="setting_name_server_key" translatable="false">name_serv_value</string>
+    <string name="setting_path_key" translatable="false">path_value</string>
+    <string name="setting_version_key" translatable="false">version_value</string>
+    <string name="setting_file_key" translatable="false">file_value</string>
+    <string name="setting_usefile_key" translatable="false">usefile_value</string>
+    <string name="setting_file_redirect_key" translatable="false">file_redirect_value</string>
+    <string name="setting_secure_key" translatable="false">secure_key</string>
+    <string name="setting_pass_key" translatable="false">pass_key</string>
+    <string name="setting_session_key" translatable="false">session_key</string>
+    <string name="setting_session_num_key" translatable="false">session_num_key</string>
+    <string name="setting_permission_key" translatable="false">permissions_key</string>
+    <string name="setting_permission_key_read" translatable="false">permissions_key_read</string>
+    <string name="setting_permission_key_write" translatable="false">permissions_key_write</string>
+    <string name="setting_ssl_key" translatable="false">ssl_key</string>
+    <string name="setting_servtype_key" translatable="false">servtype_key0</string>
+    <string name="setting_client_con_key" translatable="false">client_con</string>
+    <string name="servtype_cio" translatable="false">CIO</string>
+    <string name="servtype_netty" translatable="false">Netty</string>
+    <string name="servtype_netty_custom" translatable="false">Netty (custom)</string>
+    <string name="servtype_jetty" translatable="false">Jetty</string>
+    <string name="webdav" translatable="false">WebDAV</string>
+    <string name="webdav_key" translatable="false">webdav_key</string>
+    <string name="rss" translatable="false">RSS</string>
+    <string name="rss_key" translatable="false">rss_key</string>
+    <string name="setting_start_app_key" translatable="false">start_app_key</string>
+    <string name="setting_logs" translatable="false">show_logs</string>
+    <string name="setting_logs_all" translatable="false">show_logs_all</string>
+    <string name="setting_start_server_key" translatable="false">start_server_key</string>
+    <string name="setting_feedback_key" translatable="false">feedback_key</string>
+    <string name="setting_folder_size_key" translatable="false">battery_folder_size_key</string>
+    <string name="setting_thumbnails_key" translatable="false">battery_thumbnail_key</string>
+    <string name="setting_welcome_msg_key" translatable="false">welcome_dialog_key</string>
+    <string name="setting_welcome_msg_show_key" translatable="false">welcome_dialog_show_key</string>
+    <string name="setting_battery_key" translatable="false">battery_key</string>
+    <string name="setting_perm_folder_key" translatable="false">permission_folder_key</string>
+    <string name="setting_vibro_key" translatable="false">use_vibro</string>
+    <string name="setting_blur_key" translatable="false">use_blur</string>
+
+    <string name="lang_bg" translatable="false">Български</string>
+    <string name="lang_de" translatable="false">Deutsch</string>
+    <string name="lang_en" translatable="false">English</string>
+    <string name="lang_es" translatable="false">Español</string>
+    <string name="lang_fr" translatable="false">Français</string>
+    <string name="lang_hi" translatable="false">हिंदी</string>
+    <string name="lang_ja" translatable="false">日本語</string>
+    <string name="lang_ko" translatable="false">한국인</string>
+    <string name="lang_pl" translatable="false">Polska</string>
+    <string name="lang_pt" translatable="false">Portuguese</string>
+    <string name="lang_pt_rBR" translatable="false">Portuguese (Brazilian)</string>
+    <string name="lang_ua" translatable="false">Українська</string>
+    <string name="lang_vi" translatable="false">Tiếng Việt</string>
+    <string name="lang_zh" translatable="false">漢語</string>
+
+    <string name="app_name" translatable="false">HTTP FS</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="version">Version %s</string>
+    <string name="menu_logs">Logs</string>
+    <string name="menu_web">Web</string>
+
+    <string name="share">Share</string>
+    <string name="status_server">Server:</string>
+    <string name="status_wifi">WiFi:</string>
+    <string name="status_port">Port:</string>
+
+    <string name="msg_permissions">Permissions must be granted for the application to work correctly.</string>
+    <string name="msg_permissions_notif">You can give notifications permission for notifications in order for the application to work correctly. Or postpone it until later (this does not affect functionality)</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_later">Later</string>
+
+    <string name="setting_port_title">PORT</string>
+    <string name="setting_name_title">Name</string>
+
+    <string name="setting_cat_app">App settings</string>
+    <string name="setting_cat_server">Server settings</string>
+
+    <string name="setting_path_title">Path to folder</string>
+
+    <string name="setting_file_title">Initial file</string>
+
+    <string name="setting_secure_title">Use password</string>
+    <string name="setting_pass_title">Password</string>
+    <string name="setting_session_title">Session time (min)</string>
+    <string name="setting_permission_title">Permissions</string>
+    <string name="setting_permission_val_read">Read</string>
+    <string name="setting_permission_val_write">Write</string>
+
+    <string name="setting_servtype_title">Server type</string>
+
+
+    <string name="setting_start_app_title">Start server with device</string>
+    <string name="setting_start_app_desc">This function may not work on some devices and some devices may require additional system permission</string>
+    <string name="under_develop">under development</string>
+    <string name="setting_start_server_title">Start server with app</string>
+
+    <string name="setting_feedback_title">Feedback</string>
+
+
+    <string name="msg_click_to_start_server">Click here to start the file server</string>
+    <string name="msg_click_to_show_info">And here to show info or QR</string>
+
+    <string name="error_permission">Error no permission!</string>
+    <string name="error_wifi_disable">Look like WiFi is disabled!</string>
+    <string name="error_wifi_disable_text">To use the server, users must be on the same Wi-Fi network.</string>
+
+
+    <string name="html_server_home">Files</string>
+    <string name="html_server_upload">Upload file</string>
+    <string name="html_server_folder">Folder</string>
+    <string name="html_server_files">files</string>
+    <string name="html_server_name">Name</string>
+    <string name="html_server_size">Size</string>
+    <string name="html_server_date">Date</string>
+    <string name="str_server_cancel">Cancel</string>
+    <string name="str_server_uploading">Uploading</string>
+    <string name="str_server_warn_save">This file cannot be opened. Want to <b>SAVE</b> it?</string>
+    <string name="str_server_yes">Yes</string>
+    <string name="str_server_no">No</string>
+    <string name="str_server_rename">Rename</string>
+    <string name="str_server_move">Move</string>
+    <string name="str_server_downzip">Download as zip</string>
+    <string name="str_server_down">Download</string>
+    <string name="str_server_delete">Delete</string>
+    <string name="str_create_folder">Create folder</string>
+    <string name="str_create_file">Create file</string>
+    <string name="long_copy">Long press to copy</string>
+    <string name="copied">Copied</string>
+    <string name="file_is_empty">File is empty</string>
+    <string name="delete_log_file">Delete log file?</string>
+    <string name="long_filer_click">Long click to clear filter</string>
+    <string name="logs_paused">Logs will be paused in this time.\nYou can disable logs in settings</string>
+
+    <string name="lang_select">Select Language</string>
+    <string name="lang_def">Default</string>
+
+    <string name="stop">Stop</string>
+    <string name="server_running">"Server running "</string>
+
+    <string name="logout">Logout</string>
+    <string name="d_logout_users">Want to log out all users?</string>
+
+    <string name="rate_five_stars">Rate this app</string>
+    <string name="more_apps">More apps from me</string>
+    <string name="about_text">Hello everyone, I\'m a developer from Ukraine. If you have any suggestions for an app or cooperation - write to me. Do not forget to rate the application - only this motivates you to continue working on the app.</string>
+    <string name="about_me">About author</string>
+    <string name="home">Home</string>
+    <string name="refresh">Refresh</string>
+    <string name="certificate">Certificate</string>
+    <string name="certificate_exp">Export certificate</string>
+
+    <string name="setting_cat_client">Client settings</string>
+    <string name="setting_cat_battery">Battery expense</string>
+    <string name="setting_battery_title">Battery permissions</string>
+    <string name="setting_folder_size_title">Get size of folder</string>
+    <string name="setting_thumbnails_title">Get thumbnails</string>
+    <string name="setting_welcome_msg_title">Welcome dialog massage</string>
+    <string name="setting_welcome_msg_summ">Make blank to hide</string>
+    <string name="html_server_type">Type</string>
+    <string name="html_server_view">View</string>
+    <string name="html_server_view_list">List</string>
+    <string name="html_server_view_grid">Grid</string>
+    <string name="html_server_sorting">Sorting</string>
+    <string name="html_server_selected">Selected</string>
+    <string name="html_server_select">Select</string>
+    <string name="html_server_download_zip">Download as .zip</string>
+    <string name="about_app">About app</string>
+    <string name="give_coffee">Give for coffee</string>
+    <string name="html_server_msg"><![CDATA[<h2>Welcome!</h2><div style="text-align: justify;">If you liked the application, You can support me <a href="https://tiarait.github.io/?id=donate" target="_blank">in a way convenient for you</a>. You can also find all the news about updates, changes and bugs on <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">the GitHub</a>.</div>]]></string>
+
+    <string name="dialog_write_protection">Write protection!</string>
+    <string name="dialog_write_protection_unmount">It seems like the SD card is unmounted. Recommend choosing a different card.\n\n</string>
+    <string name="dialog_write_protection_wrong">It seems like you have chosen the wrong folder.\n\n</string>
+    <string name="dialog_write_protection_error">No activity found to handle intent\nACTION_OPEN_DOCUMENT_TREE\n\nThis device does not appear to support the Android Storage Access Framework</string>
+    <string name="dialog_write_protection_text">On Android ≥ 5, the external SD card is write protected. You need to choose the directory from a special Android dialog to give HTTP FS write rights. \n\nIb the next dialog, please go to the root of the external SD-card and click on the button at the bottom, <b>«Select»</b></string>
+    <string name="btn_retry">Retry</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>Welcome to the PRO version!</h2><div>For any problems or suggestions, you can write to <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=Hello." target="_blank">tiar.develop@gmail.com</a>.</div>]]></string>
+    <string name="vibro">Haptics vibration</string>
+    <string name="blur">Blur in dialogs</string>
+    <string name="permissions">Permissions</string>
+    <string name="setting_perm_folder_title">Permissions for folders</string>
+    <string name="setting_cat_server_interface">Interfaces</string>
+    <string name="setting_cat_server_security">Security</string>
+    <string name="open_link">Open link?</string>
+    <string name="open_link_d">The link will be opened in your default browser which is not related to the application</string>
+    <string name="login">Login</string>
+    <string name="login_to">Login to continue</string>
+    <string name="login_name">Login</string>
+    <string name="upload">Upload</string>
+    <string name="create">Create</string>
+    <string name="theme">Theme</string>
+    <string name="on_full_screen">On full screen</string>
+    <string name="in_new_tab">In new tab</string>
+    <string name="file">File</string>
+    <string name="server_offline">Server is offline</string>
+    <string name="repeat">Repeat</string>
+    <string name="hide">Hide</string>
+    <string name="cancel_all">Cancel all</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="hide_files">Hide files</string>
+    <string name="add">Add</string>
+    <string name="pro_version">The Pro version is available on the Google Play.</string>
+    <string name="path_file_title">Path to file</string>
+    <string name="hard_redirect">Hard redirect</string>
+
+    <string name="exit_app">Exit the application?</string>
+    <string name="exit_app_final">Quit the application completely (stop all running processes)?</string>
+    <string name="dialog_filepermission_title">Need require permission</string>
+    <string name="dialog_filepermission_summary">The application requires access to the device\'s file system to function. \nThe main feature of the application is launching a Http/WebDAV file server, which allows you to manage your device\'s file system.</string>
+
+    <string name="setting_redirects_title">Redirects</string>
+
+    <string name="users">Users</string>
+    <string name="user">User</string>
+    <string name="from">From</string>
+    <string name="to">to</string>
+    <string name="file_or_url">File or url</string>
+    <string name="check_connection_socket">Check connection socket</string>
+</resources>

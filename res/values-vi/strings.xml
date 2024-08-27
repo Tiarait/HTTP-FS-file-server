@@ -1,0 +1,161 @@
+<resources>
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="menu_about">Về</string>
+    <string name="version">Phiên bản %s</string>
+    <string name="menu_logs">Logs</string>
+    <string name="menu_web">Web</string>
+
+    <string name="share">Chia sẻ</string>
+    <string name="status_server">Máy chủ:</string>
+    <string name="status_wifi">WiFi:</string>
+    <string name="status_port">Cổng:</string>
+
+    <string name="msg_permissions">Cần cấp quyền để ứng dụng hoạt động đúng cách.</string>
+    <string name="msg_permissions_notif">Bạn có thể cấp quyền thông báo để ứng dụng hoạt động đúng cách hoặc hoãn lại cho sau (điều này không ảnh hưởng đến chức năng).</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_settings">Cài đặt</string>
+    <string name="btn_exit">Thoát</string>
+    <string name="btn_later">Sau</string>
+
+    <string name="setting_port_title">CỔNG</string>
+    <string name="setting_name_title">Tên</string>
+
+    <string name="setting_cat_app">Cài đặt ứng dụng</string>
+    <string name="setting_cat_server">Cài đặt máy chủ</string>
+
+    <string name="setting_path_title">Đường dẫn đến thư mục</string>
+
+    <string name="setting_file_title">Tệp khởi đầu</string>
+
+    <string name="setting_secure_title">Sử dụng mật khẩu</string>
+    <string name="setting_pass_title">Mật khẩu</string>
+    <string name="setting_session_title">Thời gian phiên (phút)</string>
+    <string name="setting_permission_title">Quyền</string>
+    <string name="setting_permission_val_read">Đọc</string>
+    <string name="setting_permission_val_write">Ghi</string>
+
+    <string name="setting_servtype_title">Loại máy chủ</string>
+
+    <string name="setting_start_app_title">Khởi động máy chủ với thiết bị</string>
+    <string name="setting_start_app_desc">Chức năng này có thể không hoạt động trên một số thiết bị và một số thiết bị có thể yêu cầu thêm quyền hệ thống</string>
+    <string name="under_develop">Đang phát triển</string>
+    <string name="setting_start_server_title">Khởi động máy chủ với ứng dụng</string>
+
+    <string name="setting_feedback_title">Phản hồi</string>
+
+    <string name="msg_click_to_start_server">Nhấn vào đây để khởi động máy chủ tệp</string>
+    <string name="msg_click_to_show_info">Và ở đây để hiển thị thông tin hoặc mã QR</string>
+
+    <string name="error_permission">Lỗi, không có quyền!</string>
+    <string name="error_wifi_disable">Dường như WiFi đã bị tắt!</string>
+    <string name="error_wifi_disable_text">Để sử dụng máy chủ, người dùng phải ở trên cùng một mạng Wi-Fi.</string>
+
+    <string name="html_server_home">Tệp tin</string>
+    <string name="html_server_upload">Tải lên tệp tin</string>
+    <string name="html_server_folder">Thư mục</string>
+    <string name="html_server_files">tệp tin</string>
+    <string name="html_server_name">Tên</string>
+    <string name="html_server_size">Kích thước</string>
+    <string name="html_server_date">Ngày</string>
+    <string name="str_server_cancel">Hủy bỏ</string>
+    <string name="str_server_uploading">Đang tải lên</string>
+    <string name="str_server_warn_save">Không thể mở tệp tin này. Bạn có muốn <b>LƯU</b> nó không?</string>
+    <string name="str_server_yes">Có</string>
+    <string name="str_server_no">Không</string>
+    <string name="str_server_rename">Đổi tên</string>
+    <string name="str_server_move">Di chuyển</string>
+    <string name="str_server_downzip">Tải xuống dưới dạng zip</string>
+    <string name="str_server_down">Tải xuống</string>
+    <string name="str_server_delete">Xóa</string>
+    <string name="str_create_folder">Tạo thư mục</string>
+    <string name="str_create_file">Tạo tệp tin</string>
+    <string name="long_copy">Nhấn và giữ để sao chép</string>
+    <string name="copied">Đã sao chép</string>
+    <string name="file_is_empty">Tệp tin trống</string>
+    <string name="delete_log_file">Xóa tệp tin log?</string>
+    <string name="long_filer_click">Nhấn và giữ để xóa bộ lọc</string>
+    <string name="logs_paused">Logs sẽ tạm dừng trong khoảng thời gian này.\nBạn có thể tắt logs trong cài đặt</string>
+    <string name="lang_select">Chọn ngôn ngữ</string>
+    <string name="lang_def">Mặc định</string>
+
+    <string name="stop">Dừng</string>
+    <string name="server_running">"Máy chủ đang chạy "</string>
+
+    <string name="logout">Đăng xuất</string>
+    <string name="d_logout_users">Muốn đăng xuất tất cả người dùng?</string>
+
+    <string name="rate_five_stars">Đánh giá 5 sao cho ứng dụng này</string>
+    <string name="more_apps">Nhiều ứng dụng khác của tôi</string>
+    <string name="about_text">Chào mọi người, tôi là một nhà phát triển đến từ Ukraina. Nếu bạn có bất kỳ đề xuất nào cho ứng dụng hoặc hợp tác, hãy viết cho tôi. Đừng quên đánh giá ứng dụng - chỉ điều này khuyến khích bạn tiếp tục công việc trên ứng dụng.</string>
+    <string name="about_me">Về tác giả</string>
+    <string name="home">Trang chủ</string>
+    <string name="refresh">Làm mới</string>
+    <string name="certificate">Chứng chỉ</string>
+    <string name="certificate_exp">Xuất chứng chỉ</string>
+
+    <string name="setting_cat_client">Cài đặt của người dùng</string>
+    <string name="setting_cat_battery">Tiêu thụ pin</string>
+    <string name="setting_battery_title">Quyền pin</string>
+    <string name="setting_folder_size_title">Nhận kích thước của thư mục</string>
+    <string name="setting_thumbnails_title">Nhận hình thu nhỏ</string>
+    <string name="setting_welcome_msg_title">Thông điệp chào mừng</string>
+    <string name="setting_welcome_msg_summ">Để trống để ẩn</string>
+    <string name="html_server_type">Loại</string>
+    <string name="html_server_view">Xem</string>
+    <string name="html_server_view_list">Danh sách</string>
+    <string name="html_server_view_grid">Lưới</string>
+    <string name="html_server_sorting">Sắp xếp</string>
+    <string name="html_server_selected">Đã chọn</string>
+    <string name="html_server_select">Chọn</string>
+    <string name="html_server_download_zip">Tải xuống dưới dạng .zip</string>
+    <string name="about_app">Về ứng dụng</string>
+    <string name="give_coffee">Ủng hộ cà phê</string>
+    <string name="html_server_msg"><![CDATA[<h2>Chào mừng!</h2><div style="text-align: justify;">Nếu bạn thích ứng dụng này, bạn có thể hỗ trợ tôi <a href="https://tiarait.github.io/?id=donate" target="_blank">bằng cách thuận tiện cho bạn</a>. Bạn cũng có thể tìm thấy tất cả các tin tức về cập nhật, thay đổi và lỗi trên <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>.</div>]]></string>
+
+    <string name="dialog_write_protection">Bảo vệ Ghi!</string>
+    <string name="dialog_write_protection_unmount">Dường như thẻ SD không được gắn. Khuyến nghị chọn một thẻ khác.\n\n</string>
+    <string name="dialog_write_protection_wrong">Dường như bạn đã chọn sai thư mục.\n\n</string>
+    <string name="dialog_write_protection_error">Không tìm thấy hoạt động để xử lý ý định\nACTION_OPEN_DOCUMENT_TREE\n\nThiết bị này dường như không hỗ trợ Khung truy cập Lưu trữ Android</string>
+    <string name="dialog_write_protection_text">Trên Android ≥ 5, thẻ SD ngoại vi được bảo vệ ghi. Bạn cần chọn thư mục từ hộp thoại Android đặc biệt để cung cấp quyền ghi cho HTTP FS.\n\nTrong hộp thoại tiếp theo, vui lòng chuyển đến gốc của thẻ SD ngoại vi và nhấp vào nút ở dưới cùng, <b>«Chọn»</b></string>
+    <string name="btn_retry">Thử lại</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>Chào mừng đến phiên bản PRO!</h2><div>Nếu có vấn đề hoặc đề xuất, bạn có thể liên hệ qua email <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=Xin chào." target="_blank">tiar.develop@gmail.com</a>.</div>]]></string>
+    <string name="vibro">Rung haptic</string>
+    <string name="blur">Mờ trong hộp thoại</string>
+    <string name="permissions">Quyền hạn</string>
+    <string name="setting_perm_folder_title">Quyền hạn của thư mục</string>
+    <string name="setting_cat_server_interface">Giao diện</string>
+    <string name="setting_cat_server_security">Bảo mật</string>
+    <string name="open_link">Mở liên kết?</string>
+    <string name="open_link_d">Liên kết sẽ được mở trong trình duyệt mặc định của bạn, không liên quan đến ứng dụng</string>
+    <string name="login">Đăng nhập</string>
+    <string name="login_to">Đăng nhập để tiếp tục</string>
+    <string name="login_name">Đăng nhập</string>
+    <string name="upload">Tải lên</string>
+    <string name="create">Tạo</string>
+    <string name="theme">Chủ đề</string>
+    <string name="on_full_screen">Trên toàn màn hình</string>
+    <string name="in_new_tab">Trong tab mới</string>
+    <string name="file">Tập tin</string>
+    <string name="server_offline">Máy chủ đang ngoại tuyến</string>
+    <string name="repeat">Lặp lại</string>
+    <string name="hide">Ẩn</string>
+    <string name="cancel_all">Hủy tất cả</string>
+    <string name="clear_cache">Xóa bộ nhớ cache</string>
+    <string name="hide_files">Ẩn tập tin</string>
+    <string name="add">Thêm</string>
+    <string name="pro_version">Phiên bản Pro có sẵn trên Google Play.</string>
+    <string name="path_file_title">Đường dẫn đến tập tin</string>
+    <string name="hard_redirect">Chuyển hướng cứng</string>
+
+    <string name="exit_app">Thoát ứng dụng?</string>
+    <string name="exit_app_final">Thoát hoàn toàn khỏi ứng dụng (dừng tất cả các quy trình đang chạy)?</string>
+    <string name="dialog_filepermission_title">Yêu cầu quyền truy cập</string>
+    <string name="dialog_filepermission_summary">Ứng dụng yêu cầu quyền truy cập vào hệ thống tệp của thiết bị để hoạt động. \nChức năng chính của ứng dụng là khởi chạy một máy chủ tệp Http/WebDAV, cho phép bạn quản lý hệ thống tệp của thiết bị.</string>
+
+    <string name="setting_redirects_title">Chuyển hướng</string>
+
+    <string name="users">Người dùng</string>
+    <string name="user">Người dùng</string>
+</resources>

@@ -1,0 +1,164 @@
+<resources>
+    <string name="menu_home">ホーム</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_about">情報</string>
+    <string name="version">バージョン %s</string>
+    <string name="menu_logs">ログ</string>
+    <string name="menu_web">ウェブ</string>
+
+    <string name="share">共有</string>
+    <string name="status_server">サーバー:</string>
+    <string name="status_wifi">WiFi:</string>
+    <string name="status_port">ポート:</string>
+
+    <string name="msg_permissions">アプリケーションが正常に動作するためには、権限が必要です。</string>
+    <string name="msg_permissions_notif">アプリケーションが正常に動作するためには、通知の許可が必要です。後で設定することもできます（これは機能に影響しません）</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_settings">設定</string>
+    <string name="btn_exit">終了</string>
+    <string name="btn_later">後で</string>
+
+    <string name="setting_port_title">ポート</string>
+    <string name="setting_name_title">名前</string>
+
+    <string name="setting_cat_app">アプリ設定</string>
+    <string name="setting_cat_server">サーバー設定</string>
+
+    <string name="setting_path_title">フォルダーへのパス</string>
+
+    <string name="setting_file_title">初期ファイル</string>
+
+    <string name="setting_secure_title">パスワードを使用する</string>
+    <string name="setting_pass_title">パスワード</string>
+    <string name="setting_session_title">セッション時間（分）</string>
+    <string name="setting_permission_title">権限</string>
+    <string name="setting_permission_val_read">読み取り</string>
+    <string name="setting_permission_val_write">書き込み</string>
+
+    <string name="setting_servtype_title">サーバータイプ</string>
+
+    <string name="setting_start_app_title">デバイスでサーバーを起動</string>
+    <string name="setting_start_app_desc">この機能は一部のデバイスで動作しない場合があり、一部のデバイスでは追加のシステム権限が必要になる場合があります</string>
+    <string name="under_develop">開発中</string>
+    <string name="setting_start_server_title">アプリでサーバーを起動</string>
+
+    <string name="setting_feedback_title">フィードバック</string>
+
+
+    <string name="msg_click_to_start_server">ここをクリックしてファイルサーバーを起動します</string>
+    <string name="msg_click_to_show_info">そして、情報またはQRコードを表示するにはこちら</string>
+
+    <string name="error_permission">エラー：許可がありません！</string>
+    <string name="error_wifi_disable">WiFiが無効になっているようです！</string>
+    <string name="error_wifi_disable_text">サーバーを使用するには、ユーザーが同じWi-Fiネットワークに接続している必要があります。</string>
+
+
+    <string name="html_server_home">ファイル</string>
+    <string name="html_server_upload">ファイルをアップロード</string>
+    <string name="html_server_folder">フォルダー</string>
+    <string name="html_server_files">ファイル</string>
+    <string name="html_server_name">名前</string>
+    <string name="html_server_size">サイズ</string>
+    <string name="html_server_date">日付</string>
+    <string name="str_server_cancel">キャンセル</string>
+    <string name="str_server_uploading">アップロード中</string>
+    <string name="str_server_warn_save">このファイルを開くことができません。保存しますか？</string>
+    <string name="str_server_yes">はい</string>
+    <string name="str_server_no">いいえ</string>
+    <string name="str_server_rename">名前を変更</string>
+    <string name="str_server_move">移動</string>
+    <string name="str_server_downzip">zipファイルとしてダウンロード</string>
+    <string name="str_server_down">ダウンロード</string>
+    <string name="str_server_delete">削除</string>
+    <string name="str_create_folder">フォルダーを作成</string>
+    <string name="str_create_file">ファイルを作成</string>
+    <string name="long_copy">コピーするには長押ししてください</string>
+    <string name="copied">コピーされました</string>
+    <string name="file_is_empty">ファイルは空です</string>
+    <string name="delete_log_file">ログファイルを削除しますか？</string>
+    <string name="long_filer_click">フィルターをクリアするには長押ししてください</string>
+    <string name="logs_paused">この時間にログが一時停止されます。\n設定でログを無効にできます</string>
+
+    <string name="lang_select">言語を選択</string>
+    <string name="lang_def">デフォルト</string>
+
+    <string name="stop">停止</string>
+    <string name="server_running">"サーバーが実行中 "</string>
+
+    <string name="logout">ログアウト</string>
+    <string name="d_logout_users">すべてのユーザーをログアウトしますか？</string>
+
+    <string name="rate_five_stars">このアプリを評価する</string>
+    <string name="more_apps">他のアプリ</string>
+    <string name="about_text">みなさん、こんにちは。私はウクライナ出身の開発者です。アプリや共同作業に関する提案がある場合は、お知らせください。アプリを評価することを忘れないでください。これだけが、アプリの開発を続ける動機になります。</string>
+    <string name="about_me">作者について</string>
+    <string name="home">ホーム</string>
+    <string name="refresh">更新</string>
+    <string name="certificate">証明書</string>
+    <string name="certificate_exp">証明書をエクスポート</string>
+
+    <string name="setting_cat_client">クライアント設定</string>
+    <string name="setting_cat_battery">バッテリー消費</string>
+    <string name="setting_battery_title">バッテリー許可</string>
+    <string name="setting_folder_size_title">フォルダーサイズを取得</string>
+    <string name="setting_thumbnails_title">サムネイルを取得</string>
+    <string name="setting_welcome_msg_title">ウェルカムダイアログのメッセージ</string>
+    <string name="setting_welcome_msg_summ">非表示にするには空白にします</string>
+    <string name="html_server_type">タイプ</string>
+    <string name="html_server_view">表示</string>
+    <string name="html_server_view_list">リスト</string>
+    <string name="html_server_view_grid">グリッド</string>
+    <string name="html_server_sorting">並べ替え</string>
+    <string name="html_server_selected">選択済み</string>
+    <string name="html_server_select">選択</string>
+    <string name="html_server_download_zip">.zip としてダウンロード</string>
+    <string name="about_app">アプリについて</string>
+    <string name="give_coffee">コーヒーをプレゼント</string>
+    <string name="html_server_msg"><![CDATA[<h2>ようこそ!</h2><div style="text-align: justify;">アプリケーションを気に入っていただけた場合は、<a href="https://tiarait.github.io/?id=donate" target="_blank">便利な方法で</a>サポートできます。また、<a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>でアップデート、変更、バグに関するすべてのニュースを見つけることができます。</div>]]></string>
+
+    <string name="dialog_write_protection">書き込み保護！</string>
+    <string name="dialog_write_protection_unmount">SDカードがアンマウントされているようです。別のカードを選択することをお勧めします。\n\n</string>
+    <string name="dialog_write_protection_wrong">間違ったフォルダーを選択したようです。\n\n</string>
+    <string name="dialog_write_protection_error">意図されたアクションを処理するアクティビティが見つかりません\nACTION_OPEN_DOCUMENT_TREE\n\nこのデバイスは Android Storage Access Framework をサポートしていないようです</string>
+    <string name="dialog_write_protection_text">Android 5以上では、外部SDカードは書き込み保護されています。HTTP FSの書き込み権限を付与するために、特別なAndroidダイアログからディレクトリを選択する必要があります。\n\n次のダイアログでは、外部SDカードのルートに移動して、下部のボタン<b>「選択」</b>をクリックしてください。</string>
+    <string name="btn_retry">再試行</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>PRO版へようこそ！</h2><div>問題や提案がある場合は、<a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=こんにちは。" target="_blank">tiar.develop@gmail.com</a> までご連絡ください。</div>]]></string>
+    <string name="vibro">触覚振動</string>
+    <string name="blur">ダイアログのぼかし</string>
+    <string name="permissions">権限</string>
+    <string name="setting_perm_folder_title">フォルダの権限</string>
+    <string name="setting_cat_server_interface">インターフェース</string>
+    <string name="setting_cat_server_security">セキュリティ</string>
+    <string name="open_link">リンクを開く？</string>
+    <string name="open_link_d">リンクは、アプリケーションとは関係のないデフォルトのブラウザで開かれます</string>
+    <string name="login">ログイン</string>
+    <string name="login_to">続行するにはログインしてください</string>
+    <string name="login_name">ログイン</string>
+    <string name="upload">アップロード</string>
+    <string name="create">作成</string>
+    <string name="theme">テーマ</string>
+    <string name="on_full_screen">全画面で</string>
+    <string name="in_new_tab">新しいタブで</string>
+    <string name="file">ファイル</string>
+    <string name="server_offline">サーバーがオフラインです</string>
+    <string name="repeat">繰り返す</string>
+    <string name="hide">非表示</string>
+    <string name="cancel_all">すべてキャンセル</string>
+    <string name="clear_cache">キャッシュをクリア</string>
+    <string name="hide_files">ファイルを非表示</string>
+    <string name="add">追加</string>
+    <string name="pro_version">Pro版はGoogle Playで利用できます。</string>
+    <string name="path_file_title">ファイルのパス</string>
+    <string name="hard_redirect">ハードリダイレクト</string>
+
+    <string name="exit_app">アプリケーションを終了しますか？</string>
+    <string name="exit_app_final">アプリケーションを完全に終了しますか（すべての実行中のプロセスを停止しますか）？</string>
+    <string name="dialog_filepermission_title">権限が必要です</string>
+    <string name="dialog_filepermission_summary">アプリケーションが機能するには、デバイスのファイルシステムへのアクセスが必要です。 \nアプリケーションの主な機能は、Http/WebDAVファイルサーバーを起動して、デバイスのファイルシステムを管理できるようにすることです。</string>
+
+    <string name="setting_redirects_title">リダイレクト</string>
+
+    <string name="users">ユーザー</string>
+    <string name="user">ユーザー</string>
+</resources>
