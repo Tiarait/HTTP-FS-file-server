@@ -1,7 +1,7 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-[![Issues][issues-shield]][issues-url] [![Android][android-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Coffee][coffee-shield]][coffee-url] [![Desktop][desktop-shield]][desktop-url]
+[![Issues][issues-shield]][issues-url] [![Android][android-shield]][gp-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Youtube][youtube-shield]][youtube-url] [![Desktop][desktop-shield]][desktop-url]
 
 
 # HTTP FS - Android App
@@ -13,6 +13,8 @@ This is a http, webdav server for sharing files between users on a Wi-Fi network
 The online file sharing application works like a local HTTP server.
 
 You can run a server on a Wi-Fi network or create a hotspot and share files by selecting any available folder on your device and providing users on the network with a link to your HTTP server or by scanning a QR code.
+
+You can download it from [releases](https://github.com/Tiarait/HTTP-FS-file-server/releases/)
 
 You can also use app like webdav server. Also avalaible on [desktop](https://github.com/Tiarait/HTTP-FS-Desktop)
 
