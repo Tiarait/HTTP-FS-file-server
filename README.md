@@ -26,6 +26,10 @@ You can also use app like webdav server. Also avalaible on [desktop](https://git
 </a>  
 </p>
 
+## User Help
+[Information about available settings in the application](https://tiarait.github.io/Http-FS-Intro/help.html)
+
+
 ## About
 With this app, users can easily run a server on a Wi-Fi network or create a hotspot to share files.
 
