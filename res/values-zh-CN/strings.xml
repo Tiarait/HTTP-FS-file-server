@@ -1,0 +1,162 @@
+<resources>
+    <string name="menu_home">首页</string>
+    <string name="menu_settings">设定</string>
+    <string name="menu_about">关于</string>
+    <string name="version">版本 %s</string>
+    <string name="menu_logs">日志</string>
+    <string name="menu_web">网页</string>
+
+    <string name="share">分享</string>
+    <string name="status_server">服务器：</string>
+    <string name="status_wifi">无线上网：</string>
+    <string name="status_port">端口：</string>
+
+    <string name="msg_permissions">需要授权应用才能正确运行。</string>
+    <string name="msg_permissions_notif">您可以提供通知权限以使应用正常运作。或者稍后处理（不会影响功能）。</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_settings">设定</string>
+    <string name="btn_exit">退出</string>
+    <string name="btn_later">稍后</string>
+
+    <string name="setting_port_title">端口</string>
+
+    <string name="setting_name_title">名称</string>
+
+    <string name="setting_cat_app">应用设定</string>
+    <string name="setting_cat_server">服务器设定</string>
+
+    <string name="setting_path_title">文件夹路径</string>
+
+    <string name="setting_file_title">初始文件</string>
+    <string name="setting_secure_title">使用密码</string>
+    <string name="setting_pass_title">密码</string>
+    <string name="setting_session_title">会话时间（分钟）</string>
+    <string name="setting_permission_title">权限</string>
+    <string name="setting_permission_val_read">读取</string>
+    <string name="setting_permission_val_write">写入</string>
+
+    <string name="setting_servtype_title">服务器类型</string>
+    <string name="setting_start_app_title">使用设备启动服务器</string>
+    <string name="setting_start_app_desc">此功能可能在某些设备上无法运行，并且某些设备可能需要额外的系统权限。</string>
+    <string name="under_develop">开发中</string>
+    <string name="setting_start_server_title">使用应用启动服务器</string>
+
+    <string name="setting_feedback_title">意见回馈</string>
+
+    <string name="msg_click_to_start_server">点击这里启动文件服务器</string>
+    <string name="msg_click_to_show_info">以及这里显示信息或二维码</string>
+
+    <string name="error_permission">错误，无权限！</string>
+    <string name="error_wifi_disable">看起来 Wi-Fi 已关闭！</string>
+    <string name="error_wifi_disable_text">要使用服务器，用户必须在相同的 Wi-Fi 网络上。</string>
+
+    <string name="html_server_home">文件</string>
+    <string name="html_server_upload">上传文件</string>
+    <string name="html_server_folder">文件夹</string>
+    <string name="html_server_files">文件</string>
+    <string name="html_server_name">名称</string>
+    <string name="html_server_size">大小</string>
+    <string name="html_server_date">日期</string>
+    <string name="str_server_cancel">取消</string>
+    <string name="str_server_uploading">上传中</string>
+    <string name="str_server_warn_save">无法打开此文件。要<b>保存</b>吗？</string>
+    <string name="str_server_yes">是</string>
+    <string name="str_server_no">否</string>
+    <string name="str_server_rename">重新命名</string>
+    <string name="str_server_move">移动</string>
+    <string name="str_server_downzip">下载为 ZIP</string>
+    <string name="str_server_down">下载</string>
+    <string name="str_server_delete">删除</string>
+    <string name="str_create_folder">新建文件夹</string>
+    <string name="str_create_file">新建文件</string>
+    <string name="long_copy">长按以复制</string>
+    <string name="copied">已复制</string>
+
+    <string name="file_is_empty">文件是空的</string>
+    <string name="delete_log_file">删除日志文件吗?</string>
+    <string name="long_filer_click">长按以清除筛选器</string>
+    <string name="logs_paused">在此期间日志将被暂停。\n您可以在设定中禁用日志。</string>
+    <string name="lang_select">选择语言</string>
+    <string name="lang_def">默认</string>
+
+    <string name="stop">停止</string>
+    <string name="server_running">服务器运行中</string>
+
+    <string name="logout">登出</string>
+    <string name="d_logout_users">要登出所有用户吗？</string>
+
+    <string name="rate_five_stars">评价此应用</string>
+    <string name="more_apps">更多我的应用</string>
+    <string name="about_text">大家好，我是来自乌克兰的开发者。如果您对应用程式有任何建议或合作的想法 - 请与我联系。不要忘记评价应用 - 这是唯一能激励我继续开发的动力。</string>
+    <string name="about_me">关于作者</string>
+    <string name="home">首页</string>
+    <string name="refresh">刷新</string>
+    <string name="certificate">证书</string>
+    <string name="certificate_exp">出口证书</string>
+
+    <!-- CHINESE (SIMPLIFIED) -->
+    <string name="setting_cat_client">客户端设置</string>
+    <string name="setting_cat_battery">电池消耗</string>
+    <string name="setting_battery_title">电池权限</string>
+    <string name="setting_folder_size_title">获取文件夹大小</string>
+    <string name="setting_thumbnails_title">获取缩略图</string>
+    <string name="setting_welcome_msg_title">欢迎对话消息</string>
+    <string name="setting_welcome_msg_summ">留空以隐藏</string>
+    <string name="html_server_type">类型</string>
+    <string name="html_server_view">查看</string>
+    <string name="html_server_view_list">列表</string>
+    <string name="html_server_view_grid">网格</string>
+    <string name="html_server_sorting">排序</string>
+    <string name="html_server_selected">已选择</string>
+    <string name="html_server_select">选择</string>
+    <string name="html_server_download_zip">下载为 .zip</string>
+    <string name="about_app">关于应用</string>
+    <string name="give_coffee">赞助咖啡</string>
+    <string name="html_server_msg"><![CDATA[<h2>欢迎!</h2><div style="text-align: justify;">如果您喜欢这个应用程式，您可以<a href="https://tiarait.github.io/?id=donate" target="_blank">通过您方便的方式</a>支持我。您还可以在<a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>上找到有关更新、变更和错误的所有新闻。</div>]]></string>
+
+    <string name="dialog_write_protection">写保护！</string>
+    <string name="dialog_write_protection_unmount">似乎 SD 卡未挂载。建议选择其他卡。\n\n</string>
+    <string name="dialog_write_protection_wrong">似乎您选择了错误的文件夹。\n\n</string>
+    <string name="dialog_write_protection_error">找不到处理意图\nACTION_OPEN_DOCUMENT_TREE\n\n此设备似乎不支持 Android 存储访问框架</string>
+    <string name="dialog_write_protection_text">在 Android ≥ 5 上，外部 SD 卡受到写保护。您需要从一个特殊的 Android 对话框中选择目录，以授予 HTTP FS 写入权限。\n\n在下一个对话框中，请转到外部 SD 卡的根目录，并单击底部的按钮，<b>«选择»</b></string>
+    <string name="btn_retry">重试</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>欢迎使用 PRO 版本！</h2><div>如有问题或建议，请发送邮件至<a href="mailto:tiar.develop@gmail.com?subject=HttpFS&body=你好。" target="_blank">tiar.develop@gmail.com</a>。</div>]]></string>
+    <string name="vibro">触觉振动</string>
+    <string name="blur">对话框模糊</string>
+    <string name="permissions">权限</string>
+    <string name="setting_perm_folder_title">文件夹权限</string>
+    <string name="setting_cat_server_interface">接口</string>
+    <string name="setting_cat_server_security">安全</string>
+    <string name="open_link">打开链接？</string>
+    <string name="open_link_d">链接将在默认浏览器中打开，与应用程序无关</string>
+    <string name="login">登录</string>
+    <string name="login_to">登录以继续</string>
+    <string name="login_name">登录</string>
+    <string name="upload">上传</string>
+    <string name="create">创建</string>
+    <string name="theme">主题</string>
+    <string name="on_full_screen">全屏</string>
+    <string name="in_new_tab">新标签页中</string>
+    <string name="file">文件</string>
+    <string name="server_offline">服务器已离线</string>
+    <string name="repeat">重复</string>
+    <string name="hide">隐藏</string>
+    <string name="cancel_all">取消全部</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="hide_files">隐藏文件</string>
+    <string name="add">添加</string>
+    <string name="pro_version">Pro 版本可在 Google Play 上获取。</string>
+    <string name="path_file_title">文件路径</string>
+    <string name="hard_redirect">强制重定向</string>
+
+    <string name="exit_app">退出应用程序？</string>
+    <string name="exit_app_final">完全退出应用程序（停止所有运行的进程）？</string>
+    <string name="dialog_filepermission_title">需要权限</string>
+    <string name="dialog_filepermission_summary">应用程序需要访问设备的文件系统才能正常运行。\n应用程序的主要功能是启动一个 Http/WebDAV 文件服务器，允许您管理设备的文件系统。</string>
+
+    <string name="setting_redirects_title">重定向</string>
+
+    <string name="users">用户</string>
+    <string name="user">用户</string>
+</resources>
