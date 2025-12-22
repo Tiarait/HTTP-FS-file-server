@@ -1,0 +1,81 @@
+{
+  "Language": "Język",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDF5\uD83C\uDDF1",
+
+  "Edit": "Edytuj",
+  "Save": "Zapisz",
+  "UnsavedChangesTitle": "Niezapisane zmiany",
+  "UnsavedChangesBody": "Wyjść bez zapisywania?",
+  "EditorNotAvailable": "Edytor jest niedostępny",
+  "SaveError": "Błąd zapisu",
+
+  "str_open": "Otwórz",
+  "str_server_rename": "Zmień nazwę",
+  "str_server_move": "Przenieś",
+  "str_server_down": "Pobierz",
+  "str_server_downzip": "Pobierz jako ZIP",
+  "str_server_delete": "Usuń",
+  "str_server_cancel": "Anuluj",
+  "str_server_ok": "OK",
+
+  "str_view": "Widok",
+  "str_upload": "Wyślij",
+  "str_add_new": "Dodaj",
+  "str_select": "Zaznacz",
+  "str_sorting": "Sortowanie",
+  "str_sorting_name": "Nazwa",
+  "str_sorting_type": "Typ",
+  "str_sorting_size": "Rozmiar",
+  "str_sorting_date": "Data",
+
+  "str_folder": "Folder",
+  "str_file": "Plik",
+  "str_files": "Pliki",
+
+  "str_error_permission": "Brak uprawnień",
+
+  "str_theme": "Motyw",
+
+  "str_home": "Pliki",
+
+  "str_selected": "Zaznaczone",
+
+  "str_fullscreen": "Pełny ekran",
+
+  "str_overwrite_confirm": "Plik %NAME% już istnieje. Zastąpić go?",
+  "str_upload_skipped": "Pominięto przez użytkownika",
+
+  "str_login": "Zaloguj się",
+  "str_login_to": "Zaloguj się, aby kontynuować",
+  "str_login_name": "Login",
+  "str_pass": "Hasło",
+
+  "str_server_hide": "Ukryj",
+  "str_server_cancel_all": "Anuluj wszystko",
+
+  "str_coffee": "Postaw kawę",
+  "str_about_author": "O autorze",
+  "str_about_app": "O aplikacji",
+  "str_rate_app": "Oceń tę aplikację",
+
+  "ModeView": "PODGLĄD",
+  "ModeEdit": "EDYCJA"
+}

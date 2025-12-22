@@ -1,6 +1,8 @@
 <resources>
     <string name="menu_home">Головна</string>
     <string name="menu_settings">Налаштування</string>
+    <string name="menu_about">Інфо</string>
+    <string name="version">Версія %s</string>
     <string name="menu_logs">Логи</string>
     <string name="menu_web">Веб</string>
 
@@ -14,6 +16,7 @@
     <string name="btn_exit">Вихід</string>
 
     <string name="setting_port_title">Порт</string>
+    <string name="setting_name_title">Ім\'я</string>
 
     <string name="setting_cat_app">Налаштування додатку</string>
     <string name="setting_cat_server">Налаштування сервера</string>
@@ -78,16 +81,12 @@
     <string name="setting_feedback_title">Зворотній зв\'язок</string>
     <string name="btn_later">Пізніше</string>
     <string name="msg_permissions_notif">Ви можете надати дозвіл на оповіщення, щоб додаток працював коректно. Або відкласти на потім (на функціонал це не вплине)</string>
-
-    <string name="menu_about">Інфо</string>
-    <string name="version">Версія %s</string>
     <string name="rate_five_stars">Оцініть цей застосунок</string>
     <string name="more_apps">Більше моїх застосунків</string>
     <string name="about_text">Привіт всім, я розробник із України. Якщо ви маєте якісь пропозиції щодо додатку або співпраці - напишіть мені. Незабудьте оцінити додаток - саме це мотивує надалі працювати над ним.</string>
     <string name="about_me">Про автора</string>
     <string name="home">На головну</string>
     <string name="refresh">Оновити</string>
-    <string name="setting_name_title">Ім\'я</string>
     <string name="logout">Вийти</string>
     <string name="d_logout_users">Хочете вийти з системи для всіх користувачів?</string>
     <string name="certificate">Сертифікат</string>
@@ -129,8 +128,8 @@
     <string name="open_link">Відкрити посилання?</string>
     <string name="open_link_d">Посилання відкриється у вашому стандартному браузері, який не має відношення до додатка</string>
     <string name="login">Увійти</string>
-    <string name="login_name">Логін</string>
     <string name="login_to">Щоб продовжити, увійдіть</string>
+    <string name="login_name">Логін</string>
     <string name="upload">Завантажити</string>
     <string name="create">Створити</string>
     <string name="theme">Тема</string>

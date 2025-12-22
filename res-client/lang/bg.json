@@ -1,0 +1,81 @@
+{
+  "Language": "Език",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDE7\uD83C\uDDEC",
+
+  "Edit": "Редактиране",
+  "Save": "Запази",
+  "UnsavedChangesTitle": "Незаписани промени",
+  "UnsavedChangesBody": "Изход без записване?",
+  "EditorNotAvailable": "Редакторът не е наличен",
+  "SaveError": "Грешка при запис",
+
+  "str_open": "Отвори",
+  "str_server_rename": "Преименувай",
+  "str_server_move": "Премести",
+  "str_server_down": "Изтегли",
+  "str_server_downzip": "Изтегли като ZIP",
+  "str_server_delete": "Изтрий",
+  "str_server_cancel": "Отказ",
+  "str_server_ok": "OK",
+
+  "str_view": "Изглед",
+  "str_upload": "Качване",
+  "str_add_new": "Добави",
+  "str_select": "Избери",
+  "str_sorting": "Сортиране",
+  "str_sorting_name": "Име",
+  "str_sorting_type": "Тип",
+  "str_sorting_size": "Размер",
+  "str_sorting_date": "Дата",
+
+  "str_folder": "Папка",
+  "str_file": "Файл",
+  "str_files": "Файлове",
+
+  "str_error_permission": "Нямате права",
+
+  "str_theme": "Тема",
+
+  "str_home": "Файлове",
+
+  "str_selected": "Избрани",
+
+  "str_fullscreen": "Цял екран",
+
+  "str_overwrite_confirm": "Файл %NAME% вече съществува. Да бъде ли заменен?",
+  "str_upload_skipped": "Пропуснато от потребителя",
+
+  "str_login": "Влизане",
+  "str_login_to": "Влезте, за да продължите",
+  "str_login_name": "Потребител",
+  "str_pass": "Парола",
+
+  "str_server_hide": "Скрий",
+  "str_server_cancel_all": "Откажи всички",
+
+  "str_coffee": "Почерпи с кафе",
+  "str_about_author": "За автора",
+  "str_about_app": "За приложението",
+  "str_rate_app": "Оцени приложението",
+
+  "ModeView": "ПРЕГЛЕД",
+  "ModeEdit": "РЕДАКЦИЯ"
+}

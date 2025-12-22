@@ -75,6 +75,8 @@
     <string name="btn_settings">Настройки</string>
     <string name="msg_click_to_start_server">Щракнете тук, за да стартирате файловия сървър</string>
     <string name="msg_click_to_show_info">И тук, за да покаже информация или QR</string>
+    <string name="setting_ads_privacy_title">Реклами и поверителност</string>
+    <string name="setting_ads_privacy_desc">Управлявайте персонализирани и неперсонализирани реклами и настройките за поверителност.</string>
     <string name="setting_feedback_title">Обратна връзка</string>
     <string name="btn_later">По късно</string>
     <string name="msg_permissions_notif">Можете да дадете разрешение на известията, за да може приложението да работи правилно. Или отложете за по-късно (това не засяга функционалността)</string>
@@ -154,4 +156,27 @@
 
     <string name="users">Потребители</string>
     <string name="user">Потребител</string>
+    <string name="from">От</string>
+    <string name="to">до</string>
+    <string name="file_or_url">Файл или URL</string>
+    <string name="check_connection_socket">Проверка на връзката чрез сокет</string>
+
+    <string name="setting_buffer_size_title">Размер на буфера</string>
+    <string name="setting_buffer_size_desc">Влияе върху скоростта на прехвърляне на файлове. По-голям = по-бързо, но използва повече памет.</string>
+    <string name="setting_buffer_size_recommended">Препоръчително</string>
+    <string name="setting_buffer_size_reset">НУЛИРАНЕ</string>
+
+    <string name="setting_blocked_ips_title">Блокирани IP адреси</string>
+    <string name="setting_blocked_ips_desc">Блокирайте достъпа от конкретни IP адреси. Полезно за блокиране на нежелани връзки.</string>
+    <string name="setting_blocked_ips_summary">Блокирани: %d</string>
+    <string name="setting_blocked_ips_empty">Няма блокирани IP</string>
+    <string name="setting_blocked_ips_list">Блокирани IP</string>
+    <string name="setting_blocked_ips_add">Добави блокиран IP</string>
+    <string name="setting_blocked_ips_edit">Редактирай блокиран IP</string>
+    <string name="setting_blocked_ips_item_desc">Натиснете, за да редактирате или изтриете</string>
+    <string name="setting_blocked_ips_hint">Въведете IP адрес (напр. 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">IP адресът не може да бъде празен</string>
+    <string name="setting_blocked_ips_error_invalid">Невалиден формат на IP адрес</string>
+    <string name="setting_blocked_ips_error_duplicate">Този IP вече е блокиран</string>
+    <string name="setting_blocked_ips_limit">Безплатна версия: до %d IP адреса. Надградете до Pro за неограничено.</string>
 </resources>

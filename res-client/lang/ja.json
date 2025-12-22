@@ -1,0 +1,81 @@
+{
+  "Language": "言語",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDEF\uD83C\uDDF5",
+
+  "Edit": "編集",
+  "Save": "保存",
+  "UnsavedChangesTitle": "未保存の変更",
+  "UnsavedChangesBody": "保存せずに終了しますか？",
+  "EditorNotAvailable": "エディタは利用できません",
+  "SaveError": "保存エラー",
+
+  "str_open": "開く",
+  "str_server_rename": "名前を変更",
+  "str_server_move": "移動",
+  "str_server_down": "ダウンロード",
+  "str_server_downzip": "ZIP でダウンロード",
+  "str_server_delete": "削除",
+  "str_server_cancel": "キャンセル",
+  "str_server_ok": "OK",
+
+  "str_view": "表示",
+  "str_upload": "アップロード",
+  "str_add_new": "追加",
+  "str_select": "選択",
+  "str_sorting": "並べ替え",
+  "str_sorting_name": "名前",
+  "str_sorting_type": "種類",
+  "str_sorting_size": "サイズ",
+  "str_sorting_date": "日付",
+
+  "str_folder": "フォルダ",
+  "str_file": "ファイル",
+  "str_files": "ファイル",
+
+  "str_error_permission": "権限がありません",
+
+  "str_theme": "テーマ",
+
+  "str_home": "ファイル",
+
+  "str_selected": "選択済み",
+
+  "str_fullscreen": "全画面表示",
+
+  "str_overwrite_confirm": "ファイル %NAME% は既に存在します。上書きしますか？",
+  "str_upload_skipped": "ユーザーによりスキップされました",
+
+  "str_login": "ログイン",
+  "str_login_to": "続行するにはログインしてください",
+  "str_login_name": "ログイン名",
+  "str_pass": "パスワード",
+
+  "str_server_hide": "非表示",
+  "str_server_cancel_all": "すべてキャンセル",
+
+  "str_coffee": "作者にコーヒーをおごる",
+  "str_about_author": "作者について",
+  "str_about_app": "アプリについて",
+  "str_rate_app": "アプリを評価する",
+
+  "ModeView": "閲覧",
+  "ModeEdit": "編集"
+}

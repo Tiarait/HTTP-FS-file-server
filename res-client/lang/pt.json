@@ -1,0 +1,81 @@
+{
+  "Language": "Idioma",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDF5\uD83C\uDDF9",
+
+  "Edit": "Editar",
+  "Save": "Salvar",
+  "UnsavedChangesTitle": "Alterações não salvas",
+  "UnsavedChangesBody": "Sair sem salvar?",
+  "EditorNotAvailable": "Editor não disponível",
+  "SaveError": "Erro ao salvar",
+
+  "str_open": "Abrir",
+  "str_server_rename": "Renomear",
+  "str_server_move": "Mover",
+  "str_server_down": "Baixar",
+  "str_server_downzip": "Baixar como ZIP",
+  "str_server_delete": "Excluir",
+  "str_server_cancel": "Cancelar",
+  "str_server_ok": "OK",
+
+  "str_view": "Visualizar",
+  "str_upload": "Enviar",
+  "str_add_new": "Adicionar",
+  "str_select": "Selecionar",
+  "str_sorting": "Ordenação",
+  "str_sorting_name": "Nome",
+  "str_sorting_type": "Tipo",
+  "str_sorting_size": "Tamanho",
+  "str_sorting_date": "Data",
+
+  "str_folder": "Pasta",
+  "str_file": "Arquivo",
+  "str_files": "Arquivos",
+
+  "str_error_permission": "Permissão negada",
+
+  "str_theme": "Tema",
+
+  "str_home": "Arquivos",
+
+  "str_selected": "Selecionado",
+
+  "str_fullscreen": "Tela cheia",
+
+  "str_overwrite_confirm": "O arquivo %NAME% já existe. Substituir?",
+  "str_upload_skipped": "Ignorado pelo usuário",
+
+  "str_login": "Entrar",
+  "str_login_to": "Entre para continuar",
+  "str_login_name": "Login",
+  "str_pass": "Senha",
+
+  "str_server_hide": "Ocultar",
+  "str_server_cancel_all": "Cancelar tudo",
+
+  "str_coffee": "Pagar um café",
+  "str_about_author": "Sobre o autor",
+  "str_about_app": "Sobre o aplicativo",
+  "str_rate_app": "Avaliar o aplicativo",
+
+  "ModeView": "VISUALIZAR",
+  "ModeEdit": "EDITAR"
+}

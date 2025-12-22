@@ -42,6 +42,9 @@
     <string name="under_develop">en cours de développement</string>
     <string name="setting_start_server_title">Démarrer le serveur avec l\'application</string>
 
+    <string name="setting_ads_privacy_title">Publicité &amp; confidentialité</string>
+    <string name="setting_ads_privacy_desc">Gérer les annonces personnalisées ou non personnalisées et les options de confidentialité.</string>
+
     <string name="setting_feedback_title">Retour d\'information</string>
 
     <string name="msg_click_to_start_server">Cliquez ici pour démarrer le serveur de fichiers</string>
@@ -159,4 +162,28 @@
 
     <string name="users">Utilisateurs</string>
     <string name="user">Utilisateur</string>
+    <string name="from">De</string>
+    <string name="to">à</string>
+    <string name="file_or_url">Fichier ou URL</string>
+    <string name="check_connection_socket">Vérifier la connexion du socket</string>
+
+
+    <string name="setting_buffer_size_title">Taille du tampon</string>
+    <string name="setting_buffer_size_desc">Affecte la vitesse de transfert de fichiers. Plus grand = plus rapide, mais utilise plus de mémoire.</string>
+    <string name="setting_buffer_size_recommended">Recommandé</string>
+    <string name="setting_buffer_size_reset">RÉINITIALISER</string>
+
+    <string name="setting_blocked_ips_title">Adresses IP bloquées</string>
+    <string name="setting_blocked_ips_desc">Bloquer l\'accès depuis des adresses IP spécifiques. Utile pour bloquer les connexions indésirables.</string>
+    <string name="setting_blocked_ips_summary">%d bloquées</string>
+    <string name="setting_blocked_ips_empty">Aucune IP bloquée</string>
+    <string name="setting_blocked_ips_list">IPs bloquées</string>
+    <string name="setting_blocked_ips_add">Ajouter une IP bloquée</string>
+    <string name="setting_blocked_ips_edit">Modifier l\'IP bloquée</string>
+    <string name="setting_blocked_ips_item_desc">Appuyez pour modifier ou supprimer</string>
+    <string name="setting_blocked_ips_hint">Entrez l\'adresse IP (ex: 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">L\'adresse IP ne peut pas être vide</string>
+    <string name="setting_blocked_ips_error_invalid">Format d\'adresse IP invalide</string>
+    <string name="setting_blocked_ips_error_duplicate">Cette IP est déjà bloquée</string>
+    <string name="setting_blocked_ips_limit">Version gratuite: jusqu\'\u00e0 %d adresses IP. Passez à Pro pour illimité.</string>
 </resources>

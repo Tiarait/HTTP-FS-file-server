@@ -1,0 +1,81 @@
+{
+  "Language": "Idioma",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDEA\uD83C\uDDF8",
+
+  "Edit": "Editar",
+  "Save": "Guardar",
+  "UnsavedChangesTitle": "Cambios sin guardar",
+  "UnsavedChangesBody": "¿Salir sin guardar?",
+  "EditorNotAvailable": "Editor no disponible",
+  "SaveError": "Error al guardar",
+
+  "str_open": "Abrir",
+  "str_server_rename": "Renombrar",
+  "str_server_move": "Mover",
+  "str_server_down": "Descargar",
+  "str_server_downzip": "Descargar como ZIP",
+  "str_server_delete": "Eliminar",
+  "str_server_cancel": "Cancelar",
+  "str_server_ok": "OK",
+
+  "str_view": "Vista",
+  "str_upload": "Subir",
+  "str_add_new": "Añadir",
+  "str_select": "Seleccionar",
+  "str_sorting": "Ordenación",
+  "str_sorting_name": "Nombre",
+  "str_sorting_type": "Tipo",
+  "str_sorting_size": "Tamaño",
+  "str_sorting_date": "Fecha",
+
+  "str_folder": "Carpeta",
+  "str_file": "Archivo",
+  "str_files": "Archivos",
+
+  "str_error_permission": "Permiso denegado",
+
+  "str_theme": "Tema",
+
+  "str_home": "Archivos",
+
+  "str_selected": "Seleccionado",
+
+  "str_fullscreen": "Pantalla completa",
+
+  "str_overwrite_confirm": "El archivo %NAME% ya existe. ¿Reemplazarlo?",
+  "str_upload_skipped": "Omitido por el usuario",
+
+  "str_login": "Iniciar sesión",
+  "str_login_to": "Inicia sesión para continuar",
+  "str_login_name": "Usuario",
+  "str_pass": "Contraseña",
+
+  "str_server_hide": "Ocultar",
+  "str_server_cancel_all": "Cancelar todo",
+
+  "str_coffee": "Invitar a un café",
+  "str_about_author": "Sobre el autor",
+  "str_about_app": "Sobre la aplicación",
+  "str_rate_app": "Valorar la aplicación",
+
+  "ModeView": "VISTA",
+  "ModeEdit": "EDICIÓN"
+}

@@ -43,6 +43,9 @@
     <string name="under_develop">विकास के तहत</string>
     <string name="setting_start_server_title">एप्लिकेशन के साथ सर्वर शुरू करें</string>
 
+    <string name="setting_ads_privacy_title">विज्ञापन और गोपनीयता</string>
+    <string name="setting_ads_privacy_desc">व्यक्तिगत और गैर‑व्यक्तिगत विज्ञापनों और गोपनीयता विकल्पों को प्रबंधित करें।</string>
+
     <string name="setting_feedback_title">प्रतिक्रिया</string>
 
 
@@ -162,4 +165,28 @@
 
     <string name="users">उपयोगकर्ता</string>
     <string name="user">उपयोगकर्ता</string>
+    <string name="from">से</string>
+    <string name="to">तक</string>
+    <string name="file_or_url">फ़ाइल या URL</string>
+    <string name="check_connection_socket">सॉकेट कनेक्शन की जाँच करें</string>
+
+
+    <string name="setting_buffer_size_title">बफर आकार</string>
+    <string name="setting_buffer_size_desc">फाइल हस्तांतरण गति को प्रभावित करता है। बड़ा = तेज़, लेकिन अधिक मेमोरी का उपयोग करता है।</string>
+    <string name="setting_buffer_size_recommended">अनुशंसित</string>
+    <string name="setting_buffer_size_reset">रीसेट</string>
+
+    <string name="setting_blocked_ips_title">अवरुद्ध IP पते</string>
+    <string name="setting_blocked_ips_desc">विशिष्ट IP पतों से पहुंच अवरुद्ध करें। अवांछित कनेक्शन को अवरुद्ध करने के लिए उपयोगी।</string>
+    <string name="setting_blocked_ips_summary">%d अवरुद्ध</string>
+    <string name="setting_blocked_ips_empty">कोई अवरुद्ध IP नहीं</string>
+    <string name="setting_blocked_ips_list">अवरुद्ध IP</string>
+    <string name="setting_blocked_ips_add">अवरुद्ध IP जोड़ें</string>
+    <string name="setting_blocked_ips_edit">अवरुद्ध IP संपादित करें</string>
+    <string name="setting_blocked_ips_item_desc">संपादित करने या हटाने के लिए टैप करें</string>
+    <string name="setting_blocked_ips_hint">IP पता दर्ज करें (उदा.: 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">IP पता खाली नहीं हो सकता</string>
+    <string name="setting_blocked_ips_error_invalid">अमान्य IP पता प्रारूप</string>
+    <string name="setting_blocked_ips_error_duplicate">यह IP पहले से अवरुद्ध है</string>
+    <string name="setting_blocked_ips_limit">मुफ्त संस्करण: %d IP पते तक। असीमित के लिए Pro में अपग्रेड करें।</string>
 </resources>

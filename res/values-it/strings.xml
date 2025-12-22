@@ -1,0 +1,189 @@
+<resources>
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="menu_about">Informazioni</string>
+    <string name="version">Versione %s</string>
+    <string name="menu_logs">Log</string>
+    <string name="menu_web">Web</string>
+
+    <string name="share">Condividi</string>
+    <string name="status_server">Server:</string>
+    <string name="status_wifi">WiFi:</string>
+    <string name="status_port">Porta:</string>
+
+    <string name="msg_permissions">È necessario concedere le autorizzazioni affinché l\'applicazione funzioni correttamente.</string>
+    <string name="msg_permissions_notif">Puoi concedere l\'autorizzazione alle notifiche affinché l\'applicazione funzioni correttamente, oppure rimandare a più tardi (non influisce sulle funzionalità).</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_settings">Impostazioni</string>
+    <string name="btn_exit">Esci</string>
+    <string name="btn_later">Più tardi</string>
+
+    <string name="setting_port_title">PORTA</string>
+    <string name="setting_name_title">Nome</string>
+
+    <string name="setting_cat_app">Impostazioni app</string>
+    <string name="setting_cat_server">Impostazioni server</string>
+
+    <string name="setting_path_title">Percorso cartella</string>
+
+    <string name="setting_file_title">File iniziale</string>
+
+    <string name="setting_secure_title">Usa password</string>
+    <string name="setting_pass_title">Password</string>
+    <string name="setting_session_title">Durata sessione (min)</string>
+    <string name="setting_permission_title">Permessi</string>
+    <string name="setting_permission_val_read">Lettura</string>
+    <string name="setting_permission_val_write">Scrittura</string>
+
+    <string name="setting_servtype_title">Tipo di server</string>
+
+    <string name="setting_buffer_size_title">Dimensione buffer</string>
+    <string name="setting_buffer_size_desc">Influisce sulla velocità di trasferimento. Più grande = più veloce, ma usa più memoria.</string>
+    <string name="setting_buffer_size_recommended">Consigliato</string>
+    <string name="setting_buffer_size_reset">RIPRISTINA</string>
+
+    <string name="setting_blocked_ips_title">Indirizzi IP bloccati</string>
+    <string name="setting_blocked_ips_desc">Blocca l\'accesso da indirizzi IP specifici. Utile per bloccare connessioni indesiderate.</string>
+    <string name="setting_blocked_ips_summary">%d bloccati</string>
+    <string name="setting_blocked_ips_empty">Nessun IP bloccato</string>
+    <string name="setting_blocked_ips_list">IP bloccati</string>
+    <string name="setting_blocked_ips_add">Aggiungi IP bloccato</string>
+    <string name="setting_blocked_ips_edit">Modifica IP bloccato</string>
+    <string name="setting_blocked_ips_item_desc">Tocca per modificare o eliminare</string>
+    <string name="setting_blocked_ips_hint">Inserisci indirizzo IP (es. 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">L\'indirizzo IP non può essere vuoto</string>
+    <string name="setting_blocked_ips_error_invalid">Formato indirizzo IP non valido</string>
+    <string name="setting_blocked_ips_error_duplicate">Questo IP è già bloccato</string>
+    <string name="setting_blocked_ips_limit">Versione gratuita: fino a %d indirizzi IP. Passa a Pro per illimitati.</string>
+
+    <string name="setting_start_app_title">Avvia server con il dispositivo</string>
+    <string name="setting_start_app_desc">Questa funzione potrebbe non funzionare su alcuni dispositivi e potrebbe richiedere un\'autorizzazione di sistema aggiuntiva.</string>
+    <string name="under_develop">in sviluppo</string>
+    <string name="setting_start_server_title">Avvia server con l\'app</string>
+
+    <string name="setting_ads_privacy_title">Pubblicità e privacy</string>
+    <string name="setting_ads_privacy_desc">Gestisci annunci personalizzati/non personalizzati e opzioni di privacy.</string>
+
+    <string name="setting_feedback_title">Feedback</string>
+
+    <string name="msg_click_to_start_server">Tocca qui per avviare il file server</string>
+    <string name="msg_click_to_show_info">E qui per mostrare info o QR</string>
+
+    <string name="error_permission">Errore: nessun permesso!</string>
+    <string name="error_wifi_disable">Sembra che il WiFi sia disattivato!</string>
+    <string name="error_wifi_disable_text">Per usare il server, gli utenti devono essere sulla stessa rete Wi-Fi.</string>
+
+    <string name="html_server_home">File</string>
+    <string name="html_server_upload">Carica file</string>
+    <string name="html_server_folder">Cartella</string>
+    <string name="html_server_files">file</string>
+    <string name="html_server_name">Nome</string>
+    <string name="html_server_size">Dimensione</string>
+    <string name="html_server_date">Data</string>
+    <string name="str_server_cancel">Annulla</string>
+    <string name="str_server_uploading">Caricamento</string>
+    <string name="str_server_warn_save">Questo file non può essere aperto. Vuoi <b>SALVARLO</b>?</string>
+    <string name="str_server_yes">Sì</string>
+    <string name="str_server_no">No</string>
+    <string name="str_server_rename">Rinomina</string>
+    <string name="str_server_move">Sposta</string>
+    <string name="str_server_downzip">Scarica come zip</string>
+    <string name="str_server_down">Scarica</string>
+    <string name="str_server_delete">Elimina</string>
+    <string name="str_create_folder">Crea cartella</string>
+    <string name="str_create_file">Crea file</string>
+    <string name="long_copy">Pressione lunga per copiare</string>
+    <string name="copied">Copiato</string>
+
+    <string name="file_is_empty">Il file è vuoto</string>
+    <string name="delete_log_file">Eliminare il file di log?</string>
+    <string name="long_filer_click">Pressione lunga per azzerare il filtro</string>
+    <string name="logs_paused">I log saranno messi in pausa in questo momento.\nPuoi disattivare i log nelle impostazioni</string>
+
+    <string name="lang_select">Seleziona lingua</string>
+    <string name="lang_def">Predefinita</string>
+
+    <string name="stop">Stop</string>
+    <string name="server_running">Server in esecuzione</string>
+
+    <string name="logout">Logout</string>
+    <string name="d_logout_users">Vuoi disconnettere tutti gli utenti?</string>
+
+    <string name="rate_five_stars">Valuta questa app</string>
+    <string name="more_apps">Altre app dell\'autore</string>
+    <string name="about_text">Ciao a tutti, sono uno sviluppatore dall\'Ucraina. Se hai suggerimenti per un\'app o proposte di collaborazione, scrivimi. Non dimenticare di valutare l\'app: è l\'unica cosa che mi motiva a continuare a lavorarci.</string>
+    <string name="about_me">Informazioni sull\'autore</string>
+    <string name="home">Home</string>
+    <string name="refresh">Aggiorna</string>
+    <string name="certificate">Certificato</string>
+    <string name="certificate_exp">Esporta certificato</string>
+
+    <string name="setting_cat_client">Impostazioni client</string>
+    <string name="setting_cat_battery">Consumo batteria</string>
+    <string name="setting_battery_title">Permessi batteria</string>
+    <string name="setting_folder_size_title">Calcola dimensione cartella</string>
+    <string name="setting_thumbnails_title">Genera miniature</string>
+    <string name="setting_welcome_msg_title">Messaggio di benvenuto</string>
+    <string name="setting_welcome_msg_summ">Lascia vuoto per nascondere</string>
+    <string name="html_server_type">Tipo</string>
+    <string name="html_server_view">Vista</string>
+    <string name="html_server_view_list">Elenco</string>
+    <string name="html_server_view_grid">Griglia</string>
+    <string name="html_server_sorting">Ordinamento</string>
+    <string name="html_server_selected">Selezionati</string>
+    <string name="html_server_select">Seleziona</string>
+    <string name="html_server_download_zip">Scarica come .zip</string>
+    <string name="about_app">Informazioni app</string>
+    <string name="give_coffee">Offri un caffè</string>
+    <string name="html_server_msg"><![CDATA[<h2>Benvenuto!</h2><div style="text-align: justify;">Se ti è piaciuta l\'app, puoi supportarmi <a href="https://tiarait.github.io/?id=donate" target="_blank">nel modo che preferisci</a>. Puoi trovare tutte le novità su aggiornamenti, cambiamenti e bug su <a href="https://github.com/Tiarait/HTTP-FS-file-server" target="_blank">GitHub</a>.</div>]]></string>
+
+    <string name="dialog_write_protection">Protezione scrittura!</string>
+    <string name="dialog_write_protection_unmount">Sembra che la scheda SD non sia montata. Si consiglia di scegliere un\'altra scheda.\n\n</string>
+    <string name="dialog_write_protection_wrong">Sembra che tu abbia scelto la cartella sbagliata.\n\n</string>
+    <string name="dialog_write_protection_error">Nessuna attività trovata per gestire intent\nACTION_OPEN_DOCUMENT_TREE\n\nQuesto dispositivo non sembra supportare Android Storage Access Framework</string>
+    <string name="dialog_write_protection_text">Su Android ≥ 5, la scheda SD esterna è protetta da scrittura. Devi scegliere la directory da una finestra di dialogo Android per concedere a HTTP FS i permessi di scrittura.\n\nNella prossima finestra, vai alla root della scheda SD esterna e premi il pulsante in basso <b>«Seleziona»</b></string>
+    <string name="btn_retry">Riprova</string>
+
+    <string name="html_server_msg_pro"><![CDATA[<h2>Benvenuto nella versione PRO!</h2><div>Per problemi o suggerimenti, scrivi a <a href="mailto:tiar.develop@gmail.com?subject=HttpFS&amp;body=Hello." target="_blank">tiar.develop@gmail.com</a>.</div>]]></string>
+    <string name="vibro">Vibrazione aptica</string>
+    <string name="blur">Sfocatura nei dialog</string>
+    <string name="permissions">Permessi</string>
+    <string name="setting_perm_folder_title">Permessi per cartelle</string>
+    <string name="setting_cat_server_interface">Interfacce</string>
+    <string name="setting_cat_server_security">Sicurezza</string>
+    <string name="open_link">Aprire il link?</string>
+    <string name="open_link_d">Il link verrà aperto nel browser predefinito, non correlato all\'applicazione</string>
+    <string name="login">Login</string>
+    <string name="login_to">Accedi per continuare</string>
+    <string name="login_name">Login</string>
+    <string name="upload">Carica</string>
+    <string name="create">Crea</string>
+    <string name="theme">Tema</string>
+    <string name="on_full_screen">Schermo intero</string>
+    <string name="in_new_tab">In nuova scheda</string>
+    <string name="file">File</string>
+    <string name="server_offline">Server offline</string>
+    <string name="repeat">Riprova</string>
+    <string name="hide">Nascondi</string>
+    <string name="cancel_all">Annulla tutto</string>
+    <string name="clear_cache">Svuota cache</string>
+    <string name="hide_files">Nascondi file</string>
+    <string name="add">Aggiungi</string>
+    <string name="pro_version">La versione Pro è disponibile su Google Play.</string>
+    <string name="path_file_title">Percorso file</string>
+    <string name="hard_redirect">Reindirizzamento forzato</string>
+
+    <string name="exit_app">Uscire dall\'applicazione?</string>
+    <string name="exit_app_final">Chiudere completamente l\'app (fermare tutti i processi in esecuzione)?</string>
+    <string name="dialog_filepermission_title">È richiesta un\'autorizzazione</string>
+    <string name="dialog_filepermission_summary">L\'applicazione necessita dell\'accesso al file system del dispositivo per funzionare.\nLa funzione principale è avviare un file server Http/WebDAV che consente di gestire il file system del dispositivo.</string>
+
+    <string name="setting_redirects_title">Reindirizzamenti</string>
+
+    <string name="users">Utenti</string>
+    <string name="user">Utente</string>
+    <string name="from">Da</string>
+    <string name="to">a</string>
+    <string name="file_or_url">File o URL</string>
+    <string name="check_connection_socket">Controlla connessione socket</string>
+</resources>

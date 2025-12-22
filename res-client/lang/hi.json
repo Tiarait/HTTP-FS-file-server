@@ -1,0 +1,81 @@
+{
+  "Language": "भाषा",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDEE\uD83C\uDDF3",
+
+  "Edit": "संपादित करें",
+  "Save": "सहेजें",
+  "UnsavedChangesTitle": "असहेजे परिवर्तन",
+  "UnsavedChangesBody": "बिना सहेजे बाहर निकलें?",
+  "EditorNotAvailable": "एडिटर उपलब्ध नहीं है",
+  "SaveError": "सहेजने में त्रुटि",
+
+  "str_open": "खोलें",
+  "str_server_rename": "नाम बदलें",
+  "str_server_move": "स्थानांतरित करें",
+  "str_server_down": "डाउनलोड करें",
+  "str_server_downzip": "ZIP के रूप में डाउनलोड करें",
+  "str_server_delete": "हटाएँ",
+  "str_server_cancel": "रद्द करें",
+  "str_server_ok": "ठीक है",
+
+  "str_view": "दृश्य",
+  "str_upload": "अपलोड",
+  "str_add_new": "नया जोड़ें",
+  "str_select": "चुनें",
+  "str_sorting": "क्रमबद्ध करना",
+  "str_sorting_name": "नाम",
+  "str_sorting_type": "प्रकार",
+  "str_sorting_size": "आकार",
+  "str_sorting_date": "तिथि",
+
+  "str_folder": "फ़ोल्डर",
+  "str_file": "फ़ाइल",
+  "str_files": "फ़ाइलें",
+
+  "str_error_permission": "अनुमति अस्वीकृत",
+
+  "str_theme": "थीम",
+
+  "str_home": "फ़ाइलें",
+
+  "str_selected": "चयनित",
+
+  "str_fullscreen": "पूर्ण स्क्रीन",
+
+  "str_overwrite_confirm": "फ़ाइल %NAME% पहले से मौजूद है। क्या इसे बदलना है?",
+  "str_upload_skipped": "उपयोगकर्ता द्वारा छोड़ा गया",
+
+  "str_login": "लॉगिन",
+  "str_login_to": "जारी रखने के लिए लॉगिन करें",
+  "str_login_name": "लॉगिन",
+  "str_pass": "पासवर्ड",
+
+  "str_server_hide": "छिपाएँ",
+  "str_server_cancel_all": "सब रद्द करें",
+
+  "str_coffee": "लेखक को कॉफ़ी दें",
+  "str_about_author": "लेखक के बारे में",
+  "str_about_app": "ऐप के बारे में",
+  "str_rate_app": "ऐप को रेट करें",
+
+  "ModeView": "देखें",
+  "ModeEdit": "संपादन"
+}

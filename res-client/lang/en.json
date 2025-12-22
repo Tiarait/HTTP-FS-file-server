@@ -1,0 +1,90 @@
+{
+  "Language": "Language",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDEC\uD83C\uDDE7",
+
+  "Edit": "Edit",
+  "Save": "Save",
+  "UnsavedChangesTitle": "Unsaved changes",
+  "UnsavedChangesBody": "Exit without saving?",
+  "EditorNotAvailable": "Editor is not available",
+  "SaveError": "Save error",
+
+  "str_open": "Open",
+  "str_server_rename": "Rename",
+  "str_server_move": "Move",
+  "str_server_down": "Download",
+  "str_server_downzip": "Download as ZIP",
+  "str_server_delete": "Delete",
+  "str_server_cancel": "Cancel",
+  "str_server_ok": "OK",
+
+  "str_view": "View",
+  "str_upload": "Upload",
+  "str_add_new": "Add New",
+  "str_select": "Select",
+  "str_sorting": "Sorting",
+  "str_sorting_name": "Name",
+  "str_sorting_type": "Type",
+  "str_sorting_size": "Size",
+  "str_sorting_date": "Date",
+
+  "str_folder": "Folder",
+  "str_file": "File",
+  "str_files": "Files",
+
+  "str_error_permission": "Permission denied",
+
+  "str_theme": "Theme",
+
+  "str_home": "Files",
+
+  "str_selected": "Selected",
+
+  "str_fullscreen": "Fullscreen",
+
+  "str_overwrite_confirm": "File %NAME% already exists. Replace it?",
+  "str_upload_skipped": "Skipped by user",
+
+  "str_login": "Login",
+  "str_login_to": "Login to continue",
+  "str_login_name": "Login",
+  "str_pass": "Password",
+
+  "str_server_hide": "Hide",
+  "str_server_cancel_all": "Cancel all",
+
+  "str_coffee": "Give for coffee",
+  "str_about_author": "About author",
+  "str_about_app": "About app",
+  "str_rate_app": "Rate this app",
+
+  "str_server_offline": "Server is offline",
+  "str_server_reconnect": "Reconnect",
+
+  "ModeView": "VIEW",
+  "ModeEdit": "EDIT",
+
+  "str_drop_files": "Drop files or folders here",
+  "str_or_click": "or click to browse",
+  "str_start_upload": "Start upload",
+  "str_remove": "Remove",
+  "str_files_count": "file(s)"
+}

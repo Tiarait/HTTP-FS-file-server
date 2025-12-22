@@ -1,0 +1,81 @@
+{
+  "Language": "언어",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDF0\uD83C\uDDF7",
+
+  "Edit": "편집",
+  "Save": "저장",
+  "UnsavedChangesTitle": "저장되지 않은 변경 사항",
+  "UnsavedChangesBody": "저장하지 않고 종료하시겠습니까?",
+  "EditorNotAvailable": "에디터를 사용할 수 없습니다",
+  "SaveError": "저장 오류",
+
+  "str_open": "열기",
+  "str_server_rename": "이름 바꾸기",
+  "str_server_move": "이동",
+  "str_server_down": "다운로드",
+  "str_server_downzip": "ZIP으로 다운로드",
+  "str_server_delete": "삭제",
+  "str_server_cancel": "취소",
+  "str_server_ok": "확인",
+
+  "str_view": "보기",
+  "str_upload": "업로드",
+  "str_add_new": "추가",
+  "str_select": "선택",
+  "str_sorting": "정렬",
+  "str_sorting_name": "이름",
+  "str_sorting_type": "유형",
+  "str_sorting_size": "크기",
+  "str_sorting_date": "날짜",
+
+  "str_folder": "폴더",
+  "str_file": "파일",
+  "str_files": "파일",
+
+  "str_error_permission": "권한이 없습니다",
+
+  "str_theme": "테마",
+
+  "str_home": "파일",
+
+  "str_selected": "선택됨",
+
+  "str_fullscreen": "전체 화면",
+
+  "str_overwrite_confirm": "파일 %NAME% 이(가) 이미 존재합니다. 덮어쓸까요?",
+  "str_upload_skipped": "사용자가 건너뜀",
+
+  "str_login": "로그인",
+  "str_login_to": "계속하려면 로그인하세요",
+  "str_login_name": "로그인",
+  "str_pass": "비밀번호",
+
+  "str_server_hide": "숨기기",
+  "str_server_cancel_all": "모두 취소",
+
+  "str_coffee": "개발자에게 커피 사주기",
+  "str_about_author": "개발자 정보",
+  "str_about_app": "앱 정보",
+  "str_rate_app": "앱 평가하기",
+
+  "ModeView": "보기",
+  "ModeEdit": "편집"
+}

@@ -43,6 +43,9 @@
     <string name="under_develop">onder ontwikkeling</string>
     <string name="setting_start_server_title">Start server met app</string>
 
+    <string name="setting_ads_privacy_title">Advertenties en privacy</string>
+    <string name="setting_ads_privacy_desc">Beheer gepersonaliseerde en niet‑gepersonaliseerde advertenties en privacy‑opties.</string>
+
     <string name="setting_feedback_title">Reageren</string>
 
 
@@ -166,4 +169,23 @@
     <string name="to">naar</string>
     <string name="file_or_url">Bestand or url</string>
     <string name="check_connection_socket">Controleer verbinding</string>
+
+    <string name="setting_buffer_size_title">Buffergrootte</string>
+    <string name="setting_buffer_size_desc">Beïnvloedt de bestandsoverdrachtsnelheid. Groter = sneller, maar gebruikt meer geheugen.</string>
+    <string name="setting_buffer_size_recommended">Aanbevolen</string>
+    <string name="setting_buffer_size_reset">RESETTEN</string>
+
+    <string name="setting_blocked_ips_title">Geblokkeerde IP-adressen</string>
+    <string name="setting_blocked_ips_desc">Blokkeer toegang vanaf specifieke IP-adressen. Handig voor het blokkeren van ongewenste verbindingen.</string>
+    <string name="setting_blocked_ips_summary">%d geblokkeerd</string>
+    <string name="setting_blocked_ips_empty">Geen geblokkeerde IP\'s</string>
+    <string name="setting_blocked_ips_list">Geblokkeerde IP\'s</string>
+    <string name="setting_blocked_ips_add">Geblokkeerd IP toevoegen</string>
+    <string name="setting_blocked_ips_edit">Geblokkeerd IP bewerken</string>
+    <string name="setting_blocked_ips_item_desc">Tik om te bewerken of verwijderen</string>
+    <string name="setting_blocked_ips_hint">Voer IP-adres in (bijv. 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">IP-adres mag niet leeg zijn</string>
+    <string name="setting_blocked_ips_error_invalid">Ongeldig IP-adresformaat</string>
+    <string name="setting_blocked_ips_error_duplicate">Dit IP is al geblokkeerd</string>
+    <string name="setting_blocked_ips_limit">Gratis versie: tot %d IP-adressen. Upgrade naar Pro voor onbeperkt.</string>
 </resources>

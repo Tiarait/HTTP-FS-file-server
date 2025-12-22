@@ -48,6 +48,7 @@
     <string name="lang_es" translatable="false">Español</string>
     <string name="lang_fr" translatable="false">Français</string>
     <string name="lang_hi" translatable="false">हिंदी</string>
+    <string name="lang_it" translatable="false">Italiano</string>
     <string name="lang_ja" translatable="false">日本語</string>
     <string name="lang_ko" translatable="false">한국인</string>
     <string name="lang_pl" translatable="false">Polska</string>
@@ -55,8 +56,8 @@
     <string name="lang_pt_rBR" translatable="false">Portuguese (Brazilian)</string>
     <string name="lang_ua" translatable="false">Українська</string>
     <string name="lang_vi" translatable="false">Tiếng Việt</string>
-    <string name="lang_zh_CN" translatable="false">简体中文</string>
-    <string name="lang_zh_TW" translatable="false">繁体中文</string>
+    <string name="lang_zh" translatable="false">简体中文</string>
+    <string name="lang_zh_rTW" translatable="false">繁体中文</string>
 
     <string name="app_name" translatable="false">HTTP FS</string>
 
@@ -97,12 +98,33 @@
     <string name="setting_permission_val_write">Write</string>
 
     <string name="setting_servtype_title">Server type</string>
+    
+    <string name="setting_buffer_size_title">Buffer Size</string>
+    <string name="setting_buffer_size_desc">Affects file transfer speed. Larger = faster, but uses more memory.</string>
+    <string name="setting_buffer_size_recommended">Recommended</string>
+    <string name="setting_buffer_size_reset">RESET</string>
 
+    <string name="setting_blocked_ips_title">Blocked IP Addresses</string>
+    <string name="setting_blocked_ips_desc">Block access from specific IP addresses. Useful for blocking unwanted connections.</string>
+    <string name="setting_blocked_ips_summary">%d blocked</string>
+    <string name="setting_blocked_ips_empty">No blocked IPs</string>
+    <string name="setting_blocked_ips_list">Blocked IPs</string>
+    <string name="setting_blocked_ips_add">Add Blocked IP</string>
+    <string name="setting_blocked_ips_edit">Edit Blocked IP</string>
+    <string name="setting_blocked_ips_item_desc">Tap to edit or delete</string>
+    <string name="setting_blocked_ips_hint">Enter IP address (e.g., 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">IP address cannot be empty</string>
+    <string name="setting_blocked_ips_error_invalid">Invalid IP address format</string>
+    <string name="setting_blocked_ips_error_duplicate">This IP is already blocked</string>
+    <string name="setting_blocked_ips_limit">Free version: up to %d IP addresses. Upgrade to Pro for unlimited.</string>
 
     <string name="setting_start_app_title">Start server with device</string>
     <string name="setting_start_app_desc">This function may not work on some devices and some devices may require additional system permission</string>
     <string name="under_develop">under development</string>
     <string name="setting_start_server_title">Start server with app</string>
+
+    <string name="setting_ads_privacy_title">Ads &amp; privacy</string>
+    <string name="setting_ads_privacy_desc">Manage personalized and non-personalized ads and privacy options.</string>
 
     <string name="setting_feedback_title">Feedback</string>
 
@@ -152,7 +174,7 @@
 
     <string name="rate_five_stars">Rate this app</string>
     <string name="more_apps">More apps from me</string>
-    <string name="about_text">Hello everyone, I\'m a developer from Ukraine. If you have any suggestions for an app or cooperation - write to me. Do not forget to rate the application - only this motivates you to continue working on the app.</string>
+    <string name="about_text">Hello everyone, I\'m a developer from Ukraine. If you have any suggestions for an app or cooperation - write to me. Do not forget to rate the application - only this motivates me to continue working on the app.</string>
     <string name="about_me">About author</string>
     <string name="home">Home</string>
     <string name="refresh">Refresh</string>
@@ -164,7 +186,7 @@
     <string name="setting_battery_title">Battery permissions</string>
     <string name="setting_folder_size_title">Get size of folder</string>
     <string name="setting_thumbnails_title">Get thumbnails</string>
-    <string name="setting_welcome_msg_title">Welcome dialog massage</string>
+    <string name="setting_welcome_msg_title">Welcome dialog message</string>
     <string name="setting_welcome_msg_summ">Make blank to hide</string>
     <string name="html_server_type">Type</string>
     <string name="html_server_view">View</string>

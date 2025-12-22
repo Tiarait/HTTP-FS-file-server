@@ -42,6 +42,9 @@
     <string name="under_develop">Đang phát triển</string>
     <string name="setting_start_server_title">Khởi động máy chủ với ứng dụng</string>
 
+    <string name="setting_ads_privacy_title">Quảng cáo và quyền riêng tư</string>
+    <string name="setting_ads_privacy_desc">Quản lý quảng cáo được cá nhân hóa, không cá nhân hóa và các tùy chọn quyền riêng tư.</string>
+
     <string name="setting_feedback_title">Phản hồi</string>
 
     <string name="msg_click_to_start_server">Nhấn vào đây để khởi động máy chủ tệp</string>
@@ -158,4 +161,28 @@
 
     <string name="users">Người dùng</string>
     <string name="user">Người dùng</string>
+    <string name="from">Từ</string>
+    <string name="to">đến</string>
+    <string name="file_or_url">Tệp hoặc URL</string>
+    <string name="check_connection_socket">Kiểm tra socket kết nối</string>
+
+
+    <string name="setting_buffer_size_title">Kích thước bộ đệm</string>
+    <string name="setting_buffer_size_desc">Ảnh hưởng đến tốc độ truyền tập tin. Lớn hơn = nhanh hơn, nhưng sử dụng nhiều bộ nhớ hơn.</string>
+    <string name="setting_buffer_size_recommended">Đề xuất</string>
+    <string name="setting_buffer_size_reset">KHÔI PHỤC</string>
+
+    <string name="setting_blocked_ips_title">Địa chỉ IP bị chặn</string>
+    <string name="setting_blocked_ips_desc">Chặn truy cập từ các địa chỉ IP cụ thể. Hữu ích để chặn các kết nối không mong muốn.</string>
+    <string name="setting_blocked_ips_summary">%d bị chặn</string>
+    <string name="setting_blocked_ips_empty">Không có IP bị chặn</string>
+    <string name="setting_blocked_ips_list">IP bị chặn</string>
+    <string name="setting_blocked_ips_add">Thêm IP bị chặn</string>
+    <string name="setting_blocked_ips_edit">Chỉnh sửa IP bị chặn</string>
+    <string name="setting_blocked_ips_item_desc">Nhấn để chỉnh sửa hoặc xóa</string>
+    <string name="setting_blocked_ips_hint">Nhập địa chỉ IP (ví dụ: 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">Địa chỉ IP không được để trống</string>
+    <string name="setting_blocked_ips_error_invalid">Không hợp lệ địa chỉ IP</string>
+    <string name="setting_blocked_ips_error_duplicate">IP này đã bị chặn</string>
+    <string name="setting_blocked_ips_limit">Phiên bản miễn phí: tối đa %d địa chỉ IP. Nâng cấp lên Pro để không giới hạn.</string>
 </resources>

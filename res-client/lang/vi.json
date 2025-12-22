@@ -1,0 +1,81 @@
+{
+  "Language": "Ngôn ngữ",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDFB\uD83C\uDDF3",
+
+  "Edit": "Chỉnh sửa",
+  "Save": "Lưu",
+  "UnsavedChangesTitle": "Thay đổi chưa lưu",
+  "UnsavedChangesBody": "Thoát mà không lưu?",
+  "EditorNotAvailable": "Trình soạn thảo không khả dụng",
+  "SaveError": "Lỗi khi lưu",
+
+  "str_open": "Mở",
+  "str_server_rename": "Đổi tên",
+  "str_server_move": "Di chuyển",
+  "str_server_down": "Tải xuống",
+  "str_server_downzip": "Tải ZIP",
+  "str_server_delete": "Xóa",
+  "str_server_cancel": "Hủy",
+  "str_server_ok": "OK",
+
+  "str_view": "Xem",
+  "str_upload": "Tải lên",
+  "str_add_new": "Thêm",
+  "str_select": "Chọn",
+  "str_sorting": "Sắp xếp",
+  "str_sorting_name": "Tên",
+  "str_sorting_type": "Loại",
+  "str_sorting_size": "Kích thước",
+  "str_sorting_date": "Ngày",
+
+  "str_folder": "Thư mục",
+  "str_file": "Tệp",
+  "str_files": "Các tệp",
+
+  "str_error_permission": "Không có quyền",
+
+  "str_theme": "Giao diện",
+
+  "str_home": "Tệp",
+
+  "str_selected": "Đã chọn",
+
+  "str_fullscreen": "Toàn màn hình",
+
+  "str_overwrite_confirm": "Tệp %NAME% đã tồn tại. Ghi đè?",
+  "str_upload_skipped": "Bỏ qua bởi người dùng",
+
+  "str_login": "Đăng nhập",
+  "str_login_to": "Đăng nhập để tiếp tục",
+  "str_login_name": "Tên đăng nhập",
+  "str_pass": "Mật khẩu",
+
+  "str_server_hide": "Ẩn",
+  "str_server_cancel_all": "Hủy tất cả",
+
+  "str_coffee": "Mời tác giả cà phê",
+  "str_about_author": "Về tác giả",
+  "str_about_app": "Về ứng dụng",
+  "str_rate_app": "Đánh giá ứng dụng",
+
+  "ModeView": "XEM",
+  "ModeEdit": "SỬA"
+}

@@ -1,0 +1,81 @@
+{
+  "Language": "Taal",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDF3\uD83C\uDDF1",
+
+  "Edit": "Bewerken",
+  "Save": "Opslaan",
+  "UnsavedChangesTitle": "Niet-opgeslagen wijzigingen",
+  "UnsavedChangesBody": "Afsluiten zonder op te slaan?",
+  "EditorNotAvailable": "Editor niet beschikbaar",
+  "SaveError": "Fout bij opslaan",
+
+  "str_open": "Openen",
+  "str_server_rename": "Hernoemen",
+  "str_server_move": "Verplaatsen",
+  "str_server_down": "Downloaden",
+  "str_server_downzip": "Downloaden als ZIP",
+  "str_server_delete": "Verwijderen",
+  "str_server_cancel": "Annuleren",
+  "str_server_ok": "OK",
+
+  "str_view": "Weergave",
+  "str_upload": "Uploaden",
+  "str_add_new": "Toevoegen",
+  "str_select": "Selecteren",
+  "str_sorting": "Sorteren",
+  "str_sorting_name": "Naam",
+  "str_sorting_type": "Type",
+  "str_sorting_size": "Grootte",
+  "str_sorting_date": "Datum",
+
+  "str_folder": "Map",
+  "str_file": "Bestand",
+  "str_files": "Bestanden",
+
+  "str_error_permission": "Toegang geweigerd",
+
+  "str_theme": "Thema",
+
+  "str_home": "Bestanden",
+
+  "str_selected": "Geselecteerd",
+
+  "str_fullscreen": "Volledig scherm",
+
+  "str_overwrite_confirm": "Bestand %NAME% bestaat al. Vervangen?",
+  "str_upload_skipped": "Overgeslagen door gebruiker",
+
+  "str_login": "Inloggen",
+  "str_login_to": "Log in om door te gaan",
+  "str_login_name": "Login",
+  "str_pass": "Wachtwoord",
+
+  "str_server_hide": "Verbergen",
+  "str_server_cancel_all": "Alles annuleren",
+
+  "str_coffee": "Trakteer op koffie",
+  "str_about_author": "Over de auteur",
+  "str_about_app": "Over de app",
+  "str_rate_app": "Beoordeel de app",
+
+  "ModeView": "BEKIJKEN",
+  "ModeEdit": "BEWERKEN"
+}

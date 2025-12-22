@@ -1,0 +1,81 @@
+{
+  "Language": "Langue",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDEB\uD83C\uDDF7",
+
+  "Edit": "Éditer",
+  "Save": "Enregistrer",
+  "UnsavedChangesTitle": "Modifications non enregistrées",
+  "UnsavedChangesBody": "Quitter sans enregistrer ?",
+  "EditorNotAvailable": "Éditeur indisponible",
+  "SaveError": "Erreur d'enregistrement",
+
+  "str_open": "Ouvrir",
+  "str_server_rename": "Renommer",
+  "str_server_move": "Déplacer",
+  "str_server_down": "Télécharger",
+  "str_server_downzip": "Télécharger en ZIP",
+  "str_server_delete": "Supprimer",
+  "str_server_cancel": "Annuler",
+  "str_server_ok": "OK",
+
+  "str_view": "Vue",
+  "str_upload": "Téléverser",
+  "str_add_new": "Ajouter",
+  "str_select": "Sélectionner",
+  "str_sorting": "Tri",
+  "str_sorting_name": "Nom",
+  "str_sorting_type": "Type",
+  "str_sorting_size": "Taille",
+  "str_sorting_date": "Date",
+
+  "str_folder": "Dossier",
+  "str_file": "Fichier",
+  "str_files": "Fichiers",
+
+  "str_error_permission": "Permission refusée",
+
+  "str_theme": "Thème",
+
+  "str_home": "Fichiers",
+
+  "str_selected": "Sélectionné",
+
+  "str_fullscreen": "Plein écran",
+
+  "str_overwrite_confirm": "Le fichier %NAME% existe déjà. Le remplacer ?",
+  "str_upload_skipped": "Ignoré par l'utilisateur",
+
+  "str_login": "Connexion",
+  "str_login_to": "Connectez-vous pour continuer",
+  "str_login_name": "Identifiant",
+  "str_pass": "Mot de passe",
+
+  "str_server_hide": "Masquer",
+  "str_server_cancel_all": "Tout annuler",
+
+  "str_coffee": "Offrir un café",
+  "str_about_author": "À propos de l'auteur",
+  "str_about_app": "À propos de l'application",
+  "str_rate_app": "Noter l'application",
+
+  "ModeView": "VOIR",
+  "ModeEdit": "MODIFIER"
+}

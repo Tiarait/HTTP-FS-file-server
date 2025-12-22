@@ -1,0 +1,90 @@
+{
+  "Language": "Lingua",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDEE\uD83C\uDDF9",
+
+  "Edit": "Modifica",
+  "Save": "Salva",
+  "UnsavedChangesTitle": "Modifiche non salvate",
+  "UnsavedChangesBody": "Uscire senza salvare?",
+  "EditorNotAvailable": "Editor non disponibile",
+  "SaveError": "Errore di salvataggio",
+
+  "str_open": "Apri",
+  "str_server_rename": "Rinomina",
+  "str_server_move": "Sposta",
+  "str_server_down": "Scarica",
+  "str_server_downzip": "Scarica come ZIP",
+  "str_server_delete": "Elimina",
+  "str_server_cancel": "Annulla",
+  "str_server_ok": "OK",
+
+  "str_view": "Vista",
+  "str_upload": "Carica",
+  "str_add_new": "Aggiungi",
+  "str_select": "Seleziona",
+  "str_sorting": "Ordinamento",
+  "str_sorting_name": "Nome",
+  "str_sorting_type": "Tipo",
+  "str_sorting_size": "Dimensione",
+  "str_sorting_date": "Data",
+
+  "str_folder": "Cartella",
+  "str_file": "File",
+  "str_files": "File",
+
+  "str_error_permission": "Permesso negato",
+
+  "str_theme": "Tema",
+
+  "str_home": "File",
+
+  "str_selected": "Selezionati",
+
+  "str_fullscreen": "Schermo intero",
+
+  "str_overwrite_confirm": "Il file %NAME% esiste già. Sostituirlo?",
+  "str_upload_skipped": "Saltato dall'utente",
+
+  "str_login": "Accedi",
+  "str_login_to": "Accedi per continuare",
+  "str_login_name": "Login",
+  "str_pass": "Password",
+
+  "str_server_hide": "Nascondi",
+  "str_server_cancel_all": "Annulla tutto",
+
+  "str_coffee": "Offri un caffè",
+  "str_about_author": "Informazioni sull'autore",
+  "str_about_app": "Informazioni sull'app",
+  "str_rate_app": "Valuta questa app",
+
+  "str_server_offline": "Server non disponibile",
+  "str_server_reconnect": "Riconnetti",
+
+  "ModeView": "VISUALIZZA",
+  "ModeEdit": "MODIFICA",
+
+  "str_drop_files": "Trascina qui file o cartelle",
+  "str_or_click": "oppure clicca per sfogliare",
+  "str_start_upload": "Avvia caricamento",
+  "str_remove": "Rimuovi",
+  "str_files_count": "file"
+}

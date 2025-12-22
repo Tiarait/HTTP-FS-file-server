@@ -42,6 +42,9 @@
     <string name="under_develop">en desarrollo</string>
     <string name="setting_start_server_title">Iniciar servidor con la aplicación</string>
 
+    <string name="setting_ads_privacy_title">Anuncios y privacidad</string>
+    <string name="setting_ads_privacy_desc">Gestiona los anuncios personalizados y no personalizados y las opciones de privacidad.</string>
+
     <string name="setting_feedback_title">Comentarios</string>
 
     <string name="msg_click_to_start_server">Haz clic aquí para iniciar el servidor de archivos</string>
@@ -160,4 +163,27 @@
 
     <string name="users">Usuarios</string>
     <string name="user">Usuario</string>
+    <string name="from">Desde</string>
+    <string name="to">hasta</string>
+    <string name="file_or_url">Archivo o URL</string>
+    <string name="check_connection_socket">Verificar socket de conexión</string>
+
+    <string name="setting_buffer_size_title">Tamaño del búfer</string>
+    <string name="setting_buffer_size_desc">Afecta la velocidad de transferencia de archivos. Más grande = más rápido, pero usa más memoria.</string>
+    <string name="setting_buffer_size_recommended">Recomendado</string>
+    <string name="setting_buffer_size_reset">RESTABLECER</string>
+
+    <string name="setting_blocked_ips_title">Direcciones IP bloqueadas</string>
+    <string name="setting_blocked_ips_desc">Bloquear el acceso desde direcciones IP específicas. Útil para bloquear conexiones no deseadas.</string>
+    <string name="setting_blocked_ips_summary">%d bloqueadas</string>
+    <string name="setting_blocked_ips_empty">No hay IPs bloqueadas</string>
+    <string name="setting_blocked_ips_list">IPs bloqueadas</string>
+    <string name="setting_blocked_ips_add">Agregar IP bloqueada</string>
+    <string name="setting_blocked_ips_edit">Editar IP bloqueada</string>
+    <string name="setting_blocked_ips_item_desc">Toca para editar o eliminar</string>
+    <string name="setting_blocked_ips_hint">Ingrese dirección IP (ej., 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">La dirección IP no puede estar vacía</string>
+    <string name="setting_blocked_ips_error_invalid">Formato de dirección IP inválido</string>
+    <string name="setting_blocked_ips_error_duplicate">Esta IP ya está bloqueada</string>
+    <string name="setting_blocked_ips_limit">Versión gratuita: hasta %d direcciones IP. Actualiza a Pro para ilimitadas.</string>
 </resources>

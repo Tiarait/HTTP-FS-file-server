@@ -42,6 +42,9 @@
     <string name="under_develop">開発中</string>
     <string name="setting_start_server_title">アプリでサーバーを起動</string>
 
+    <string name="setting_ads_privacy_title">広告とプライバシー</string>
+    <string name="setting_ads_privacy_desc">パーソナライズされた広告と非パーソナライズ広告、およびプライバシー設定を管理します。</string>
+
     <string name="setting_feedback_title">フィードバック</string>
 
 
@@ -161,4 +164,28 @@
 
     <string name="users">ユーザー</string>
     <string name="user">ユーザー</string>
+    <string name="from">から</string>
+    <string name="to">へ</string>
+    <string name="file_or_url">ファイルまたはURL</string>
+    <string name="check_connection_socket">接続ソケットを確認する</string>
+
+
+    <string name="setting_buffer_size_title">バッファサイズ</string>
+    <string name="setting_buffer_size_desc">ファイル転送速度に影響します。大きい = 速いが、より多くのメモリを使用します。</string>
+    <string name="setting_buffer_size_recommended">推奨</string>
+    <string name="setting_buffer_size_reset">リセット</string>
+
+    <string name="setting_blocked_ips_title">ブロックされたIPアドレス</string>
+    <string name="setting_blocked_ips_desc">特定IPアドレスからのアクセスをブロックします。不要な接続をブロックするのに便利です。</string>
+    <string name="setting_blocked_ips_summary">ブロック済み：%d</string>
+    <string name="setting_blocked_ips_empty">ブロックされたIPはありません</string>
+    <string name="setting_blocked_ips_list">ブロックされたIP</string>
+    <string name="setting_blocked_ips_add">ブロックIPを追加</string>
+    <string name="setting_blocked_ips_edit">ブロックIPを編集</string>
+    <string name="setting_blocked_ips_item_desc">タップして編集または削除</string>
+    <string name="setting_blocked_ips_hint">IPアドレスを入力（例：192.168.1.100）</string>
+    <string name="setting_blocked_ips_error_empty">IPアドレスは空にできません</string>
+    <string name="setting_blocked_ips_error_invalid">無効なIPアドレス形式</string>
+    <string name="setting_blocked_ips_error_duplicate">このIPはすでにブロックされています</string>
+    <string name="setting_blocked_ips_limit">無料版：最大%d個IPアドレス。無制限にするにはProにアップグレードしてください。</string>
 </resources>

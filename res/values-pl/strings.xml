@@ -75,6 +75,8 @@
     <string name="btn_settings">Ustawienia</string>
     <string name="msg_click_to_start_server">Kliknij tutaj, aby uruchomić serwer plików</string>
     <string name="msg_click_to_show_info">A tutaj, aby pokazać informacje lub QR kod</string>
+    <string name="setting_ads_privacy_title">Reklamy i prywatność</string>
+    <string name="setting_ads_privacy_desc">Zarządzaj reklamami spersonalizowanymi i niespersonalizowanymi oraz opcjami prywatności.</string>
     <string name="setting_feedback_title">Informacja zwrotna</string>
     <string name="btn_later">Później</string>
     <string name="msg_permissions_notif">Możesz zezwolić powiadomieniom na powiadamianie o poprawnym działaniu aplikacji. Lub odłożyć na później (nie ma to wpływu na funkcjonalność)</string>
@@ -154,4 +156,28 @@
 
     <string name="users">Użytkownicy</string>
     <string name="user">Użytkownik</string>
+    <string name="from">Z</string>
+    <string name="to">do</string>
+    <string name="file_or_url">Plik lub URL</string>
+    <string name="check_connection_socket">Sprawdź gniazdo połączenia</string>
+
+
+    <string name="setting_buffer_size_title">Rozmiar bufora</string>
+    <string name="setting_buffer_size_desc">Wpływa na szybkość przesyłania plików. Większy = szybszy, ale zużywa więcej pamięci.</string>
+    <string name="setting_buffer_size_recommended">Zalecany</string>
+    <string name="setting_buffer_size_reset">RESETUJ</string>
+
+    <string name="setting_blocked_ips_title">Zablokowane adresy IP</string>
+    <string name="setting_blocked_ips_desc">Blokuj dostęp z określonych adresów IP. Przydatne do blokowania niepożądanych połączeń.</string>
+    <string name="setting_blocked_ips_summary">Zablokowano: %d</string>
+    <string name="setting_blocked_ips_empty">Brak zablokowanych IP</string>
+    <string name="setting_blocked_ips_list">Zablokowane IP</string>
+    <string name="setting_blocked_ips_add">Dodaj zablokowane IP</string>
+    <string name="setting_blocked_ips_edit">Edytuj zablokowane IP</string>
+    <string name="setting_blocked_ips_item_desc">Dotknij, aby edytować lub usunąć</string>
+    <string name="setting_blocked_ips_hint">Wprowadź adres IP (np. 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">Adres IP nie może być pusty</string>
+    <string name="setting_blocked_ips_error_invalid">Nieprawidłowy format adresu IP</string>
+    <string name="setting_blocked_ips_error_duplicate">Ten adres IP jest już zablokowany</string>
+    <string name="setting_blocked_ips_limit">Wersja darmowa: do %d adresów IP. Uaktualnij do Pro, aby uzyskać nieograniczoną liczbę.</string>
 </resources>

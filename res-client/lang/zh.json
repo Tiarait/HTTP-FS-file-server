@@ -1,0 +1,81 @@
+{
+  "Language": "语言",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDE8\uD83C\uDDF3",
+
+  "Edit": "编辑",
+  "Save": "保存",
+  "UnsavedChangesTitle": "未保存的更改",
+  "UnsavedChangesBody": "不保存就退出？",
+  "EditorNotAvailable": "编辑器不可用",
+  "SaveError": "保存出错",
+
+  "str_open": "打开",
+  "str_server_rename": "重命名",
+  "str_server_move": "移动",
+  "str_server_down": "下载",
+  "str_server_downzip": "下载为 ZIP",
+  "str_server_delete": "删除",
+  "str_server_cancel": "取消",
+  "str_server_ok": "确定",
+
+  "str_view": "视图",
+  "str_upload": "上传",
+  "str_add_new": "新建",
+  "str_select": "选择",
+  "str_sorting": "排序",
+  "str_sorting_name": "名称",
+  "str_sorting_type": "类型",
+  "str_sorting_size": "大小",
+  "str_sorting_date": "日期",
+
+  "str_folder": "文件夹",
+  "str_file": "文件",
+  "str_files": "文件",
+
+  "str_error_permission": "权限不足",
+
+  "str_theme": "主题",
+
+  "str_home": "文件",
+
+  "str_selected": "已选择",
+
+  "str_fullscreen": "全屏",
+
+  "str_overwrite_confirm": "文件 %NAME% 已存在。要覆盖吗？",
+  "str_upload_skipped": "已被用户跳过",
+
+  "str_login": "登录",
+  "str_login_to": "登录以继续",
+  "str_login_name": "登录名",
+  "str_pass": "密码",
+
+  "str_server_hide": "隐藏",
+  "str_server_cancel_all": "全部取消",
+
+  "str_coffee": "请作者喝咖啡",
+  "str_about_author": "关于作者",
+  "str_about_app": "关于应用",
+  "str_rate_app": "评价此应用",
+
+  "ModeView": "查看",
+  "ModeEdit": "编辑"
+}

@@ -41,6 +41,9 @@
     <string name="under_develop">開發中</string>
     <string name="setting_start_server_title">啟動伺服器與應用程式</string>
 
+    <string name="setting_ads_privacy_title">廣告與隱私</string>
+    <string name="setting_ads_privacy_desc">管理個性化和非個性化廣告以及隱私選項。</string>
+
     <string name="setting_feedback_title">意見回饋</string>
 
     <string name="msg_click_to_start_server">點擊這裡啟動檔案伺服器</string>
@@ -94,7 +97,6 @@
     <string name="certificate">证书</string>
     <string name="certificate_exp">出口证书</string>
 
-    <!-- CHINESE (SIMPLIFIED) -->
     <string name="setting_cat_client">客户端设置</string>
     <string name="setting_cat_battery">电池消耗</string>
     <string name="setting_battery_title">电池权限</string>
@@ -159,4 +161,27 @@
 
     <string name="users">用戶</string>
     <string name="user">用戶</string>
+    <string name="from">從</string>
+    <string name="to">到</string>
+    <string name="file_or_url">文件或網址</string>
+    <string name="check_connection_socket">檢查連接埠</string>
+
+    <string name="setting_buffer_size_title">缓冲区大小</string>
+    <string name="setting_buffer_size_desc">影响文件传输速度。较大 = 较快，但使用更多内存。</string>
+    <string name="setting_buffer_size_recommended">推荐</string>
+    <string name="setting_buffer_size_reset">重置</string>
+
+    <string name="setting_blocked_ips_title">封锁的IP地址</string>
+    <string name="setting_blocked_ips_desc">阻止特定IP地址的访问。用于阻止不需要的连接。</string>
+    <string name="setting_blocked_ips_summary">已封锁：%d</string>
+    <string name="setting_blocked_ips_empty">没有封锁的IP</string>
+    <string name="setting_blocked_ips_list">封锁的IP</string>
+    <string name="setting_blocked_ips_add">添加封锁IP</string>
+    <string name="setting_blocked_ips_edit">编辑封锁IP</string>
+    <string name="setting_blocked_ips_item_desc">点击编辑或删除</string>
+    <string name="setting_blocked_ips_hint">输入IP地址（例如：192.168.1.100）</string>
+    <string name="setting_blocked_ips_error_empty">IP地址不能为空</string>
+    <string name="setting_blocked_ips_error_invalid">无效的IP地址格式</string>
+    <string name="setting_blocked_ips_error_duplicate">该IP已被封锁</string>
+    <string name="setting_blocked_ips_limit">免费版：最多%d个IP地址。升级到Pro版本以获取无限制。</string>
 </resources>

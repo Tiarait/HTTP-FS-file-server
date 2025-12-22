@@ -1,0 +1,81 @@
+{
+  "Language": "Мова",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDFA\uD83C\uDDE6",
+
+  "Edit": "Редагувати",
+  "Save": "Зберегти",
+  "UnsavedChangesTitle": "Незбережені зміни",
+  "UnsavedChangesBody": "Вийти без збереження?",
+  "EditorNotAvailable": "Редактор недоступний",
+  "SaveError": "Помилка збереження",
+
+  "str_open": "Відкрити",
+  "str_server_rename": "Перейменувати",
+  "str_server_move": "Перемістити",
+  "str_server_down": "Завантажити",
+  "str_server_downzip": "Завантажити як ZIP",
+  "str_server_delete": "Видалити",
+  "str_server_cancel": "Скасувати",
+  "str_server_ok": "OK",
+
+  "str_view": "Вигляд",
+  "str_upload": "Завантажити",
+  "str_add_new": "Додати",
+  "str_select": "Вибрати",
+  "str_sorting": "Сортування",
+  "str_sorting_name": "Ім'я",
+  "str_sorting_type": "Тип",
+  "str_sorting_size": "Розмір",
+  "str_sorting_date": "Дата",
+
+  "str_folder": "Папка",
+  "str_file": "Файл",
+  "str_files": "Файли",
+
+  "str_error_permission": "Недостатньо прав",
+
+  "str_theme": "Тема",
+
+  "str_home": "Файли",
+
+  "str_selected": "Вибрано",
+
+  "str_fullscreen": "На весь екран",
+
+  "str_overwrite_confirm": "Файл %NAME% вже існує. Замінити його?",
+  "str_upload_skipped": "Пропущено користувачем",
+
+  "str_login": "Увійти",
+  "str_login_to": "Щоб продовжити, увійдіть",
+  "str_login_name": "Логін",
+  "str_pass": "Пароль",
+
+  "str_server_hide": "Приховати",
+  "str_server_cancel_all": "Скасувати все",
+
+  "str_coffee": "Дати на каву",
+  "str_about_author": "Про автора",
+  "str_about_app": "Про додаток",
+  "str_rate_app": "Оцініть цей застосунок",
+
+  "ModeView": "ПЕРЕГЛЯД",
+  "ModeEdit": "РЕДАГУВАННЯ"
+}

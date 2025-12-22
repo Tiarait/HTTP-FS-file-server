@@ -1,0 +1,90 @@
+{
+  "Language": "語言",
+  "English": "English",
+  "Ukrainian": "Українська",
+  "Polish": "Polski",
+  "Bulgarian": "Български",
+  "German": "Deutsch",
+  "Russian": "Русский",
+  "Portuguese": "Português",
+  "PortugueseBR": "Português (Brasil)",
+  "Italian": "Italiano",
+  "Chinese": "简体中文",
+  "ChineseTraditional": "繁体中文",
+  "French": "Français",
+  "Spanish": "Español",
+  "Vietnamese": "Tiếng Việt",
+  "Hindi": "हिन्दी",
+  "Japanese": "日本語",
+  "Korean": "한국어",
+  "Dutch": "Nederlands",
+  "Flag": "\uD83C\uDDE8\uD83C\uDDF3",
+
+  "Edit": "編輯",
+  "Save": "儲存",
+  "UnsavedChangesTitle": "未儲存的變更",
+  "UnsavedChangesBody": "不儲存就離開？",
+  "EditorNotAvailable": "編輯器不可用",
+  "SaveError": "儲存錯誤",
+
+  "str_open": "開啟",
+  "str_server_rename": "重新命名",
+  "str_server_move": "移動",
+  "str_server_down": "下載",
+  "str_server_downzip": "下載為 ZIP",
+  "str_server_delete": "刪除",
+  "str_server_cancel": "取消",
+  "str_server_ok": "確定",
+
+  "str_view": "檢視",
+  "str_upload": "上傳",
+  "str_add_new": "新增",
+  "str_select": "選擇",
+  "str_sorting": "排序",
+  "str_sorting_name": "名稱",
+  "str_sorting_type": "類型",
+  "str_sorting_size": "大小",
+  "str_sorting_date": "日期",
+
+  "str_folder": "資料夾",
+  "str_file": "檔案",
+  "str_files": "檔案",
+
+  "str_error_permission": "權限不足",
+
+  "str_theme": "主題",
+
+  "str_home": "檔案",
+
+  "str_selected": "已選取",
+
+  "str_fullscreen": "全螢幕",
+
+  "str_overwrite_confirm": "檔案 %NAME% 已存在。要取代它嗎？",
+  "str_upload_skipped": "已由使用者略過",
+
+  "str_login": "登入",
+  "str_login_to": "登入以繼續",
+  "str_login_name": "帳號",
+  "str_pass": "密碼",
+
+  "str_server_hide": "隱藏",
+  "str_server_cancel_all": "全部取消",
+
+  "str_coffee": "請作者喝咖啡",
+  "str_about_author": "關於作者",
+  "str_about_app": "關於應用",
+  "str_rate_app": "評價此應用",
+
+  "str_server_offline": "伺服器離線",
+  "str_server_reconnect": "重新連線",
+
+  "ModeView": "檢視",
+  "ModeEdit": "編輯",
+
+  "str_drop_files": "將檔案或資料夾拖放到這裡",
+  "str_or_click": "或點擊以瀏覽",
+  "str_start_upload": "開始上傳",
+  "str_remove": "移除",
+  "str_files_count": "個檔案"
+}

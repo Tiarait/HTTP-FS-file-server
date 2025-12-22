@@ -42,6 +42,9 @@
     <string name="under_develop">개발 중</string>
     <string name="setting_start_server_title">앱으로 서버 시작</string>
 
+    <string name="setting_ads_privacy_title">광고 및 개인정보 보호</string>
+    <string name="setting_ads_privacy_desc">개인 맞춤형 및 비개인 맞춤형 광고와 개인정보 보호 옵션을 관리합니다.</string>
+
     <string name="setting_feedback_title">피드백</string>
 
 
@@ -161,4 +164,28 @@
 
     <string name="users">사용자</string>
     <string name="user">사용자</string>
+    <string name="from">부터</string>
+    <string name="to">까지</string>
+    <string name="file_or_url">파일 또는 URL</string>
+    <string name="check_connection_socket">연결 소켓 확인</string>
+
+
+    <string name="setting_buffer_size_title">버퍼 크기</string>
+    <string name="setting_buffer_size_desc">파일 전송 속도에 영향을 미칩니다. 크게 = 빠르지만 메모리를 더 사용합니다.</string>
+    <string name="setting_buffer_size_recommended">권장</string>
+    <string name="setting_buffer_size_reset">초기화</string>
+
+    <string name="setting_blocked_ips_title">차단된 IP 주소</string>
+    <string name="setting_blocked_ips_desc">특정 IP 주소의 액세스를 차단합니다. 원치 않는 연결을 차단하는 데 유용합니다.</string>
+    <string name="setting_blocked_ips_summary">차단됨: %d</string>
+    <string name="setting_blocked_ips_empty">차단된 IP 없음</string>
+    <string name="setting_blocked_ips_list">차단된 IP</string>
+    <string name="setting_blocked_ips_add">차단 IP 추가</string>
+    <string name="setting_blocked_ips_edit">차단 IP 편집</string>
+    <string name="setting_blocked_ips_item_desc">탭하여 편집 또는 삭제</string>
+    <string name="setting_blocked_ips_hint">IP 주소 입력 (예: 192.168.1.100)</string>
+    <string name="setting_blocked_ips_error_empty">IP 주소는 비어 있을 수 없습니다</string>
+    <string name="setting_blocked_ips_error_invalid">잘못된 IP 주소 형식</string>
+    <string name="setting_blocked_ips_error_duplicate">이 IP는 이미 차단되었습니다</string>
+    <string name="setting_blocked_ips_limit">무료 버전: 최대 %d개 IP 주소. 무제한으로 Pro로 업그레이드하세요.</string>
 </resources>
