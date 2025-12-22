@@ -55,7 +55,8 @@
     <string name="lang_pt_rBR" translatable="false">Portuguese (Brazilian)</string>
     <string name="lang_ua" translatable="false">Українська</string>
     <string name="lang_vi" translatable="false">Tiếng Việt</string>
-    <string name="lang_zh" translatable="false">漢語</string>
+    <string name="lang_zh_CN" translatable="false">简体中文</string>
+    <string name="lang_zh_TW" translatable="false">繁体中文</string>
 
     <string name="app_name" translatable="false">HTTP FS</string>
 
