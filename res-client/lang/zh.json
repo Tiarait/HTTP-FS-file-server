@@ -76,6 +76,15 @@
   "str_about_app": "关于应用",
   "str_rate_app": "评价此应用",
 
+  "str_server_offline": "服务器离线",
+  "str_server_reconnect": "重新连接",
+
   "ModeView": "查看",
-  "ModeEdit": "编辑"
+  "ModeEdit": "编辑",
+
+  "str_drop_files": "拖拽文件或文件夹到这里",
+  "str_or_click": "或点击去浏览",
+  "str_start_upload": "开始上传",
+  "str_remove": "移除",
+  "str_files_count": "个文件"
 }

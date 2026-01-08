@@ -1,98 +1,98 @@
 <resources>
-    <string name="menu_home">首页</string>
-    <string name="menu_settings">设定</string>
-    <string name="menu_about">关于</string>
+    <string name="menu_home">首頁</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_about">關於</string>
     <string name="version">版本 %s</string>
-    <string name="menu_logs">日志</string>
-    <string name="menu_web">网页</string>
+    <string name="menu_logs">日誌</string>
+    <string name="menu_web">網頁</string>
 
     <string name="share">分享</string>
-    <string name="status_server">服务器：</string>
+    <string name="status_server">伺服器：</string>
     <string name="status_wifi">无线上网：</string>
-    <string name="status_port">端口：</string>
+    <string name="status_port">埠：</string>
 
-    <string name="msg_permissions">需要授权应用才能正确运行。</string>
-    <string name="msg_permissions_notif">您可以提供通知权限以使应用正常运作。或者稍后处理（不会影响功能）。</string>
-    <string name="btn_ok">确定</string>
-    <string name="btn_settings">设定</string>
+    <string name="msg_permissions">應用程式需要授權才能正確運作。</string>
+    <string name="msg_permissions_notif">您可以授權通知以使應用程式正常運作。或者稍後再延遲（不會影響功能）。</string>
+    <string name="btn_ok">確定</string>
+    <string name="btn_settings">設定</string>
     <string name="btn_exit">退出</string>
-    <string name="btn_later">稍后</string>
+    <string name="btn_later">稍後</string>
 
-    <string name="setting_port_title">端口</string>
+    <string name="setting_port_title">埠</string>
 
-    <string name="setting_name_title">名称</string>
+    <string name="setting_name_title">名稱</string>
 
-    <string name="setting_cat_app">应用设定</string>
-    <string name="setting_cat_server">服务器设定</string>
+    <string name="setting_cat_app">應用程式設定</string>
+    <string name="setting_cat_server">伺服器設定</string>
 
-    <string name="setting_path_title">文件夹路径</string>
+    <string name="setting_path_title">資料夾路徑</string>
 
     <string name="setting_file_title">初始文件</string>
-    <string name="setting_secure_title">使用密码</string>
-    <string name="setting_pass_title">密码</string>
-    <string name="setting_session_title">会话时间（分钟）</string>
-    <string name="setting_permission_title">权限</string>
-    <string name="setting_permission_val_read">读取</string>
-    <string name="setting_permission_val_write">写入</string>
+    <string name="setting_secure_title">使用密碼</string>
+    <string name="setting_pass_title">密碼</string>
+    <string name="setting_session_title">會話時間（分鐘）</string>
+    <string name="setting_permission_title">權限</string>
+    <string name="setting_permission_val_read">讀取</string>
+    <string name="setting_permission_val_write">寫入</string>
 
     <string name="setting_servtype_title">服务器类型</string>
-    <string name="setting_start_app_title">使用设备启动服务器</string>
-    <string name="setting_start_app_desc">此功能可能在某些设备上无法运行，并且某些设备可能需要额外的系统权限。</string>
-    <string name="under_develop">开发中</string>
-    <string name="setting_start_server_title">使用应用启动服务器</string>
+    <string name="setting_start_app_title">使用裝置啟動伺服器</string>
+    <string name="setting_start_app_desc">此功能可能在某些設備上無法運作，並且某些設備可能需要額外的系統權限。</string>
+    <string name="under_develop">開發中</string>
+    <string name="setting_start_server_title">啟動伺服器與應用程式</string>
 
     <string name="setting_ads_privacy_title">廣告與隱私</string>
     <string name="setting_ads_privacy_desc">管理個人化與非個人化廣告以及隱私選項。</string>
 
-    <string name="setting_feedback_title">意见回馈</string>
+    <string name="setting_feedback_title">意見回饋</string>
 
-    <string name="msg_click_to_start_server">点击这里启动文件服务器</string>
-    <string name="msg_click_to_show_info">以及这里显示信息或二维码</string>
+    <string name="msg_click_to_start_server">點擊這裡啟動檔案伺服器</string>
+    <string name="msg_click_to_show_info">以及這裡顯示資訊或QR碼</string>
 
-    <string name="error_permission">错误，无权限！</string>
-    <string name="error_wifi_disable">看起来 Wi-Fi 已关闭！</string>
-    <string name="error_wifi_disable_text">要使用服务器，用户必须在相同的 Wi-Fi 网络上。</string>
+    <string name="error_permission">錯誤，無權限！</string>
+    <string name="error_wifi_disable">看起來Wi-Fi已關閉！</string>
+    <string name="error_wifi_disable_text">要使用伺服器，用戶必須在相同的Wi-Fi網路上。</string>
 
-    <string name="html_server_home">文件</string>
-    <string name="html_server_upload">上传文件</string>
-    <string name="html_server_folder">文件夹</string>
-    <string name="html_server_files">文件</string>
-    <string name="html_server_name">名称</string>
+    <string name="html_server_home">檔案</string>
+    <string name="html_server_upload">上傳檔案</string>
+    <string name="html_server_folder">資料夾</string>
+    <string name="html_server_files">檔案</string>
+    <string name="html_server_name">名稱</string>
     <string name="html_server_size">大小</string>
     <string name="html_server_date">日期</string>
     <string name="str_server_cancel">取消</string>
-    <string name="str_server_uploading">上传中</string>
-    <string name="str_server_warn_save">无法打开此文件。要<b>保存</b>吗？</string>
+    <string name="str_server_uploading">上傳中</string>
+    <string name="str_server_warn_save">無法打開此檔案。要<b>儲存</b>嗎？</string>
     <string name="str_server_yes">是</string>
     <string name="str_server_no">否</string>
     <string name="str_server_rename">重新命名</string>
-    <string name="str_server_move">移动</string>
-    <string name="str_server_downzip">下载为 ZIP</string>
-    <string name="str_server_down">下载</string>
-    <string name="str_server_delete">删除</string>
-    <string name="str_create_folder">新建文件夹</string>
-    <string name="str_create_file">新建文件</string>
-    <string name="long_copy">长按以复制</string>
-    <string name="copied">已复制</string>
+    <string name="str_server_move">移動</string>
+    <string name="str_server_downzip">下載為ZIP</string>
+    <string name="str_server_down">下載</string>
+    <string name="str_server_delete">刪除</string>
+    <string name="str_create_folder">建立資料夾</string>
+    <string name="str_create_file">建立檔案</string>
+    <string name="long_copy">長按以複製</string>
+    <string name="copied">已複製</string>
 
-    <string name="file_is_empty">文件是空的</string>
-    <string name="delete_log_file">删除日志文件吗?</string>
-    <string name="long_filer_click">长按以清除筛选器</string>
-    <string name="logs_paused">在此期间日志将被暂停。\n您可以在设定中禁用日志。</string>
-    <string name="lang_select">选择语言</string>
-    <string name="lang_def">默认</string>
+    <string name="file_is_empty">檔案是空的</string>
+    <string name="delete_log_file">刪除日誌檔案嗎?</string>
+    <string name="long_filer_click">長按以清除篩選器</string>
+    <string name="logs_paused">在此期間日誌將被暫停。\n您可以在設定中禁用日誌。</string>
+    <string name="lang_select">選擇語言</string>
+    <string name="lang_def">默認</string>
 
     <string name="stop">停止</string>
-    <string name="server_running">服务器运行中</string>
+    <string name="server_running">伺服器運行中</string>
 
     <string name="logout">登出</string>
-    <string name="d_logout_users">要登出所有用户吗？</string>
+    <string name="d_logout_users">要登出所有用戶嗎？</string>
 
-    <string name="rate_five_stars">评价此应用</string>
-    <string name="more_apps">更多我的应用</string>
-    <string name="about_text">大家好，我是来自乌克兰的开发者。如果您对应用程式有任何建议或合作的想法 - 请与我联系。不要忘记评价应用 - 这是唯一能激励我继续开发的动力。</string>
-    <string name="about_me">关于作者</string>
-    <string name="home">首页</string>
+    <string name="rate_five_stars">評價此應用程式</string>
+    <string name="more_apps">更多我的應用程式</string>
+    <string name="about_text">大家好，我是來自烏克蘭的開發者。如果您對應用程式有任何建議或合作的想法 - 請與我聯繫。不要忘記評價應用程式 - 這是唯一能激勵我繼續開發的動力。</string>
+    <string name="about_me">關於作者</string>
+    <string name="home">首頁</string>
     <string name="refresh">刷新</string>
     <string name="certificate">证书</string>
     <string name="certificate_exp">出口证书</string>
@@ -159,8 +159,8 @@
 
     <string name="setting_redirects_title">重新導向</string>
 
-    <string name="users">用户</string>
-    <string name="user">用户</string>
+    <string name="users">用戶</string>
+    <string name="user">用戶</string>
     <string name="from">從</string>
     <string name="to">到</string>
     <string name="file_or_url">檔案或網址</string>
