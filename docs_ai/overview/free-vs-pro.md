@@ -19,7 +19,7 @@ Both can be installed together. Notifications, prefs, and ports are isolated by 
 | Capability | Free | Pro |
 |------------|------|-----|
 | Ads (AdMob) | Yes | No |
-| HTTP / WebDAV / API / RSS | Yes | Yes |
+| HTTP / WebDAV / API / RSS / Info / FTP | Yes | Yes |
 | SSL certificate library | Yes | Yes |
 | Multiple users | Limited (effectively one) | Unlimited |
 | Redirects | No (Pro-gated) | Yes (experimental) |
@@ -27,20 +27,20 @@ Both can be installed together. Notifications, prefs, and ports are isolated by 
 | Custom server / welcome text | Limited | Yes |
 | Home-screen server widgets | No | Yes |
 | App shortcuts (start server) | No | Yes |
-| Custom web favicon | Default | Optional `custom_icon.ico` |
+| Custom web favicon | Default | Optional custom icon |
 | Blocked IPs | Capped | Unlimited |
 
-Runtime checks go through `UtilsPro` → `ua.tiar.slf.pro.ExtendUtils` (implemented differently in `:free` vs `:pro`).
+Runtime checks go through the Pro façade (different implementations in `:free` vs `:pro`).
 
 ## UI / marketing
 
-- Free shows ads and Pro upgrade entry points (`UtilsDialog.openProDialog`, preference Pro labels).
+- Free shows ads and Pro upgrade entry points.
 - Pro hides ad surfaces and enables widgets in the Pro manifest overlay.
 
-## Implementation notes for agents
+## Implementation notes
 
-- Do **not** fork business logic into flavor source sets unless necessary; prefer `UtilsPro` / `ExtendUtils`.
-- Flavor manifests live under `app/src/free` and `app/src/pro` and merge with `app/src/main`.
+- Do **not** fork business logic into flavor source sets unless necessary; prefer the Pro façade.
+- Flavor manifests merge with `main`.
 - Shared FGS / permissions stay in `main`; Pro adds widgets and shortcuts.
 
 See also [../modules/free-pro.md](../modules/free-pro.md).

@@ -35,7 +35,8 @@ PROPFIND / mutations resolve via `resolveWebDavAccess()` / logical WebDAV path h
 
 ## Implementation
 
-`app/src/main/java/tiar/ua/slf/server/routes/RouteWebdav.kt`  
-Listing XML: `WebDavListingAdapter` / related helpers.
+WebDAV methods and listing XML are implemented in the server WebDAV route module. For protocol edge cases, trust the running app / source over this table.
 
-For protocol edge cases, trust the Kotlin source over this table.
+## REST API alternative
+
+For JSON listing, search, and scripted uploads, use **`/api/files/*`** — [api-automation.md](api-automation.md). WebDAV uses **Basic** auth; REST uses a **session cookie**.

@@ -2,45 +2,47 @@
 
 ## Stack
 
-- **Ktor 2.3.12** embedded server
-- Engines: **CIO** or **Netty** (custom `NettyApplicationEngine` available)
+- **Ktor** embedded server
+- Engines: **CIO** or **Netty**
 - **HTTPS** forces **Netty**
-- Extra: netty-tcnative BoringSSL, BouncyCastle for certs
+- Optional **FTP** listener on a separate port
+- Extra: native SSL helpers and BouncyCastle for certificates
 
 ## Lifecycle
 
-1. `App.startServer()` / `startService()`
-2. `NotifService` → `startForeground` (`specialUse` on API 34+)
-3. `KtorServer.start()` binds host + port
-4. Stop via notification action, Home UI, or `tryStop()`
+1. User starts from Home / TV / widget / boot
+2. Foreground service → `startForeground` (`specialUse` on API 34+)
+3. Server binds host + port (and optional FTP)
+4. Stop via notification, Home/TV UI, or clean shutdown helpers
 
-`START_STICKY` + wake lock keep the process useful while the notification is active.
+Wake lock + sticky-style service behavior keep the process useful while the notification is active. Network-driven stop/rebind: [network-address.md](network-address.md).
 
 ## Main URL map
 
-| Path | Purpose |
-|------|---------|
-| `/` | Redirect / landing |
-| `/files/...` | Web file manager HTML UI |
-| `/web/template/...` | Static web assets |
-| `/webdav/...` | WebDAV |
-| `/api/...` | REST + WebSockets |
-| `/rss/...` | RSS feed |
-| `/login` | Login when password auth enabled |
+| Path | Purpose | Default |
+|------|---------|---------|
+| `/` | Redirect / landing | Always |
+| `/files/...` | Web file manager | Files UI **ON** |
+| `/web/template/...` | Static web assets | Always (when serving UI) |
+| `/webdav/...` | WebDAV | **OFF** |
+| `/api/...` | REST + WebSockets | Always (API surface) |
+| `/rss/...` | RSS feed | **ON** |
+| `/info/...` | Device/server info HTML/JSON | **OFF** |
+| `/login` | Login when password auth enabled | When password on |
 
-Route name constants live on `App` (`fmDirName`, webdav, api, rss).
+FTP uses `ftp://host:ftpPort/` (default FTP port **2121**), not an HTTP path.
 
 ## Configuration (high level)
 
-From `Settings` / server settings UI:
+From Server settings:
 
-- Bind IP / interface selection
-- Port
+- Address / interface selection (+ On IP change)
+- Port (+ FTP port when FTP on)
 - Engine type
 - Buffer size
-- SSL on/off + selected certificate id
+- SSL on/off + selected certificate
 - Auth, users, session timeout
-- WebDAV / RSS toggles
+- Interface toggles: Files UI, WebDAV, RSS, Info, FTP
 - Root path / multi-volume
 - Initial file + optional hard redirect
 - Blocked IPs, redirects (Pro)
@@ -54,10 +56,11 @@ From `Settings` / server settings UI:
 
 ## Logging
 
-Server and app logs surface in the Logs tab; useful for bind failures (port in use) and SSL errors.
+Server and app logs surface in the Logs tab / TV Logs menu; useful for bind failures (port in use) and SSL errors.
 
 ## Related
 
+- [network-address.md](network-address.md)
 - [webdav.md](webdav.md)
 - [api.md](api.md)
 - [rss.md](rss.md)

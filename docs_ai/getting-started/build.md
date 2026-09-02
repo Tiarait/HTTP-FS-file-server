@@ -32,7 +32,7 @@ settings.gradle → :app :free :pro :acme
 ./gradlew installFreeDebug
 ```
 
-Output APKs are named like `HttpFS-1.1.22.apk` (`archivesName` in `app/build.gradle`).
+Output APKs are named like `HttpFS-1.2.7.apk` (`archivesName` in `app/build.gradle`).
 
 ## Versioning
 

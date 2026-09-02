@@ -2,13 +2,13 @@
 
 ## Endpoint
 
-Base path: **`/webdav/`** (see `App` / `RouteWebdav`).
+Base path: **`/webdav/`**.
 
 Works over HTTP or HTTPS depending on server SSL settings.
 
 ## Supported operations (typical)
 
-PROPFIND, GET, PUT, DELETE, MOVE, COPY, MKCOL, LOCK/UNLOCK (as implemented in `RouteWebdav`).
+PROPFIND, GET, PUT, DELETE, MOVE, COPY, MKCOL, LOCK/UNLOCK (as implemented).
 
 **Method table:** [../reference/webdav-methods.md](../reference/webdav-methods.md)
 
@@ -28,12 +28,10 @@ Examples that users commonly try:
 
 ## Storage
 
-Paths are resolved through the same `storage/` layer as the web UI (File API or SAF). Multi-volume mode exposes volume roots consistently with `/files`.
+Paths use the same storage resolution as the web UI (File API or SAF). Multi-volume mode exposes volume roots consistently with `/files`.
 
 ## Toggle
 
-Server settings include a WebDAV enable switch (**default off**). When disabled, WebDAV routes are not served.
+Server → Interfaces → WebDAV (**default off**). When disabled, WebDAV routes are not served.
 
-## Implementation entry
-
-`app/src/main/java/tiar/ua/slf/server/routes/RouteWebdav.kt`
+User guide: [../user/connect-clients.md](../user/connect-clients.md).

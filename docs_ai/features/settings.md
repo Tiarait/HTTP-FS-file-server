@@ -1,27 +1,27 @@
 # Settings (developer map)
 
-UI is built in code (`PreferenceCustom`, nested `SettingsActivity` screens), not XML preference graphs.
+UI is built in code (custom preference rows, nested settings activity), not XML preference graphs.
 
 **End-user explanations:** [../user/settings-guide.md](../user/settings-guide.md)
 
-## Categories (code)
+## Categories
 
-| Area | Fragment |
-|------|----------|
-| App | `SettingsFragmentApp` |
-| Server | `SettingsFragmentServer` |
-| Client | `SettingsFragmentClient` |
-| Users / edit | `SettingsFragmentUsers`, `SettingsFragmentUserEdit` |
-| Redirects | `SettingsFragmentRedirects` |
-| Hidden files | `SettingsFragmentHiddenF` |
-| Blocked IPs | `SettingsFragmentBlockedIps` |
-| Certificates / edit | `SettingsFragmentCertificates`, `SettingsFragmentCertificateEdit` |
+| Area | Notes |
+|------|-------|
+| App | Language, boot/start, logs, battery, ads (Free), clear data |
+| Server | Interfaces, Address, port, root, engine, auth, SSL, … |
+| Client | Welcome, hide files, thumbs, folder size, connection check |
+| Users / edit | When password protection is on |
+| Redirects | Pro |
+| Hidden files | Pro-oriented |
+| Blocked IPs | Free capped / Pro unlimited |
+| Certificates / edit | Auto / Import / Let’s Encrypt |
 
-Category extras: `Utils.SETTINGS_CAT_*`.
+TV also has **Quick settings** from Home (short Server subset).
 
 ## TV
 
-Leanback `VerticalGridView` on TV lists; certificate edit uses focusable rows + `ensureFocus()`. See [../development/tv-focus.md](../development/tv-focus.md).
+Leanback vertical lists on TV; certificate edit uses focusable rows + focus recovery. See [../development/tv-focus.md](../development/tv-focus.md).
 
 ## Pref keys
 

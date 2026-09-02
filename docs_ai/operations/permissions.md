@@ -1,6 +1,6 @@
 # Permissions
 
-Declared mainly in `app/src/main/AndroidManifest.xml` (flavor overlays add ads / widgets).
+Declared in the main app manifest (flavor overlays add ads / widgets).
 
 ## Network
 

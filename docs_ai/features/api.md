@@ -2,41 +2,54 @@
 
 ## Base path
 
-**`/api/...`** — implemented in `RouteApi.kt` (and helpers).
+**`/api/files/…`** (full mount: `/api` + `files`).
 
-The bundled web UI talks to this API for listing, uploads, renames, deletes, zip, thumbnails, etc.
+The bundled web UI (`client_HttpFS`) uses this API for listing, uploads, renames, deletes, zip, search, prefs sync, etc.
+
+## Documentation map
+
+| Doc | For |
+|-----|-----|
+| [../reference/api-routes.md](../reference/api-routes.md) | Complete route & WebSocket reference |
+| [../reference/api-automation.md](../reference/api-automation.md) | **curl, scripts, HA** — auth, paths, recipes |
+| [../reference/storage-paths.md](../reference/storage-paths.md) | `path=` rules, multi-volume |
+| [../reference/websocket-zip.md](../reference/websocket-zip.md) | ZIP download socket |
+| [../reference/websocket-events.md](../reference/websocket-events.md) | Live events socket |
 
 ## Capabilities (overview)
 
-Exact paths evolve with the web client; conceptually the API covers:
+- Directory **list** / **tree** / **stat** / **size**
+- **Upload** (with Content-Range resume), **download** via `/api/files/file`
+- **Create**, **save** (text), **delete**, **rename**, **move**, **copy**
+- **Search** over WebSocket (glob, regex)
+- **Folder size** over WebSocket (progress)
+- **ZIP** build over WebSocket
+- **Transfer** socket (chunked put/get)
+- Per-user **prefs** (GET/PUT/DELETE)
+- **Live events** (list changed, notices, battery)
 
-- Directory listing / tree
-- Upload / download
-- Rename, move, copy, delete
-- Zip download
-- Thumbnails
-- Live events over **WebSockets** (`LiveEventHub`)
-
-**Full route table:** [../reference/api-routes.md](../reference/api-routes.md)  
-ZIP framing: [../reference/websocket-zip.md](../reference/websocket-zip.md) · Events: [../reference/websocket-events.md](../reference/websocket-events.md)  
-Prefer reading `RouteApi.kt` and `client/src/js/` if that table drifts.
+There is **no** public admin REST API yet (users, redirects, server config remain Android Settings).
 
 ## Auth
 
-Same session / Basic / anonymous rules as the HTML UI. Rights are reflected in runtime `config.js` for the browser client.
+| Mode | REST API |
+|------|----------|
+| Password off | Anonymous; global Read/Write |
+| Password on | **Session cookie** after `POST /login` |
+
+WebDAV uses **HTTP Basic** on `/webdav/` — not the same as REST auth. See [users-auth.md](users-auth.md) and [api-automation.md](../reference/api-automation.md).
 
 ## WebSockets
 
-Used for live updates (storage changes, operation progress). Keep the connection on the same host/port as the server.
+Same host/port as HTTP. Cookie required on upgrade when password is on.
 
 ## Errors
 
-JSON error payloads for volume/SAF failures are normalized via storage helpers (`respondVolumeErrorJson`, etc.).
+Normalized JSON: `error` + `message`. Volume codes: `VOLUME_*`. See [api-routes.md](../reference/api-routes.md).
 
 ## Related
 
-- [../reference/api-routes.md](../reference/api-routes.md)
-- [../reference/storage-paths.md](../reference/storage-paths.md)
-- [../modules/client.md](../modules/client.md)
-- [storage.md](storage.md)
 - [users-auth.md](users-auth.md)
+- [storage.md](storage.md)
+- [../modules/client.md](../modules/client.md)
+- [../user/web-client.md](../user/web-client.md)

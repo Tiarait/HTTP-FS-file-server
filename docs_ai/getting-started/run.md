@@ -10,8 +10,8 @@
 
 1. Splash / permission flow: notifications (API 33+), storage access.
 2. Open **Home** → start the server.
-3. Note the URL in the status / notification (`http://{ip}:{port}`).
-4. From another device on the same Wi‑Fi, open that URL in a browser.
+3. Note the URL on the status card / notification (`http://{ip}:{port}`). Use Refresh / Address / Copy / QR / Share as needed.
+4. From another device on the same Wi‑Fi (or this device’s hotspot), open that URL in a browser.
 
 Defaults:
 
@@ -23,9 +23,12 @@ Change under **Settings → Server → Port**.
 ## Android TV
 
 - Leanback launcher entry is enabled.
-- Settings lists use Leanback `VerticalGridView` and D-pad focus.
+- Guided **TV Home**: branding or large QR on the left; status card, address actions, and menu on the right.
+- Settings lists and dialogs use leanback overlays; QR uses a dedicated TV QR panel.
 - Certificate list: OK selects / opens selected; long-press opens Edit.
 - Certificate edit: focusable rows, TV padding, focus recovery when panels change.
+
+See [../development/tv-focus.md](../development/tv-focus.md).
 
 ## Keeping the server alive
 

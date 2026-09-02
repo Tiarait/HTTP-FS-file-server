@@ -4,36 +4,31 @@ Thin Android library modules with a **shared API surface** and different impleme
 
 ## API surface (conceptually)
 
-- `ua.tiar.slf.pro.ExtendUtils` — `isPro()`, user list limits, redirects/hidden-files helpers, etc.
+- Pro capability checks and Free limits (users, redirects, hidden files, …)
 - Ad initialization hooks (real AdMob in free; no-ops / absent in pro)
 
-`:app` depends on one of them via flavor:
-
-```text
-freeImplementation project(':free')
-proImplementation project(':pro')
-```
+`:app` depends on one of them via flavor (`freeImplementation` / `proImplementation`).
 
 ## Free (`:free`)
 
-- `ExtendUtils.isPro() == false`
+- Not Pro
 - AdMob SDK + APPLICATION_ID in free manifest
 - `AD_ID` permission
-- Enforces free limits when called from `UtilsPro`
+- Enforces free limits when called from the app façade
 
 ## Pro (`:pro`)
 
-- `ExtendUtils.isPro() == true`
+- Is Pro
 - No ads
 - Full multi-user / redirects / hidden files persistence behavior
 
 ## App-side façade
 
-Prefer `tiar.ua.slf.utils.UtilsPro` inside `:app` instead of calling `ExtendUtils` everywhere. That keeps call sites clean and testable.
+Prefer the in-app Pro façade instead of calling the companion API everywhere. That keeps call sites clean.
 
 ## Manifest split
 
-Widget providers and app shortcuts are declared in **`app/src/pro/AndroidManifest.xml`**, not inside the `:pro` AAR necessarily — check both when changing Pro-only entry points.
+Widget providers and app shortcuts are declared in the **Pro app source set** (and may also involve the `:pro` library) — check both when changing Pro-only entry points.
 
 ## Related
 

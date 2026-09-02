@@ -1,7 +1,7 @@
 # WebSocket ZIP download protocol
 
 Endpoint: **`WS /api/files/download-zip`**  
-Server: `RouteApi` · Client: `client/src/js/dialogs/special.js` (`createDialogZip`).
+Server: `RouteApiZip` · Client: `client_HttpFS` (ZIP via WebSocket in ops layer).
 
 Requires read permission. Needs roughly **≥ 50 MB** free space or the socket gets an `Error#21` text frame and exits.
 
@@ -40,6 +40,6 @@ Cancel: client closes the socket → server deletes temp and aborts.
 - Single item → zip named `{thatName}.zip`; multiple → `HttpFs-files-{n}.zip`.
 - Progress percents may cap at **99** until the final metadata frame.
 - Binary frames are raw chunks; the browser accumulates `Blob`s then downloads.
-- Prefer reading `createDialogZip` + `RouteApi` download-zip if the framing changes.
+- Prefer reading `RouteApiZip.kt` + client transfer/ops code if the framing changes.
 
 See also [api-routes.md](api-routes.md).

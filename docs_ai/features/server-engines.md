@@ -1,12 +1,8 @@
 # Server engines (CIO / Netty)
 
-Selection lives in `KtorServer` after reading Server → engine type (`servtype_key0`, often `"Auto"`).
+Selection comes from Server → Server type (often **Auto**).
 
 ## Decision
-
-```text
-useNetty = (type == Netty) || (type == "Auto") || sslEnabled
-```
 
 | Case | Engine |
 |------|--------|
@@ -15,26 +11,24 @@ useNetty = (type == Netty) || (type == "Auto") || sslEnabled
 | Explicit Netty | Netty |
 | Explicit CIO | CIO (HTTP only) |
 
-HTTPS uses `sslConnector` with KeyStore from `SslCertificateResolver` / selected profile. Bind host from IP setting: `0.0.0.0`, `127.0.0.1`, or a specific address.
+HTTPS uses an SSL connector with the KeyStore from the selected certificate profile. Bind host follows **Address**: all interfaces (`0.0.0.0`), localhost, or a specific IP — see [network-address.md](network-address.md).
 
 ## Netty tuning (why it matters)
 
-Comments in code: large buffer + short write timeout broke slow Wi‑Fi video. Current knobs:
+Large buffers with very short write timeouts broke slow Wi‑Fi video. Current knobs (order of magnitude):
 
-- `responseWriteTimeoutSeconds = 60`
-- `requestQueueLimit = 100`
-- `HttpServerCodec` max chunk size tied to **buffer size** setting (`coerceAtLeast` default decoder chunk)
+- Longer response write timeout (~60s)
+- Request queue limit
+- HTTP codec chunk size tied to the **buffer size** setting
 
-CIO path: `connectionIdleTimeoutSeconds = 60`. CIO uses smaller HTTP chunks and does **not** honor buffer size the same way for uploads — another reason Auto → Netty.
-
-Custom `Netty2` factory exists in source but is not the active default path.
+CIO uses shorter idle timeouts and does **not** honor buffer size the same way for uploads — another reason Auto → Netty.
 
 ## Plugins (both engines)
 
-Installed in `module()` roughly: CallLogging, ForwardedHeaders, Compression, PartialContent, WebSockets, StatusPages, Sessions, Authentication, then routes (redirects, `/`, files, login, API, optional WebDAV/RSS).
+Typical install order: logging, forwarded headers, compression, partial content, websockets, status pages, sessions, authentication, then routes (redirects, `/`, files, login, API, optional WebDAV/RSS/Info).
 
 ## Related
 
-- [../features/http-server.md](../features/http-server.md)
+- [http-server.md](http-server.md)
 - [../operations/lifecycle.md](../operations/lifecycle.md)
-- [../features/ssl-certificates.md](../features/ssl-certificates.md)
+- [ssl-certificates.md](ssl-certificates.md)
